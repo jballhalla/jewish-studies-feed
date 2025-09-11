@@ -1,4 +1,4 @@
-name: Crawl Jewish Studies
+name: Crawl Jewish Studies Crossref
 
 on: 
    workflow_dispatch:

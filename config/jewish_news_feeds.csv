@@ -1,11 +1,11 @@
-source,url
-The Jewish News of Northern California,https://www.jweekly.com/feed/
-eJewishPhilanthropy,https://ejewishphilanthropy.com/feed/
-Jewish Telegraphic Agency,https://www.jta.org/feed/
-The Forward,https://forward.com/feed/
-Times of Israel,https://www.timesofisrael.com/feed/
-Jewish Journal,https://jewishjournal.com/feed/
-JNS,https://www.jns.org/feed/
-Algemeiner,https://www.algemeiner.com/feed/
-Jewish Currents,https://jewishcurrents.org/feed/
-Haaretz,https://www.haaretz.com/srv/haaretz-latest-headlines/
+source,url,active
+J. Weekly,https://www.jweekly.com/feed/,true
+eJewish Philanthropy,https://ejewishphilanthropy.com/feed/,true
+JTA,https://www.jta.org/feed/,true
+The Forward,https://forward.com/feed/,true
+Times of Israel,https://www.timesofisrael.com/feed/,true
+Jewish Journal,https://jewishjournal.com/feed/,true
+JNS,https://www.jns.org/feed/,true
+Algemeiner,https://www.algemeiner.com/feed/,true
+Jewish Currents,https://jewishcurrents.org/feed/,true
+Haaretz,https://www.haaretz.com/srv/all-headlines-rss,true

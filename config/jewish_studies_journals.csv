@@ -1,27 +1,27 @@
-issn,journal_full,journal_short
-0364-0094,AJS Review,AJS Rev
-1524-4113,Journal of Jewish Education,J Jewish Ed
-0022-2097,Journal of Jewish Studies,J Jewish Stud
-1086-3273,Modern Judaism,Mod Judaism
-1527-2028,Jewish Social Studies,Jewish Soc Stud
-1086-3141,American Jewish History,Am Jewish Hist
-0334-701X,Jewish History,Jewish Hist
-0147-1694,Contemporary Jewry,Contemp Jewry
-1472-5894,Journal of Modern Jewish Studies,J Mod Jewish Stud
-2167-9428,Jewish Culture and History,Jewish Cult Hist
-1553-0604,Jewish Quarterly Review,Jewish Q Rev
-0014-3006,European Judaism,Eur Judaism
-1783-1792,Studia Rosenthaliana,Stud Rosenth
-1872-471X,European Journal of Jewish Studies,Eur J Jewish Stud
-1527-201X,Israel Studies,Israel Stud
-2693-5155,Judaism,Judaism
-1743-971X,East European Jewish Affairs,East Eur Jewish Aff
-8756-6583,Holocaust and Genocide Studies,Holo Geno Stud
-0272-9601,Prooftexts,Prooftxts
-2327-3968,Shofar,Shofar
-1947-4717,Conservative Judaism,Conserv Judaism
-2472-9906,Journal of Contemporary Antisemitism,J Contemp Judaism
-0484-8616,Revue des Études Juives,R Études Juives
-1946-2522,Journal of Jewish Identities,J Jewish Iden
-2327-5545,Studies in American Jewish Literature,Am Jew Lit
-1565-5288,Nashim,Nashim
+issn,journal_name,journal_abbrev,active
+0364-0094,AJS Review,AJS Rev,true
+1524-4113,Journal of Jewish Education,J Jewish Ed,true
+0022-2097,Journal of Jewish Studies,J Jewish Stud,true
+1086-3273,Modern Judaism,Mod Judaism,true
+1527-2028,Jewish Social Studies,Jewish Soc Stud,true
+1086-3141,American Jewish History,Am Jewish Hist,true
+0334-701X,Jewish History,Jewish Hist,true
+0147-1694,Contemporary Jewry,Contemp Jewry,true
+1472-5894,Journal of Modern Jewish Studies,J Mod Jewish Stud,true
+2167-9428,Jewish Culture and History,Jewish Cult Hist,true
+1553-0604,Jewish Quarterly Review,Jewish Q Rev,true
+0014-3006,European Judaism,Eur Judaism,true
+1783-1792,Studia Rosenthaliana,Stud Rosenth,true
+1872-471X,European Journal of Jewish Studies,Eur J Jewish Stud,true
+1527-201X,Israel Studies,Israel Stud,true
+2693-5155,Judaism,Judaism,true
+1743-971X,East European Jewish Affairs,East Eur Jewish Aff,true
+8756-6583,Holocaust and Genocide Studies,Holo Geno Stud,true
+0272-9601,Prooftexts,Prooftxts,true
+2327-3968,Shofar,Shofar,true
+1947-4717,Conservative Judaism,Conserv Judaism,true
+2472-9906,Journal of Contemporary Antisemitism,J Contemp Judaism,true
+0484-8616,Revue des Études Juives,R Études Juives,true
+1946-2522,Journal of Jewish Identities,J Jewish Iden,true
+2327-5545,Studies in American Jewish Literature,Am Jew Lit,true
+1565-5288,Nashim,Nashim,true

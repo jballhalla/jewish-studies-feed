@@ -3,7 +3,7 @@ name: Crawl Jewish Studies Journals (Crossref)
 on: 
   workflow_dispatch:
   schedule:
-    # Every Sunday at 6:00 AM UTC (weekly run)
+    # Every Friday at 6:00 AM UTC (weekly run for Friday digest)
     - cron: "0 6 * * 5"
 
 jobs:
@@ -28,9 +28,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create directories and initialize memory files
+      - name: Create directories
         run: |
-          python init_memory_files.py
+          mkdir -p data/memory
+          mkdir -p data/output
 
       - name: Run Crossref crawler
         run: |

@@ -26,7 +26,7 @@ def main():
     crawler.save_articles(articles)
     
     # Generate output JSON (last 7 days)
-    crawler.generate_output_json('data/output/news_articles.json', days_back=7)
+    # crawler.generate_output_json('data/output/news_articles.json', days_back=7)
     
     print(f"RSS crawl completed. Found {len(articles)} new articles.")
     

@@ -313,31 +313,32 @@ class RSSCrawler:
         if not articles:
             self.logger.info("No new articles to save")
             return
-        
+    
         # Create DataFrame
         new_df = pd.DataFrame(articles)
-        
+    
         # Load existing data and combine
         try:
             existing_df = pd.read_csv(self.memory_file)
             combined_df = pd.concat([existing_df, new_df], ignore_index=True)
         except (FileNotFoundError, pd.errors.EmptyDataError):
             combined_df = new_df
-        
+    
         # Remove duplicates based on link and save
         combined_df = combined_df.drop_duplicates(subset=['link'], keep='first')
-        
+    
         # Sort by scraped_at descending to keep most recent first
-        combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'])
+        # Use format='ISO8601' to handle ISO datetime strings properly
+        combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='ISO8601')
         combined_df = combined_df.sort_values('scraped_at', ascending=False)
-        
+    
         # Keep only last 30 days to prevent file from growing too large
         thirty_days_ago = datetime.now() - timedelta(days=30)
         combined_df = combined_df[combined_df['scraped_at'] >= thirty_days_ago]
-        
+    
         # Save to CSV
         combined_df.to_csv(self.memory_file, index=False)
-        
+    
         self.logger.info(f"Saved {len(articles)} new articles. Total articles in memory: {len(combined_df)}")
     
     def generate_output_json(self, output_file: str, days_back: int = 7) -> None:

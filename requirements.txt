@@ -5,3 +5,4 @@ python-dateutil
 crossrefapi
 beautifulsoup4
 lxml
+anthropic

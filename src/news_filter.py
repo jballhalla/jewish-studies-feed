@@ -251,18 +251,24 @@ Do not include any other text in your response, just the JSON array.
         try:
             # Ensure output directory exists
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
-            
+        
             # Create output structure
             output = {
                 'update': datetime.now().isoformat(),
                 'articles_count': len(filtered_articles),
                 'filtered_date': datetime.now().strftime('%Y-%m-%d'),
+                'week_start': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d'),
+                'has_articles': len(filtered_articles) > 0,
                 'sources': {},
                 'all_articles': filtered_articles
             }
-            
-            # Group by source for better organization
-            if filtered_articles:
+        
+            # Add a message if no articles found
+            if not filtered_articles:
+                output['message'] = "No research-relevant articles found for this week."
+                self.logger.info("No research-relevant articles found this week")
+            else:
+                # Group by source for better organization
                 for article in filtered_articles:
                     source = article.get('source', 'Unknown')
                     if source not in output['sources']:
@@ -272,13 +278,16 @@ Do not include any other text in your response, just the JSON array.
                         }
                     output['sources'][source]['count'] += 1
                     output['sources'][source]['articles'].append(article)
-            
+        
             # Save to JSON file
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 json.dump(output, f, indent=2, ensure_ascii=False)
-            
-            self.logger.info(f"Saved {len(filtered_articles)} filtered articles to {self.output_file}")
-            
+        
+            if filtered_articles:
+                self.logger.info(f"Saved {len(filtered_articles)} filtered articles to {self.output_file}")
+            else:
+                self.logger.info(f"Saved empty weekly digest to {self.output_file}")
+        
         except Exception as e:
             self.logger.error(f"Error saving filtered output: {e}")
     

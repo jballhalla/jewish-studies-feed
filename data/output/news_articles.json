@@ -1,16 +1,18 @@
 {
-  "update": "2025-09-24T21:06:29.776878",
-  "articles_count": 8,
-  "filtered_date": "2025-09-24",
+  "update": "2025-09-26T07:06:26.132383",
+  "articles_count": 15,
+  "filtered_date": "2025-09-26",
+  "week_start": "2025-09-19",
+  "has_articles": true,
   "sources": {
-    "JTA": {
-      "count": 3,
+    "JNS": {
+      "count": 1,
       "articles": [
         {
-          "title": "Rabbi Jonathan Sacks died 5 years ago. His new Torah commentary is making waves in Israel.",
-          "description": "Sacks, the chief rabbi of Great Britain, is the author of a posthumous volume that is challenging Israel's top-selling Koren Tanakh. -- The post Rabbi Jonathan Sacks died 5 years ago. His new Torah commentary is making waves in Israel. appeared first on Jewish Telegraphic Agency .",
-          "link": "https://www.jta.org/2025/09/24/religion/rabbi-jonathan-sacks-died-5-years-ago-his-new-torah-commentary-is-making-waves-in-israel",
-          "source": "JTA",
-          "author": "Deborah Danan",
-          "published": "2025-09-24T16:06:51",
+          "title": "Jewish People Policy Institute reports alarming trends in Jewish world",
+          "description": "This year’s assessment points to “worsening or negative trends in almost all indicators” concerning Israel and the Jewish people. The post Jewish People Policy Institute reports alarming trends in Jewish world appeared first on JNS.org .",
+          "link": "https://www.jns.org/jewish-people-policy-institute-reports-alarming-trends-in-jewish-world/",
+          "source": "JNS",
+          "author": NaN,
+          "published": "2025-09-26T04:00:00",
           "scraped_at": 

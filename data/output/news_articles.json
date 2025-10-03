@@ -1,18 +1,18 @@
 {
-  "update": "2025-09-26T07:06:26.132383",
-  "articles_count": 15,
-  "filtered_date": "2025-09-26",
-  "week_start": "2025-09-19",
+  "update": "2025-10-03T07:06:31.646698",
+  "articles_count": 9,
+  "filtered_date": "2025-10-03",
+  "week_start": "2025-09-26",
   "has_articles": true,
   "sources": {
-    "JNS": {
-      "count": 1,
+    "Times of Israel": {
+      "count": 5,
       "articles": [
         {
-          "title": "Jewish People Policy Institute reports alarming trends in Jewish world",
-          "description": "This year’s assessment points to “worsening or negative trends in almost all indicators” concerning Israel and the Jewish people. The post Jewish People Policy Institute reports alarming trends in Jewish world appeared first on JNS.org .",
-          "link": "https://www.jns.org/jewish-people-policy-institute-reports-alarming-trends-in-jewish-world/",
-          "source": "JNS",
+          "title": "Why a historian thinks US Jews are living through a ‘high tide’ of antisemitism",
+          "description": "Pamela Nadell's new book, 'Antisemitism, an American Tradition,' chronicles Jew-hatred since colonial times, and asks whether the postwar years were as 'golden' as they seemed The post Why a historian thinks US Jews are living through a ‘high tide’ of antisemitism appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/why-a-historian-thinks-us-jews-are-living-through-a-high-tide-of-antisemitism/",
+          "source": "Times of Israel",
           "author": NaN,
-          "published": "2025-09-26T04:00:00",
+          "published": "2025-10-03T00:16:09",
           "scraped_at": 

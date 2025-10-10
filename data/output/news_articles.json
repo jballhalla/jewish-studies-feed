@@ -1,18 +1,18 @@
 {
-  "update": "2025-10-03T07:06:31.646698",
-  "articles_count": 9,
-  "filtered_date": "2025-10-03",
-  "week_start": "2025-09-26",
+  "update": "2025-10-10T07:07:06.489718",
+  "articles_count": 13,
+  "filtered_date": "2025-10-10",
+  "week_start": "2025-10-03",
   "has_articles": true,
   "sources": {
-    "Times of Israel": {
-      "count": 5,
+    "The Forward": {
+      "count": 3,
       "articles": [
         {
-          "title": "Why a historian thinks US Jews are living through a ‘high tide’ of antisemitism",
-          "description": "Pamela Nadell's new book, 'Antisemitism, an American Tradition,' chronicles Jew-hatred since colonial times, and asks whether the postwar years were as 'golden' as they seemed The post Why a historian thinks US Jews are living through a ‘high tide’ of antisemitism appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/why-a-historian-thinks-us-jews-are-living-through-a-high-tide-of-antisemitism/",
-          "source": "Times of Israel",
-          "author": NaN,
-          "published": "2025-10-03T00:16:09",
+          "title": "In National Book Awards finalist, Jewish trans boy and golem team up to save the world",
+          "description": "(JTA) — Jewish author Kyle Lukoff’s latest novel, “A World Worth Saving,” was named one of the finalists for this year’s National Book Awards in the Young People’s Literature category. The novel, which is aimed for middle-grade readers, features a young Jewish transgender boy who teams up with a golem, a creature from Jewish folklore,... The post In National Book Awards finalist, Jewish trans boy and golem team up to save the world appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/775120/in-national-book-awards-finalist-jewish-trans-boy-and-golem-team-up-to-save-the-world/",
+          "source": "The Forward",
+          "author": "Grace Gilson",
+          "published": "2025-10-09T20:39:14",
           "scraped_at": 

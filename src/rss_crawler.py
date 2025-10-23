@@ -326,10 +326,10 @@ class RSSCrawler:
     
         # Remove duplicates based on link and save
         combined_df = combined_df.drop_duplicates(subset=['link'], keep='first')
-    
+
         # Sort by scraped_at descending to keep most recent first
-        # Use format='ISO8601' to handle ISO datetime strings properly
-        combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='ISO8601')
+        # FIX: Use mixed format to handle both ISO and other formats
+        combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='mixed', errors='coerce')
         combined_df = combined_df.sort_values('scraped_at', ascending=False)
     
         # Keep only last 30 days to prevent file from growing too large

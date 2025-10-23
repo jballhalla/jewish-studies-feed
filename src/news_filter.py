@@ -312,7 +312,7 @@ Do not include any other text in your response, just the JSON array.
         try:
             df = pd.read_csv(self.memory_file)
             
-            # Parse dates
+            # Parse dates - FIX: Use format='ISO8601' for consistency
             df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601', errors='coerce')
             
             # Keep only articles newer than our processing window
@@ -330,7 +330,7 @@ Do not include any other text in your response, just the JSON array.
                 final_df = recent_df
             else:
                 final_df = pd.DataFrame(columns=df.columns)
-            
+        
             # Remove duplicates and sort
             final_df = final_df.drop_duplicates(subset=['link'], keep='first')
             final_df = final_df.sort_values('scraped_at', ascending=False)
@@ -343,6 +343,6 @@ Do not include any other text in your response, just the JSON array.
             processed_count = original_count - final_count
             
             self.logger.info(f"Cleaned memory file: removed {processed_count} processed articles, {final_count} articles remaining")
-            
+        
         except Exception as e:
             self.logger.error(f"Error cleaning up processed articles: {e}")

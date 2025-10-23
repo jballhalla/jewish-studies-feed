@@ -66,7 +66,7 @@ class NewsFilter:
             df = pd.read_csv(self.memory_file)
             
             # Parse scraped_at column with multiple date formats
-            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601', errors='coerce')
+            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='mixed', errors='coerce')
             
             # Filter to last N days
             cutoff_time = datetime.now() - timedelta(days=days_back)
@@ -318,8 +318,8 @@ Do not include any other text in your response, just the JSON array.
         try:
             df = pd.read_csv(self.memory_file)
             
-            # Parse dates - FIX: Use format='ISO8601' for consistency
-            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601', errors='coerce')
+            # Parse dates - FIX: Use format='mixed' for consistency
+            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='mixed', errors='coerce')
             
             # Keep only articles newer than our processing window
             cutoff_time = datetime.now() - timedelta(days=days_back)

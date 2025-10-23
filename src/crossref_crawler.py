@@ -292,10 +292,15 @@ class CrossrefCrawler:
         combined_df = combined_df.drop_duplicates(subset=['doi'], keep='first')
     
         # Sort by scraped_at descending to keep most recent first
-        # FIX: Use format='ISO8601' to handle ISO datetime strings properly
-        combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='ISO8601')
-        combined_df = combined_df.sort_values('scraped_at', ascending=False)
-    
+        try:
+            # FIX: Use format='ISO8601' with error handling
+            combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='ISO8601', errors='coerce')
+            combined_df = combined_df.sort_values('scraped_at', ascending=False)
+        except Exception as e:
+            self.logger.warning(f"Error parsing datetime, using mixed format: {e}")
+            combined_df['scraped_at'] = pd.to_datetime(combined_df['scraped_at'], format='mixed', errors='coerce')
+            combined_df = combined_df.sort_values('scraped_at', ascending=False)
+
         # Keep only last 2 years to prevent file from growing too large
         two_years_ago = datetime.now() - timedelta(days=730)
         combined_df = combined_df[combined_df['scraped_at'] >= two_years_ago]

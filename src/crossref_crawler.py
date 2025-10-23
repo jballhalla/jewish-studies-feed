@@ -309,8 +309,9 @@ class CrossrefCrawler:
         """Generate JSON output for recent articles"""
         try:
             df = pd.read_csv(self.memory_file)
-            df['scraped_at'] = pd.to_datetime(df['scraped_at'])
-            
+            # FIX: Use format='ISO8601' to handle ISO datetime strings properly
+            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601')
+        
             # Filter to last N days
             cutoff = datetime.now() - timedelta(days=days_back)
             recent_df = df[df['scraped_at'] >= cutoff]
@@ -329,7 +330,7 @@ class CrossrefCrawler:
                     'count': len(journal_articles),
                     'articles': journal_articles.drop('scraped_at', axis=1).to_dict('records')
                 }
-            
+        
             # Also include a flat list for easier processing
             output['all_articles'] = recent_df.drop('scraped_at', axis=1).to_dict('records')
             
@@ -340,7 +341,7 @@ class CrossrefCrawler:
                 json.dump(output, f, indent=2, ensure_ascii=False)
                 
             self.logger.info(f"Generated output JSON with {len(recent_df)} articles from {len(output['journals'])} journals")
-            
+        
         except (FileNotFoundError, pd.errors.EmptyDataError):
             # Create empty output
             output = {

@@ -314,9 +314,12 @@ class CrossrefCrawler:
         """Generate JSON output for recent articles"""
         try:
             df = pd.read_csv(self.memory_file)
-            # FIX: Use format='ISO8601' to handle ISO datetime strings properly
-            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601')
-        
+            # FIX: Use format='ISO8601' with error handling
+            try:
+                df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601', errors='coerce')
+            except Exception as e:
+                self.logger.warning(f"Error parsing datetime with ISO8601, using mixed format: {e}")
+                df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='mixed', errors='coerce')
             # Filter to last N days
             cutoff = datetime.now() - timedelta(days=days_back)
             recent_df = df[df['scraped_at'] >= cutoff]

@@ -342,11 +342,11 @@ class RSSCrawler:
         self.logger.info(f"Saved {len(articles)} new articles. Total articles in memory: {len(combined_df)}")
     
     def generate_output_json(self, output_file: str, days_back: int = 7) -> None:
-        """Generate JSON output for recent articles"""
+    """Generate JSON output for recent articles"""
         try:
             df = pd.read_csv(self.memory_file)
-            # Use format='ISO8601' to handle ISO datetime strings properly
-            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='ISO8601')
+            # FIX: Use mixed format to match what save_articles uses
+            df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='mixed', errors='coerce')
     
             # Filter to last N days
             cutoff = datetime.now() - timedelta(days=days_back)
@@ -372,7 +372,7 @@ class RSSCrawler:
             # Ensure output directory exists
             import os
             os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    
+
             import json
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(output, f, indent=2, ensure_ascii=False)

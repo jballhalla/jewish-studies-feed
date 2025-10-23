@@ -342,7 +342,7 @@ class RSSCrawler:
         self.logger.info(f"Saved {len(articles)} new articles. Total articles in memory: {len(combined_df)}")
     
     def generate_output_json(self, output_file: str, days_back: int = 7) -> None:
-    """Generate JSON output for recent articles"""
+        """Generate JSON output for recent articles"""
         try:
             df = pd.read_csv(self.memory_file)
             # FIX: Use mixed format to match what save_articles uses

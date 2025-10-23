@@ -251,25 +251,38 @@ Do not include any other text in your response, just the JSON array.
         try:
             # Ensure output directory exists
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
+            
+            # FIX: Convert any datetime objects to strings before JSON serialization
+            processed_articles = []
+            for article in filtered_articles:
+                processed_article = {}
+                for key, value in article.items():
+                    if hasattr(value, 'isoformat'):  # It's a datetime-like object
+                        processed_article[key] = value.isoformat()
+                    elif pd.isna(value):  # Handle NaN values
+                        processed_article[key] = None
+                    else:
+                        processed_article[key] = value
+                processed_articles.append(processed_article)
         
             # Create output structure
             output = {
                 'update': datetime.now().isoformat(),
-                'articles_count': len(filtered_articles),
+                'articles_count': len(processed_articles),
                 'filtered_date': datetime.now().strftime('%Y-%m-%d'),
                 'week_start': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d'),
-                'has_articles': len(filtered_articles) > 0,
+                'has_articles': len(processed_articles) > 0,
                 'sources': {},
-                'all_articles': filtered_articles
+                'all_articles': processed_articles
             }
         
             # Add a message if no articles found
-            if not filtered_articles:
+            if not processed_articles:
                 output['message'] = "No research-relevant articles found for this week."
                 self.logger.info("No research-relevant articles found this week")
             else:
                 # Group by source for better organization
-                for article in filtered_articles:
+                for article in processed_articles:
                     source = article.get('source', 'Unknown')
                     if source not in output['sources']:
                         output['sources'][source] = {
@@ -282,15 +295,18 @@ Do not include any other text in your response, just the JSON array.
             # Save to JSON file
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 json.dump(output, f, indent=2, ensure_ascii=False)
-        
-            if filtered_articles:
-                self.logger.info(f"Saved {len(filtered_articles)} filtered articles to {self.output_file}")
+            
+            if processed_articles:
+                self.logger.info(f"Saved {len(processed_articles)} filtered articles to {self.output_file}")
             else:
                 self.logger.info(f"Saved empty weekly digest to {self.output_file}")
         
         except Exception as e:
             self.logger.error(f"Error saving filtered output: {e}")
-    
+            # Log more details for debugging
+            import traceback
+            self.logger.error(f"Full traceback: {traceback.format_exc()}")
+        
     def _cleanup_processed_articles(self, days_back: int) -> None:
         """Remove processed articles from memory to keep file size manageable"""
         try:

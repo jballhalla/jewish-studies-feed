@@ -252,20 +252,27 @@ Do not include any other text in your response, just the JSON array.
             # Ensure output directory exists
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
             
-            # FIX: Convert any datetime objects to strings before JSON serialization
+            # FIX: Robust datetime/pandas object handling
             processed_articles = []
             for article in filtered_articles:
                 processed_article = {}
                 for key, value in article.items():
-                    if pd.isna(value) or value is None:  # Handle NaN/None values first
+                    if pd.isna(value) or value is None:
                         processed_article[key] = None
-                    elif hasattr(value, 'isoformat'):  # It's a datetime-like object
+                    elif isinstance(value, (pd.Timestamp, datetime)):
                         processed_article[key] = value.isoformat()
-                    elif isinstance(value, (pd.Timestamp, pd.NaType)):  # Explicit pandas types
-                        processed_article[key] = value.isoformat() if not pd.isna(value) else None
+                    elif hasattr(value, 'isoformat') and callable(getattr(value, 'isoformat')):
+                        processed_article[key] = value.isoformat()
                     else:
-                        processed_article[key] = value
+                        # Convert any remaining problematic types to string
+                        try:
+                            json.dumps(value)  # Test if it's JSON serializable
+                            processed_article[key] = value
+                        except (TypeError, ValueError):
+                            processed_article[key] = str(value)
                 processed_articles.append(processed_article)
+            
+            # Rest of the method stays the same...
         
             # Create output structure
             output = {

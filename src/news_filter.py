@@ -257,10 +257,12 @@ Do not include any other text in your response, just the JSON array.
             for article in filtered_articles:
                 processed_article = {}
                 for key, value in article.items():
-                    if hasattr(value, 'isoformat'):  # It's a datetime-like object
-                        processed_article[key] = value.isoformat()
-                    elif pd.isna(value):  # Handle NaN values
+                    if pd.isna(value) or value is None:  # Handle NaN/None values first
                         processed_article[key] = None
+                    elif hasattr(value, 'isoformat'):  # It's a datetime-like object
+                        processed_article[key] = value.isoformat()
+                    elif isinstance(value, (pd.Timestamp, pd.NaType)):  # Explicit pandas types
+                        processed_article[key] = value.isoformat() if not pd.isna(value) else None
                     else:
                         processed_article[key] = value
                 processed_articles.append(processed_article)

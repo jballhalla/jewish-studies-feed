@@ -55,6 +55,8 @@ class EmailSender:
             
         except Exception as e:
             self.logger.error(f"Error sending weekly digest: {e}")
+            import traceback
+            self.logger.error(traceback.format_exc())
             return False
     
     def _load_json(self, file_path: str) -> Dict:
@@ -62,8 +64,9 @@ class EmailSender:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except (FileNotFoundError, json.JSONDecodeError):
-            return {'articles_count': 0, 'all_articles': [], 'sources': {}}
+        except (FileNotFoundError, json.JSONDecodeError) as e:
+            self.logger.warning(f"Could not load {file_path}: {e}")
+            return {'articles_count': 0, 'all_articles': [], 'sources': {}, 'journals': {}}
     
     def _generate_email_content(self, news_data: Dict, research_data: Dict) -> tuple:
         """Generate email subject and content"""
@@ -123,16 +126,28 @@ Jewish Studies Feed - https://github.com/jballhalla/jewish-studies-feed
             return "<p><em>No new academic articles this week.</em></p>"
         
         html = ""
-        for journal, data in research_data.get('journals', {}).items():
-            html += f"<h3 style='color: #2d3748; margin-top: 25px;'>{journal} ({data['count']})</h3>"
+        journals = research_data.get('journals', {})
+        
+        if not journals:
+            return "<p><em>No new academic articles this week.</em></p>"
+        
+        for journal, data in journals.items():
+            html += f"<h3 style='color: #2d3748; margin-top: 25px;'>{journal} ({data.get('count', 0)})</h3>"
             html += "<ul style='padding-left: 20px;'>"
             
-            for article in data['articles'][:5]:  # Limit to 5 per journal
-                authors = article.get('authors', 'Unknown')[:100] + ('...' if len(article.get('authors', '')) > 100 else '')
+            for article in data.get('articles', [])[:5]:  # Limit to 5 per journal
+                # FIX: Handle None values properly
+                authors = article.get('authors') or 'Unknown'
+                if len(authors) > 100:
+                    authors = authors[:100] + '...'
+                
+                title = article.get('title') or 'Untitled'
+                url = article.get('url') or '#'
+                
                 html += f"""
                 <li style='margin-bottom: 10px;'>
-                    <strong><a href="{article.get('url', '#')}" style="color: #2c5aa0; text-decoration: none;">
-                        {article.get('title', 'Untitled')}
+                    <strong><a href="{url}" style="color: #2c5aa0; text-decoration: none;">
+                        {title}
                     </a></strong><br>
                     <span style='color: #666; font-size: 14px;'>{authors}</span>
                 </li>
@@ -149,16 +164,28 @@ Jewish Studies Feed - https://github.com/jballhalla/jewish-studies-feed
             return "<p><em>No research-relevant news this week.</em></p>"
         
         html = ""
-        for source, data in news_data.get('sources', {}).items():
-            html += f"<h3 style='color: #2d3748; margin-top: 25px;'>{source} ({data['count']})</h3>"
+        sources = news_data.get('sources', {})
+        
+        if not sources:
+            return "<p><em>No research-relevant news this week.</em></p>"
+        
+        for source, data in sources.items():
+            html += f"<h3 style='color: #2d3748; margin-top: 25px;'>{source} ({data.get('count', 0)})</h3>"
             html += "<ul style='padding-left: 20px;'>"
             
-            for article in data['articles'][:5]:  # Limit to 5 per source
-                description = article.get('description', '')[:150] + ('...' if len(article.get('description', '')) > 150 else '')
+            for article in data.get('articles', [])[:5]:  # Limit to 5 per source
+                # FIX: Handle None values properly
+                description = article.get('description') or ''
+                if len(description) > 150:
+                    description = description[:150] + '...'
+                
+                title = article.get('title') or 'Untitled'
+                link = article.get('link') or '#'
+                
                 html += f"""
                 <li style='margin-bottom: 10px;'>
-                    <strong><a href="{article.get('link', '#')}" style="color: #2c5aa0; text-decoration: none;">
-                        {article.get('title', 'Untitled')}
+                    <strong><a href="{link}" style="color: #2c5aa0; text-decoration: none;">
+                        {title}
                     </a></strong><br>
                     <span style='color: #666; font-size: 14px;'>{description}</span>
                 </li>
@@ -175,12 +202,20 @@ Jewish Studies Feed - https://github.com/jballhalla/jewish-studies-feed
             return "No new academic articles this week.\n"
         
         text = ""
-        for journal, data in research_data.get('journals', {}).items():
-            text += f"\n{journal} ({data['count']}):\n"
-            for i, article in enumerate(data['articles'][:5], 1):
-                text += f"{i}. {article.get('title', 'Untitled')}\n"
-                text += f"   Authors: {article.get('authors', 'Unknown')[:100]}\n"
-                text += f"   Link: {article.get('url', 'N/A')}\n\n"
+        journals = research_data.get('journals', {})
+        
+        for journal, data in journals.items():
+            text += f"\n{journal} ({data.get('count', 0)}):\n"
+            for i, article in enumerate(data.get('articles', [])[:5], 1):
+                title = article.get('title') or 'Untitled'
+                authors = article.get('authors') or 'Unknown'
+                if len(authors) > 100:
+                    authors = authors[:100]
+                url = article.get('url') or 'N/A'
+                
+                text += f"{i}. {title}\n"
+                text += f"   Authors: {authors}\n"
+                text += f"   Link: {url}\n\n"
         
         return text
     
@@ -192,11 +227,16 @@ Jewish Studies Feed - https://github.com/jballhalla/jewish-studies-feed
             return "No research-relevant news this week.\n"
         
         text = ""
-        for source, data in news_data.get('sources', {}).items():
-            text += f"\n{source} ({data['count']}):\n"
-            for i, article in enumerate(data['articles'][:5], 1):
-                text += f"{i}. {article.get('title', 'Untitled')}\n"
-                text += f"   Link: {article.get('link', 'N/A')}\n\n"
+        sources = news_data.get('sources', {})
+        
+        for source, data in sources.items():
+            text += f"\n{source} ({data.get('count', 0)}):\n"
+            for i, article in enumerate(data.get('articles', [])[:5], 1):
+                title = article.get('title') or 'Untitled'
+                link = article.get('link') or 'N/A'
+                
+                text += f"{i}. {title}\n"
+                text += f"   Link: {link}\n\n"
         
         return text
     

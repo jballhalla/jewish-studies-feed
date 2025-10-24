@@ -1,8 +1,67 @@
 {
-  "update": "2025-10-23T22:13:38.487062",
-  "articles_count": 15,
+  "update": "2025-10-24T06:08:52.404915",
+  "articles_count": 16,
   "period_days": 7,
   "journals": {
+    "Jewish Culture and History": {
+      "count": 3,
+      "articles": [
+        {
+          "doi": "10.1080/1462169x.2025.2576345",
+          "title": "Local and Translocal Flows of Anti-Theosophical Ideas in the Indian Ocean World",
+          "authors": "Anzi, Menashe",
+          "journal_name": "Jewish Culture and History",
+          "journal_abbrev": "Jewish Cult Hist",
+          "issn": "2167-9428",
+          "volume": NaN,
+          "issue": NaN,
+          "pages": "1-25",
+          "abstract": NaN,
+          "url": "https://doi.org/10.1080/1462169x.2025.2576345",
+          "published_online": "2025-10-23T00:00:00",
+          "published_print": NaN,
+          "published_date": "2025-10-23T00:00:00",
+          "subjects": NaN,
+          "article_type": "journal-article"
+        },
+        {
+          "doi": "10.1080/1462169x.2025.2575244",
+          "title": "Edison of Pumbedita: Fiction and History across Time and Space in a Judeo-Arabic Feuilleton, Algiers 1891",
+          "authors": "Ofrath, Avner",
+          "journal_name": "Jewish Culture and History",
+          "journal_abbrev": "Jewish Cult Hist",
+          "issn": "2167-9428",
+          "volume": NaN,
+          "issue": NaN,
+          "pages": "1-13",
+          "abstract": NaN,
+          "url": "https://doi.org/10.1080/1462169x.2025.2575244",
+          "published_online": "2025-10-17T00:00:00",
+          "published_print": NaN,
+          "published_date": "2025-10-17T00:00:00",
+          "subjects": NaN,
+          "article_type": "journal-article"
+        },
+        {
+          "doi": "10.1080/1462169x.2025.2575243",
+          "title": "Constructing the Enemy: The Millî Görüş Press on Judaism, Zionism, and Israel (1973–1995)",
+          "authors": "Rosenberg, Uri",
+          "journal_name": "Jewish Culture and History",
+          "journal_abbrev": "Jewish Cult Hist",
+          "issn": "2167-9428",
+          "volume": NaN,
+          "issue": NaN,
+          "pages": "1-21",
+          "abstract": NaN,
+          "url": "https://doi.org/10.1080/1462169x.2025.2575243",
+          "published_online": "2025-10-15T00:00:00",
+          "published_print": NaN,
+          "published_date": "2025-10-15T00:00:00",
+          "subjects": NaN,
+          "article_type": "journal-article"
+        }
+      ]
+    },
     "Holocaust and Genocide Studies": {
       "count": 6,
       "articles": [
@@ -175,47 +234,6 @@
         }
       ]
     },
-    "Jewish Culture and History": {
-      "count": 2,
-      "articles": [
-        {
-          "doi": "10.1080/1462169x.2025.2575244",
-          "title": "Edison of Pumbedita: Fiction and History across Time and Space in a Judeo-Arabic Feuilleton, Algiers 1891",
-          "authors": "Ofrath, Avner",
-          "journal_name": "Jewish Culture and History",
-          "journal_abbrev": "Jewish Cult Hist",
-          "issn": "2167-9428",
-          "volume": NaN,
-          "issue": NaN,
-          "pages": "1-13",
-          "abstract": NaN,
-          "url": "https://doi.org/10.1080/1462169x.2025.2575244",
-          "published_online": "2025-10-17T00:00:00",
-          "published_print": NaN,
-          "published_date": "2025-10-17T00:00:00",
-          "subjects": NaN,
-          "article_type": "journal-article"
-        },
-        {
-          "doi": "10.1080/1462169x.2025.2575243",
-          "title": "Constructing the Enemy: The Millî Görüş Press on Judaism, Zionism, and Israel (1973–1995)",
-          "authors": "Rosenberg, Uri",
-          "journal_name": "Jewish Culture and History",
-          "journal_abbrev": "Jewish Cult Hist",
-          "issn": "2167-9428",
-          "volume": NaN,
-          "issue": NaN,
-          "pages": "1-21",
-          "abstract": NaN,
-          "url": "https://doi.org/10.1080/1462169x.2025.2575243",
-          "published_online": "2025-10-15T00:00:00",
-          "published_print": NaN,
-          "published_date": "2025-10-15T00:00:00",
-          "subjects": NaN,
-          "article_type": "journal-article"
-        }
-      ]
-    },
     "Journal of Modern Jewish Studies": {
       "count": 2,
       "articles": [
@@ -300,6 +318,24 @@
     }
   },
   "all_articles": [
+    {
+      "doi": "10.1080/1462169x.2025.2576345",
+      "title": "Local and Translocal Flows of Anti-Theosophical Ideas in the Indian Ocean World",
+      "authors": "Anzi, Menashe",
+      "journal_name": "Jewish Culture and History",
+      "journal_abbrev": "Jewish Cult Hist",
+      "issn": "2167-9428",
+      "volume": NaN,
+      "issue": NaN,
+      "pages": "1-25",
+      "abstract": NaN,
+      "url": "https://doi.org/10.1080/1462169x.2025.2576345",
+      "published_online": "2025-10-23T00:00:00",
+      "published_print": NaN,
+      "published_date": "2025-10-23T00:00:00",
+      "subjects": NaN,
+      "article_type": "journal-article"
+    },
     {
       "doi": "10.1093/hgs/dcaf053",
       "title": "Correction to: Postcards to Hitler: A German Jew's Defiance in a Time of Terror. Bruce Neuburger",

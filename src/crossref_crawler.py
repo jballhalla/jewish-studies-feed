@@ -325,7 +325,7 @@ class CrossrefCrawler:
             recent_df = df[df['scraped_at'] >= cutoff]
 
             # Replace NaN with None before converting to dict
-            recent_df = recent_df.replace({pd.NA: None, pd.NaT: None})
+            recent_df = recent_df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
             recent_df = recent_df.where(pd.notna(recent_df), None)
             
             # Group by journal for better organization

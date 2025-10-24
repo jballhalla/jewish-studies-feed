@@ -1,13 +1,33 @@
 {
-  "update": "2025-10-23T22:07:00.964459",
-  "articles_count": 21,
-  "filtered_date": "2025-10-23",
-  "week_start": "2025-10-16",
+  "update": "2025-10-24T07:07:30.939592",
+  "articles_count": 18,
+  "filtered_date": "2025-10-24",
+  "week_start": "2025-10-17",
   "has_articles": true,
   "sources": {
     "The Forward": {
-      "count": 2,
+      "count": 3,
       "articles": [
+        {
+          "title": "My Jewish studies students aren’t talking about Israel or antisemitism. They told me why.",
+          "description": "(JTA) — I first noticed something was off on the first day of class. I had given my students in my “Sociology of American Jewish life” course at Tulane University blank index cards, asking them to write five words they associate with American Jews. The word antisemitism didn&#8217;t appear once, and neither did Israel. Last... The post My Jewish studies students aren’t talking about Israel or antisemitism. They told me why. appeared first on The Forward .",
+          "link": "https://forward.com/opinion/777463/my-jewish-studies-students-arent-talking-about-israel-or-antisemitism-they-told-me-why/",
+          "source": "The Forward",
+          "author": "Ilana M. Horwitz",
+          "published": "2025-10-23T22:06:55",
+          "scraped_at": "2025-10-23T22:11:47.795031",
+          "guid": "https://forward.com/?p=777463"
+        },
+        {
+          "title": "Northwestern can legally block enrollment for students who boycotted antisemitism training, federal judge says",
+          "description": "(JTA) — A federal judge in Chicago allowed Northwestern University to discipline students who refused to watch an antisemitism training video. Judge Georgia Alexakis declined Monday to issue a restraining order in a lawsuit filed by Northwestern Graduate Workers for Palestine and two graduate students. The plaintiffs claimed that an antisemitism training required by the... The post Northwestern can legally block enrollment for students who boycotted antisemitism training, federal judge says appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/777613/northwestern-can-legally-block-enrollment-for-students-who-boycotted-antisemitism-training-federal-judge-says/",
+          "source": "The Forward",
+          "author": "Grace Gilson",
+          "published": "2025-10-22T10:00:35",
+          "scraped_at": "2025-10-22T10:10:15.393299",
+          "guid": "https://forward.com/?p=777613"
+        },
         {
           "title": "Yiddish life in prewar Eastern Europe comes alive on this website",
           "description": "On a quiet corner of the internet, a new website asks us to listen. That site — “https://www.yiddishculture.co/” — is more than a digital exhibit; it’s an act of cultural restitution. Each page restores the sound, movement and texture of Jewish life that once animated the streets of Poland and Lithuania, before silence fell. Yiddishculture.co.... The post Yiddish life in prewar Eastern Europe comes alive on this website appeared first on The Forward .",
@@ -17,36 +37,86 @@
           "published": "2025-10-23T17:51:59",
           "scraped_at": "2025-10-23T18:12:02.630152",
           "guid": "https://forward.com/?p=778171"
-        },
-        {
-          "title": "Course on Yiddish in Ukraine in the 20th century",
-          "description": "ווי בײַ יעדן לערן־זמן פֿון דער ווירטועלער ייִדיש־פּראָגראַם בײַם אַרבעטער רינג, וועט מען במשך פֿונעם האַרבסט־זמן 2025 לערנען אַ צאָל אינטערעסאַנטע ווײַטהאַלטער־קורסן אויף ייִדיש. דער פֿאָרשער גענאַדי עסטרײַך וועט לערנען אַ קורס וועגן דער ייִדישער ליטעראַטור אין אוקראַיִנע במשך פֿונעם 20סטן יאָרהונדערט, אַרײַנגערעכנט די שרײַבער פֿון דער „קיִעווער גרופּע“— דוד בערגעלסאָן און דער ניסתּר. מע... The post Course on Yiddish in Ukraine in the 20th century appeared first on The Forward .",
-          "link": "https://forward.com/yiddish/776899/course-on-ukrainian-yiddish-literature-at-the-workers-circle/",
-          "source": "The Forward",
-          "author": "פֿאָרווערטס־רעדאַקציע",
-          "published": "2025-10-17T18:50:42",
-          "scraped_at": "2025-10-17T19:10:43.958295",
-          "guid": "https://forward.com/?p=776899"
         }
       ]
     },
-    "Haaretz": {
-      "count": 1,
+    "Algemeiner": {
+      "count": 2,
       "articles": [
         {
-          "title": "Gaza hostages developed coping mechanisms to help them survive captivity, new study shows",
-          "description": "After studying the testimonies of several dozen hostages who were released from captivity in Gaza, Prof. Inbar Levkovich insists that the struggle to return all of the deceased hostages is important for former captives, who see all of those who were in Gaza 'on a family level, like siblings'",
-          "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000",
-          "source": "Haaretz",
-          "author": "Adi Hashmonai",
-          "published": "2025-10-23T14:08:37",
-          "scraped_at": "2025-10-23T15:09:45.497931",
-          "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000"
+          "title": "Major Body of University Professors Targets Antisemitism Prevention Policies at University of Pennsylvania",
+          "description": "The American Association of University Professors (AAUP), the largest and oldest US organization for defending faculty rights, is picking a...",
+          "link": "https://www.algemeiner.com/2025/10/23/major-body-university-professors-targets-antisemitism-prevention-policies-university-pennsylvania/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2025-10-23T21:36:12",
+          "scraped_at": "2025-10-23T22:11:57.872864",
+          "guid": "https://www.algemeiner.com/?p=755994"
+        },
+        {
+          "title": "Brown University to Conduct ‘Campus Climate Survey’ Following Antisemitism Complaints",
+          "description": "Brown University will next week launch a &#8220;campus climate survey&#8221; to meet the conditions of an agreement it reached with...",
+          "link": "https://www.algemeiner.com/2025/10/22/brown-university-conduct-campus-climate-survey-following-antisemitism-complaints/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2025-10-22T21:13:39",
+          "scraped_at": "2025-10-22T22:08:38.921468",
+          "guid": "https://www.algemeiner.com/?p=755896"
+        }
+      ]
+    },
+    "Times of Israel": {
+      "count": 2,
+      "articles": [
+        {
+          "title": "Judge: Northwestern can block enrollment for students resisting antisemitism training",
+          "description": "Georgia Alexakis rules plaintiffs' lawyers failed to prove discriminatory motive for university's requirement of antisemitism training video The post Judge: Northwestern can block enrollment for students resisting antisemitism training appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/judge-northwestern-can-block-enrollment-for-students-resisting-antisemitism-training/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-22T08:10:06",
+          "scraped_at": "2025-10-22T09:10:52.810644",
+          "guid": "https://www.timesofisrael.com/?p=3671014"
+        },
+        {
+          "title": "Biblical tax notice: 1st-ever Assyrian inscription found near Jerusalem’s Temple Mount",
+          "description": "2,700-year-old fragment of pottery suggests Judeans delayed paying their tributes to the empire, echoing the events described in the book of II Kings The post Biblical tax notice: 1st-ever Assyrian inscription found near Jerusalem&#8217;s Temple Mount appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/biblical-tax-notice-1st-ever-assyrian-inscription-found-near-jerusalems-temple-mount/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-22T12:16:30",
+          "scraped_at": "2025-10-22T13:18:45.442609",
+          "guid": "https://www.timesofisrael.com/?p=3671231"
+        }
+      ]
+    },
+    "JTA": {
+      "count": 2,
+      "articles": [
+        {
+          "title": "Federal judge allows Northwestern to block enrollment for students who boycotted antisemitism training",
+          "description": "Currently, 16 Northwestern students face enrollment holds for failing to complete the training. -- The post Federal judge allows Northwestern to block enrollment for students who boycotted antisemitism training appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2025/10/21/united-states/federal-judge-allows-northwestern-to-block-enrollment-for-students-who-boycotted-antisemitism-training",
+          "source": "JTA",
+          "author": "Grace Gilson",
+          "published": "2025-10-21T21:51:23",
+          "scraped_at": "2025-10-21T22:09:02.396183",
+          "guid": "https://www.jta.org/?p=1891078"
+        },
+        {
+          "title": "Saul Rubinek’s new one-man show asks, Is there ever a right time to play Shylock?",
+          "description": "“Playing Shylock,” opening in Brooklyn, imagines the cancellation of Shakespeare’s controversial play about the humiliation of a Jewish moneylender. -- The post Saul Rubinek’s new one-man show asks, Is there ever a right time to play Shylock? appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2025/10/22/ny/saul-rubineks-new-one-man-show-asks-is-there-ever-a-right-time-to-play-shylock",
+          "source": "JTA",
+          "author": "Andrew Silow-Carroll",
+          "published": "2025-10-22T14:00:53",
+          "scraped_at": "2025-10-22T14:09:58.755266",
+          "guid": "https://www.jta.org/?p=1891067"
         }
       ]
     },
     "JNS": {
-      "count": 4,
+      "count": 3,
       "articles": [
         {
           "title": "Trump admin reaches agreement with UVA, lauds ‘progress’ on Jew-hatred",
@@ -77,210 +147,100 @@
           "published": "2025-10-22T13:23:53",
           "scraped_at": "2025-10-22T14:10:09.589605",
           "guid": "https://www.jns.org/?p=597800"
-        },
-        {
-          "title": "UNESCO holds conference on Jew-hatred in higher ed, urges strategic action",
-          "description": "The conference and resulting policy paper aim to “ensure safer, more inclusive and equitable learning environments for Jewish students across Europe, while upholding principles of academic freedom and inclusivity.” The post UNESCO holds conference on Jew-hatred in higher ed, urges strategic action appeared first on JNS.org .",
-          "link": "https://www.jns.org/unesco-holds-conference-on-jew-hatred-in-higher-ed-urges-strategic-action/",
-          "source": "JNS",
-          "author": "Mike Wagenheim",
-          "published": "2025-10-20T18:57:52",
-          "scraped_at": "2025-10-20T19:08:47.465717",
-          "guid": "https://www.jns.org/?p=597108"
         }
       ]
     },
-    "Algemeiner": {
-      "count": 1,
+    "Jewish Journal": {
+      "count": 2,
       "articles": [
         {
-          "title": "Brown University to Conduct ‘Campus Climate Survey’ Following Antisemitism Complaints",
-          "description": "Brown University will next week launch a &#8220;campus climate survey&#8221; to meet the conditions of an agreement it reached with...",
-          "link": "https://www.algemeiner.com/2025/10/22/brown-university-conduct-campus-climate-survey-following-antisemitism-complaints/",
-          "source": "Algemeiner",
-          "author": "Dion J. Pierre",
-          "published": "2025-10-22T21:13:39",
-          "scraped_at": "2025-10-22T22:08:38.921468",
-          "guid": "https://www.algemeiner.com/?p=755896"
+          "title": "Rabbis of LA | Rabbi Daniel Levine Wants to Have a ‘Civil Dialogue‘",
+          "description": "On his YouTube show, the 32-year-old San Diego native and professor at UC Irvine practices what he preaches. The post Rabbis of LA | Rabbi Daniel Levine Wants to Have a ‘Civil Dialogue‘ appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/community/rabbis-of-la/384542/rabbi-daniel-levine-wants-to-have-a-civil-dialogue/",
+          "source": "Jewish Journal",
+          "author": "Ari L. Noonan",
+          "published": "2025-10-23T23:12:21",
+          "scraped_at": "2025-10-24T00:32:38.974146",
+          "guid": "https://jewishjournal.com/?p=384542"
+        },
+        {
+          "title": "A Guide to Living Textually: Ilana Kurshan’s ‘Children of the Book’",
+          "description": "Throughout the memoir, Kurshan balances her love for Jewish texts and literature with raising her children. The post A Guide to Living Textually: Ilana Kurshan’s ‘Children of the Book’ appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/culture/arts/books/384506/a-guide-to-living-textually-ilana-kurshans-children-of-the-book/",
+          "source": "Jewish Journal",
+          "author": "Na’amit Sturm Nagel",
+          "published": "2025-10-22T23:51:21",
+          "scraped_at": "2025-10-23T00:35:12.498062",
+          "guid": "https://jewishjournal.com/?p=384506"
         }
       ]
     },
-    "Times of Israel": {
-      "count": 5,
+    "Haaretz": {
+      "count": 4,
       "articles": [
         {
-          "title": "Biblical tax notice: 1st-ever Assyrian inscription found near Jerusalem’s Temple Mount",
-          "description": "2,700-year-old fragment of pottery suggests Judeans delayed paying their tributes to the empire, echoing the events described in the book of II Kings The post Biblical tax notice: 1st-ever Assyrian inscription found near Jerusalem&#8217;s Temple Mount appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/biblical-tax-notice-1st-ever-assyrian-inscription-found-near-jerusalems-temple-mount/",
-          "source": "Times of Israel",
-          "author": null,
-          "published": "2025-10-22T12:16:30",
-          "scraped_at": "2025-10-22T13:18:45.442609",
-          "guid": "https://www.timesofisrael.com/?p=3671231"
+          "title": "Prestigious Israeli choreographer Ohad Naharin to lead special Gaga dance class 'for peace and justice'",
+          "description": "Ohad Naharin will hold a virtual class on Gaga, his globally renowned dance and pedagogy, where proceeds will support Standing Together, a Jewish-Arab grassroots peace group in Israel: 'It unites people – a real online community has formed, with people from the UAE, Iran, Lebanon and Egypt'",
+          "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/prestigious-israeli-choreographer-to-lead-special-gaga-dance-class-for-peace-and-justice/0000019a-11ac-d1c4-a99f-73be31a90000",
+          "source": "Haaretz",
+          "author": "Haaretz",
+          "published": "2025-10-23T16:39:20",
+          "scraped_at": "2025-10-23T17:09:06.138843",
+          "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/prestigious-israeli-choreographer-to-lead-special-gaga-dance-class-for-peace-and-justice/0000019a-11ac-d1c4-a99f-73be31a90000"
         },
         {
-          "title": "Blood test 95% accurate in spotting suicide risk in bipolar patients, says Israeli scientist",
-          "description": "University of Haifa researcher says her team's AI model spots biomarkers in white blood cells; test could help monitor patients with bipolar disorder, 40% of whom will attempt suicide The post Blood test 95% accurate in spotting suicide risk in bipolar patients, says Israeli scientist appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/blood-test-95-accurate-in-spotting-suicide-risk-in-bipolar-patients-says-israeli-scientist/",
-          "source": "Times of Israel",
-          "author": null,
-          "published": "2025-10-21T14:51:13",
-          "scraped_at": "2025-10-21T15:09:58.246851",
-          "guid": "https://www.timesofisrael.com/?p=3651613"
+          "title": "Gaza hostages developed coping mechanisms to help them survive captivity, new study shows",
+          "description": "After studying the testimonies of several dozen hostages who were released from captivity in Gaza, Prof. Inbar Levkovich insists that the struggle to return all of the deceased hostages is important for former captives, who see all of those who were in Gaza 'on a family level, like siblings'",
+          "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000",
+          "source": "Haaretz",
+          "author": "Adi Hashmonai",
+          "published": "2025-10-23T14:08:37",
+          "scraped_at": "2025-10-23T15:09:45.497931",
+          "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000"
         },
         {
-          "title": "Chief Rabbinate says it’s willing to let women take some rabbinical tests",
-          "description": "After High Court of Justice ruled it must open its exams to women, state rabbinical body asks court to hold another hearing and postpone implementation of its original ruling The post Chief Rabbinate says it&#8217;s willing to let women take some rabbinical tests appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/chief-rabbinate-says-its-willing-to-let-women-take-some-rabbinical-tests/",
-          "source": "Times of Israel",
-          "author": null,
-          "published": "2025-10-21T14:51:23",
-          "scraped_at": "2025-10-21T15:09:58.246803",
-          "guid": "https://www.timesofisrael.com/?p=3670446"
+          "title": "She converted during COVID. Israeli immigration officials say her Zoom course doesn't count",
+          "description": "Facing rejection from Israel's Population and Immigration Authority, recent convert Isabella Vinci, supported by the Israel Religious Action Center, is preparing a court petition to challenge the decision, despite a Supreme Court ruling recognizing non-Orthodox conversions",
+          "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/she-converted-during-covid-israel-says-her-zoom-course-doesnt-count/0000019a-0cc2-d582-a39e-5ef6f93e0000",
+          "source": "Haaretz",
+          "author": "JTA",
+          "published": "2025-10-22T21:06:16",
+          "scraped_at": "2025-10-22T22:08:44.065121",
+          "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/she-converted-during-covid-israel-says-her-zoom-course-doesnt-count/0000019a-0cc2-d582-a39e-5ef6f93e0000"
         },
         {
-          "title": "Marking global centennial, Reform movement aims to build bridges, strengthen Israel ties",
-          "description": "At its biannual conference in Jerusalem, the World Union for Progressive Judaism will repoen its Beit Shmuel headquarters as a cultural center and event space The post Marking global centennial, Reform movement aims to build bridges, strengthen Israel ties appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/marking-global-centennial-reform-movement-aims-to-build-bridges-strengthen-israel-ties/",
-          "source": "Times of Israel",
-          "author": null,
-          "published": "2025-10-21T14:02:32",
-          "scraped_at": "2025-10-21T14:09:37.379533",
-          "guid": "https://www.timesofisrael.com/?p=3669637"
-        },
-        {
-          "title": "US Jewish group publishes ‘Shofar Report,’ a liberal alternative to Trump’s antisemitism strategy",
-          "description": "The group says 'Project Esther,' crackdown on antisemitism on campuses, 'weaponizes' anti-Jewish activity to advance the US president's wider agenda against US universities The post US Jewish group publishes &#8216;Shofar Report,&#8217; a liberal alternative to Trump&#8217;s antisemitism strategy appeared first on The Times of Israel .",
-          "link": "https://www.timesofisrael.com/us-jewish-group-publishes-shofar-report-a-liberal-alternative-to-trumps-antisemitism-strategy/",
-          "source": "Times of Israel",
-          "author": null,
-          "published": "2025-10-18T10:35:30",
-          "scraped_at": "2025-10-18T11:08:26.465565",
-          "guid": "https://www.timesofisrael.com/?p=3667997"
-        }
-      ]
-    },
-    "JTA": {
-      "count": 1,
-      "articles": [
-        {
-          "title": "My Jewish studies students aren’t talking about Israel or antisemitism. They told me why.",
-          "description": "A professor at Tulane University unpacks the surprising discovery. -- The post My Jewish studies students aren&#8217;t talking about Israel or antisemitism. They told me why. appeared first on Jewish Telegraphic Agency .",
-          "link": "https://www.jta.org/2025/10/21/ideas/my-jewish-studies-students-arent-talking-about-israel-or-antisemitism-they-told-me-why",
-          "source": "JTA",
-          "author": "Ilana M. Horwitz",
-          "published": "2025-10-21T14:44:37",
-          "scraped_at": "2025-10-21T15:09:53.128261",
-          "guid": "https://www.jta.org/?p=1890825"
-        }
-      ]
-    },
-    "eJewish Philanthropy": {
-      "count": 7,
-      "articles": [
-        {
-          "title": "A sanctuary on campus: Hebrew classrooms at American universities after Oct. 7, 2023",
-          "description": "“I would say, anuchnu po (we are here), and the students would respond, anuchnu po beyachad (we are here together).” In the weeks after Oct. 7, 2023, this simple Hebrew call-and-response became a mantra in the classroom of one large public university. For students and their Israeli-born teacher, it was more than a language exercise:... Read More The post A sanctuary on campus: Hebrew classrooms at American universities after Oct. 7, 2023 appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/a-sanctuary-on-campus-hebrew-classrooms-at-american-universities-since-oct-7-2023/",
-          "source": "eJewish Philanthropy",
-          "author": "Sharon Avni",
-          "published": "2025-10-21T07:30:00",
-          "scraped_at": "2025-10-21T08:12:31.909832",
-          "guid": "https://ejewishphilanthropy.com/?p=164917"
-        },
-        {
-          "title": "At NYC gala, Goldman family announces $2 million matching grant to Israel’s Ben-Gurion University",
-          "description": "At a Manhattan benefit for Americans for Ben-Gurion University on Sunday night, the Joyce and Irving Goldman Family Foundation announced a $2 million matching grant to support the university’s recovery from the Israel-Hamas war, including the Iranian missile strike that damaged academic facilities in June. The event, held in midtown Manhattan, drew several hundred supporters... Read More The post At NYC gala, Goldman family announces $2 million matching grant to Israel’s Ben-Gurion University appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/at-nyc-gala-goldman-family-announces-2-million-matching-grant-to-israels-ben-gurion-university/",
-          "source": "eJewish Philanthropy",
-          "author": "Nira Dayanim",
-          "published": "2025-10-20T12:19:24",
-          "scraped_at": "2025-10-20T13:16:41.776979",
-          "guid": "https://ejewishphilanthropy.com/?p=164889"
-        },
-        {
-          "title": "Fresh data shows Israeli emigration levels far outpacing immigration over past two years",
-          "description": "The State of Israel is a country made up overwhelmingly of immigrants, and Jewish immigration to Israel, or aliyah, remains a central tenet of Zionism. And while aliyah has continued through the past two years of war, during this time —and in the months preceding it — Israelhas become a state of emigration, with more... Read More The post Fresh data shows Israeli emigration levels far outpacing immigration over past two years appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/fresh-data-shows-israeli-emigration-levels-far-outpacing-immigration-over-past-two-years/",
-          "source": "eJewish Philanthropy",
-          "author": "Judah Ari Gross",
-          "published": "2025-10-20T12:24:17",
-          "scraped_at": "2025-10-20T13:16:41.776921",
-          "guid": "https://ejewishphilanthropy.com/?p=164896"
-        },
-        {
-          "title": "We cannot forget the fallen",
-          "description": "The images of hostages returning home, embracing their families after months of captivity, have moved us all to tears of relief and joy. We should celebrate these reunions. We must feel this happiness. But even as we rejoice, we cannot declare victory. We cannot move on. Sixteen hostages remain in Gaza, and they are not... Read More The post We cannot forget the fallen appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/we-cannot-forget-the-fallen/",
-          "source": "eJewish Philanthropy",
-          "author": "Sara Fredman Aeder",
-          "published": "2025-10-20T08:30:00",
-          "scraped_at": "2025-10-20T09:10:48.867396",
-          "guid": "https://ejewishphilanthropy.com/?p=164877"
-        },
-        {
-          "title": "Multicultural Jewish nonprofit Be’chol Lashon 2.0 launches with anthology at New York Comic Con",
-          "description": "Every year, more than 200,000 fanboys and fangirls surge into Manhattan’s Jacob K. Javits Convention Center for the East Coast’s biggest ode to pop culture: New York Comic Con. When comic creator Julian Voloj accepted a position at the Jewish diversity nonprofit Bechol Lashon in 2017, he had an idea in the back of his... Read More The post Multicultural Jewish nonprofit Be&#8217;chol Lashon 2.0 launches with anthology at New York Comic Con appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/multicultural-jewish-nonprofit-bechol-lashon-2-0-launches-with-anthology-at-new-york-comic-con/",
-          "source": "eJewish Philanthropy",
-          "author": "Jay Deitcher",
-          "published": "2025-10-17T11:17:36",
-          "scraped_at": "2025-10-17T12:14:55.042666",
-          "guid": "https://ejewishphilanthropy.com/?p=164849"
-        },
-        {
-          "title": "The emergency isn’t over: Why Jewish philanthropy must stay in crisis mode after the war",
-          "description": "When I was a freshman football player, I had a coach from South Jersey whose accent sounded more like the Deep South. Whenever he thought we weren’t giving enough effort, he’d bark, “You gotta have a sense of UR-GEN-SEEE!” I’m still not sure if he added or removed a syllable, but the point always landed:... Read More The post The emergency isn’t over: Why Jewish philanthropy must stay in crisis mode after the war appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/the-emergency-isnt-over-why-jewish-philanthropy-must-stay-in-crisis-mode-after-the-war/",
-          "source": "eJewish Philanthropy",
-          "author": "Will Eastman",
-          "published": "2025-10-17T08:30:00",
-          "scraped_at": "2025-10-17T09:10:07.033171",
-          "guid": "https://ejewishphilanthropy.com/?p=164834"
-        },
-        {
-          "title": "Remembering my chavruta: Rabbi Moshe Hauer, z”l",
-          "description": "Earlier this week on Simchat Torah, we read the Torah’s final description of the biblical Moshe’s life of inspired leadership: “There never arose another one like Moshe” (Deuteronomy 34:10). These words carry poignant resonance as our Jewish community mourns the sudden death of our beloved sage, Rabbi Moshe Hauer, z”l. Many Jewish leaders talk about... Read More The post Remembering my <em>chavruta</em>: Rabbi Moshe Hauer, <em>z”l</em> appeared first on eJewishPhilanthropy .",
-          "link": "https://ejewishphilanthropy.com/remembering-my-chavruta-rabbi-moshe-hauer-zl/",
-          "source": "eJewish Philanthropy",
-          "author": "Rabbi Rick Jacobs",
-          "published": "2025-10-17T02:00:00",
-          "scraped_at": "2025-10-17T04:10:47.369344",
-          "guid": "https://ejewishphilanthropy.com/?p=164817"
+          "title": "Assyrian cuneiform hinting at tax dodging found in First Temple Jerusalem",
+          "description": "Sealing fragment from Assyria found in Jerusalem for the first time. Assyriologists believe it's a complaint.",
+          "link": "https://www.haaretz.com/archaeology/2025-10-22/ty-article/assyrian-cuneiform-hinting-at-tax-dodging-found-in-first-temple-jerusalem/0000019a-0b0b-d44f-ab9e-9b2b54e60000",
+          "source": "Haaretz",
+          "author": "Ruth Schuster",
+          "published": "2025-10-22T09:56:24",
+          "scraped_at": "2025-10-22T10:10:30.370992",
+          "guid": "https://www.haaretz.com/archaeology/2025-10-22/ty-article/assyrian-cuneiform-hinting-at-tax-dodging-found-in-first-temple-jerusalem/0000019a-0b0b-d44f-ab9e-9b2b54e60000"
         }
       ]
     }
   },
   "all_articles": [
     {
-      "title": "Yiddish life in prewar Eastern Europe comes alive on this website",
-      "description": "On a quiet corner of the internet, a new website asks us to listen. That site — “https://www.yiddishculture.co/” — is more than a digital exhibit; it’s an act of cultural restitution. Each page restores the sound, movement and texture of Jewish life that once animated the streets of Poland and Lithuania, before silence fell. Yiddishculture.co.... The post Yiddish life in prewar Eastern Europe comes alive on this website appeared first on The Forward .",
-      "link": "https://forward.com/yiddish-world/778171/website-yiddish-life-prewar-eastern-europe-photos-maps-children-yivo/",
+      "title": "My Jewish studies students aren’t talking about Israel or antisemitism. They told me why.",
+      "description": "(JTA) — I first noticed something was off on the first day of class. I had given my students in my “Sociology of American Jewish life” course at Tulane University blank index cards, asking them to write five words they associate with American Jews. The word antisemitism didn&#8217;t appear once, and neither did Israel. Last... The post My Jewish studies students aren’t talking about Israel or antisemitism. They told me why. appeared first on The Forward .",
+      "link": "https://forward.com/opinion/777463/my-jewish-studies-students-arent-talking-about-israel-or-antisemitism-they-told-me-why/",
       "source": "The Forward",
-      "author": "Judah Sussman",
-      "published": "2025-10-23T17:51:59",
-      "scraped_at": "2025-10-23T18:12:02.630152",
-      "guid": "https://forward.com/?p=778171"
+      "author": "Ilana M. Horwitz",
+      "published": "2025-10-23T22:06:55",
+      "scraped_at": "2025-10-23T22:11:47.795031",
+      "guid": "https://forward.com/?p=777463"
     },
     {
-      "title": "Gaza hostages developed coping mechanisms to help them survive captivity, new study shows",
-      "description": "After studying the testimonies of several dozen hostages who were released from captivity in Gaza, Prof. Inbar Levkovich insists that the struggle to return all of the deceased hostages is important for former captives, who see all of those who were in Gaza 'on a family level, like siblings'",
-      "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000",
-      "source": "Haaretz",
-      "author": "Adi Hashmonai",
-      "published": "2025-10-23T14:08:37",
-      "scraped_at": "2025-10-23T15:09:45.497931",
-      "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000"
-    },
-    {
-      "title": "Trump admin reaches agreement with UVA, lauds ‘progress’ on Jew-hatred",
-      "description": "\"DOJ can reopen anytime if UVA goes sideways. That's common sense and a fair deal,\" stated Virginia Gov. Glenn Youngkin. The post Trump admin reaches agreement with UVA, lauds &#8216;progress&#8217; on Jew-hatred appeared first on JNS.org .",
-      "link": "https://www.jns.org/trump-admin-reaches-agreement-with-uva-lauds-progress-on-jew-hatred/",
-      "source": "JNS",
-      "author": null,
-      "published": "2025-10-23T14:06:46",
-      "scraped_at": "2025-10-23T15:09:36.784169",
-      "guid": "https://www.jns.org/?p=598290"
+      "title": "Major Body of University Professors Targets Antisemitism Prevention Policies at University of Pennsylvania",
+      "description": "The American Association of University Professors (AAUP), the largest and oldest US organization for defending faculty rights, is picking a...",
+      "link": "https://www.algemeiner.com/2025/10/23/major-body-university-professors-targets-antisemitism-prevention-policies-university-pennsylvania/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2025-10-23T21:36:12",
+      "scraped_at": "2025-10-23T22:11:57.872864",
+      "guid": "https://www.algemeiner.com/?p=755994"
     },
     {
       "title": "Brown University to Conduct ‘Campus Climate Survey’ Following Antisemitism Complaints",
@@ -293,6 +253,46 @@
       "guid": "https://www.algemeiner.com/?p=755896"
     },
     {
+      "title": "Northwestern can legally block enrollment for students who boycotted antisemitism training, federal judge says",
+      "description": "(JTA) — A federal judge in Chicago allowed Northwestern University to discipline students who refused to watch an antisemitism training video. Judge Georgia Alexakis declined Monday to issue a restraining order in a lawsuit filed by Northwestern Graduate Workers for Palestine and two graduate students. The plaintiffs claimed that an antisemitism training required by the... The post Northwestern can legally block enrollment for students who boycotted antisemitism training, federal judge says appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/777613/northwestern-can-legally-block-enrollment-for-students-who-boycotted-antisemitism-training-federal-judge-says/",
+      "source": "The Forward",
+      "author": "Grace Gilson",
+      "published": "2025-10-22T10:00:35",
+      "scraped_at": "2025-10-22T10:10:15.393299",
+      "guid": "https://forward.com/?p=777613"
+    },
+    {
+      "title": "Judge: Northwestern can block enrollment for students resisting antisemitism training",
+      "description": "Georgia Alexakis rules plaintiffs' lawyers failed to prove discriminatory motive for university's requirement of antisemitism training video The post Judge: Northwestern can block enrollment for students resisting antisemitism training appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/judge-northwestern-can-block-enrollment-for-students-resisting-antisemitism-training/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-22T08:10:06",
+      "scraped_at": "2025-10-22T09:10:52.810644",
+      "guid": "https://www.timesofisrael.com/?p=3671014"
+    },
+    {
+      "title": "Federal judge allows Northwestern to block enrollment for students who boycotted antisemitism training",
+      "description": "Currently, 16 Northwestern students face enrollment holds for failing to complete the training. -- The post Federal judge allows Northwestern to block enrollment for students who boycotted antisemitism training appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2025/10/21/united-states/federal-judge-allows-northwestern-to-block-enrollment-for-students-who-boycotted-antisemitism-training",
+      "source": "JTA",
+      "author": "Grace Gilson",
+      "published": "2025-10-21T21:51:23",
+      "scraped_at": "2025-10-21T22:09:02.396183",
+      "guid": "https://www.jta.org/?p=1891078"
+    },
+    {
+      "title": "Trump admin reaches agreement with UVA, lauds ‘progress’ on Jew-hatred",
+      "description": "\"DOJ can reopen anytime if UVA goes sideways. That's common sense and a fair deal,\" stated Virginia Gov. Glenn Youngkin. The post Trump admin reaches agreement with UVA, lauds &#8216;progress&#8217; on Jew-hatred appeared first on JNS.org .",
+      "link": "https://www.jns.org/trump-admin-reaches-agreement-with-uva-lauds-progress-on-jew-hatred/",
+      "source": "JNS",
+      "author": null,
+      "published": "2025-10-23T14:06:46",
+      "scraped_at": "2025-10-23T15:09:36.784169",
+      "guid": "https://www.jns.org/?p=598290"
+    },
+    {
       "title": "Doctoral program admissions at Harvard down ‘significantly’ due to financial constraints",
       "description": "“To balance both our academic and fiscal responsibilities, cohort sizes will be significantly reduced as we evaluate the future model for Ph.D. education,” the dean of Harvard’s arts and sciences faculty said. The post Doctoral program admissions at Harvard down ‘significantly’ due to financial constraints appeared first on JNS.org .",
       "link": "https://www.jns.org/doctoral-program-admissions-at-harvard-down-significantly-due-to-financial-constraints/",
@@ -301,6 +301,76 @@
       "published": "2025-10-22T15:13:10",
       "scraped_at": "2025-10-22T16:11:04.901858",
       "guid": "https://www.jns.org/?p=597852"
+    },
+    {
+      "title": "Rabbis of LA | Rabbi Daniel Levine Wants to Have a ‘Civil Dialogue‘",
+      "description": "On his YouTube show, the 32-year-old San Diego native and professor at UC Irvine practices what he preaches. The post Rabbis of LA | Rabbi Daniel Levine Wants to Have a ‘Civil Dialogue‘ appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/community/rabbis-of-la/384542/rabbi-daniel-levine-wants-to-have-a-civil-dialogue/",
+      "source": "Jewish Journal",
+      "author": "Ari L. Noonan",
+      "published": "2025-10-23T23:12:21",
+      "scraped_at": "2025-10-24T00:32:38.974146",
+      "guid": "https://jewishjournal.com/?p=384542"
+    },
+    {
+      "title": "Prestigious Israeli choreographer Ohad Naharin to lead special Gaga dance class 'for peace and justice'",
+      "description": "Ohad Naharin will hold a virtual class on Gaga, his globally renowned dance and pedagogy, where proceeds will support Standing Together, a Jewish-Arab grassroots peace group in Israel: 'It unites people – a real online community has formed, with people from the UAE, Iran, Lebanon and Egypt'",
+      "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/prestigious-israeli-choreographer-to-lead-special-gaga-dance-class-for-peace-and-justice/0000019a-11ac-d1c4-a99f-73be31a90000",
+      "source": "Haaretz",
+      "author": "Haaretz",
+      "published": "2025-10-23T16:39:20",
+      "scraped_at": "2025-10-23T17:09:06.138843",
+      "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/prestigious-israeli-choreographer-to-lead-special-gaga-dance-class-for-peace-and-justice/0000019a-11ac-d1c4-a99f-73be31a90000"
+    },
+    {
+      "title": "Gaza hostages developed coping mechanisms to help them survive captivity, new study shows",
+      "description": "After studying the testimonies of several dozen hostages who were released from captivity in Gaza, Prof. Inbar Levkovich insists that the struggle to return all of the deceased hostages is important for former captives, who see all of those who were in Gaza 'on a family level, like siblings'",
+      "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000",
+      "source": "Haaretz",
+      "author": "Adi Hashmonai",
+      "published": "2025-10-23T14:08:37",
+      "scraped_at": "2025-10-23T15:09:45.497931",
+      "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/gaza-hostages-developed-coping-mechanisms-to-help-them-survive-captivity-new-study-shows/0000019a-1078-d582-a39e-5afc96940000"
+    },
+    {
+      "title": "She converted during COVID. Israeli immigration officials say her Zoom course doesn't count",
+      "description": "Facing rejection from Israel's Population and Immigration Authority, recent convert Isabella Vinci, supported by the Israel Religious Action Center, is preparing a court petition to challenge the decision, despite a Supreme Court ruling recognizing non-Orthodox conversions",
+      "link": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/she-converted-during-covid-israel-says-her-zoom-course-doesnt-count/0000019a-0cc2-d582-a39e-5ef6f93e0000",
+      "source": "Haaretz",
+      "author": "JTA",
+      "published": "2025-10-22T21:06:16",
+      "scraped_at": "2025-10-22T22:08:44.065121",
+      "guid": "https://www.haaretz.com/israel-news/2025-10-23/ty-article/.premium/she-converted-during-covid-israel-says-her-zoom-course-doesnt-count/0000019a-0cc2-d582-a39e-5ef6f93e0000"
+    },
+    {
+      "title": "A Guide to Living Textually: Ilana Kurshan’s ‘Children of the Book’",
+      "description": "Throughout the memoir, Kurshan balances her love for Jewish texts and literature with raising her children. The post A Guide to Living Textually: Ilana Kurshan’s ‘Children of the Book’ appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/culture/arts/books/384506/a-guide-to-living-textually-ilana-kurshans-children-of-the-book/",
+      "source": "Jewish Journal",
+      "author": "Na’amit Sturm Nagel",
+      "published": "2025-10-22T23:51:21",
+      "scraped_at": "2025-10-23T00:35:12.498062",
+      "guid": "https://jewishjournal.com/?p=384506"
+    },
+    {
+      "title": "Saul Rubinek’s new one-man show asks, Is there ever a right time to play Shylock?",
+      "description": "“Playing Shylock,” opening in Brooklyn, imagines the cancellation of Shakespeare’s controversial play about the humiliation of a Jewish moneylender. -- The post Saul Rubinek’s new one-man show asks, Is there ever a right time to play Shylock? appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2025/10/22/ny/saul-rubineks-new-one-man-show-asks-is-there-ever-a-right-time-to-play-shylock",
+      "source": "JTA",
+      "author": "Andrew Silow-Carroll",
+      "published": "2025-10-22T14:00:53",
+      "scraped_at": "2025-10-22T14:09:58.755266",
+      "guid": "https://www.jta.org/?p=1891067"
+    },
+    {
+      "title": "Yiddish life in prewar Eastern Europe comes alive on this website",
+      "description": "On a quiet corner of the internet, a new website asks us to listen. That site — “https://www.yiddishculture.co/” — is more than a digital exhibit; it’s an act of cultural restitution. Each page restores the sound, movement and texture of Jewish life that once animated the streets of Poland and Lithuania, before silence fell. Yiddishculture.co.... The post Yiddish life in prewar Eastern Europe comes alive on this website appeared first on The Forward .",
+      "link": "https://forward.com/yiddish-world/778171/website-yiddish-life-prewar-eastern-europe-photos-maps-children-yivo/",
+      "source": "The Forward",
+      "author": "Judah Sussman",
+      "published": "2025-10-23T17:51:59",
+      "scraped_at": "2025-10-23T18:12:02.630152",
+      "guid": "https://forward.com/?p=778171"
     },
     {
       "title": "2,700-year-old Assyrian inscription unearthed near Temple Mount",
@@ -323,144 +393,14 @@
       "guid": "https://www.timesofisrael.com/?p=3671231"
     },
     {
-      "title": "Blood test 95% accurate in spotting suicide risk in bipolar patients, says Israeli scientist",
-      "description": "University of Haifa researcher says her team's AI model spots biomarkers in white blood cells; test could help monitor patients with bipolar disorder, 40% of whom will attempt suicide The post Blood test 95% accurate in spotting suicide risk in bipolar patients, says Israeli scientist appeared first on The Times of Israel .",
-      "link": "https://www.timesofisrael.com/blood-test-95-accurate-in-spotting-suicide-risk-in-bipolar-patients-says-israeli-scientist/",
-      "source": "Times of Israel",
-      "author": null,
-      "published": "2025-10-21T14:51:13",
-      "scraped_at": "2025-10-21T15:09:58.246851",
-      "guid": "https://www.timesofisrael.com/?p=3651613"
-    },
-    {
-      "title": "Chief Rabbinate says it’s willing to let women take some rabbinical tests",
-      "description": "After High Court of Justice ruled it must open its exams to women, state rabbinical body asks court to hold another hearing and postpone implementation of its original ruling The post Chief Rabbinate says it&#8217;s willing to let women take some rabbinical tests appeared first on The Times of Israel .",
-      "link": "https://www.timesofisrael.com/chief-rabbinate-says-its-willing-to-let-women-take-some-rabbinical-tests/",
-      "source": "Times of Israel",
-      "author": null,
-      "published": "2025-10-21T14:51:23",
-      "scraped_at": "2025-10-21T15:09:58.246803",
-      "guid": "https://www.timesofisrael.com/?p=3670446"
-    },
-    {
-      "title": "My Jewish studies students aren’t talking about Israel or antisemitism. They told me why.",
-      "description": "A professor at Tulane University unpacks the surprising discovery. -- The post My Jewish studies students aren&#8217;t talking about Israel or antisemitism. They told me why. appeared first on Jewish Telegraphic Agency .",
-      "link": "https://www.jta.org/2025/10/21/ideas/my-jewish-studies-students-arent-talking-about-israel-or-antisemitism-they-told-me-why",
-      "source": "JTA",
-      "author": "Ilana M. Horwitz",
-      "published": "2025-10-21T14:44:37",
-      "scraped_at": "2025-10-21T15:09:53.128261",
-      "guid": "https://www.jta.org/?p=1890825"
-    },
-    {
-      "title": "Marking global centennial, Reform movement aims to build bridges, strengthen Israel ties",
-      "description": "At its biannual conference in Jerusalem, the World Union for Progressive Judaism will repoen its Beit Shmuel headquarters as a cultural center and event space The post Marking global centennial, Reform movement aims to build bridges, strengthen Israel ties appeared first on The Times of Israel .",
-      "link": "https://www.timesofisrael.com/marking-global-centennial-reform-movement-aims-to-build-bridges-strengthen-israel-ties/",
-      "source": "Times of Israel",
-      "author": null,
-      "published": "2025-10-21T14:02:32",
-      "scraped_at": "2025-10-21T14:09:37.379533",
-      "guid": "https://www.timesofisrael.com/?p=3669637"
-    },
-    {
-      "title": "A sanctuary on campus: Hebrew classrooms at American universities after Oct. 7, 2023",
-      "description": "“I would say, anuchnu po (we are here), and the students would respond, anuchnu po beyachad (we are here together).” In the weeks after Oct. 7, 2023, this simple Hebrew call-and-response became a mantra in the classroom of one large public university. For students and their Israeli-born teacher, it was more than a language exercise:... Read More The post A sanctuary on campus: Hebrew classrooms at American universities after Oct. 7, 2023 appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/a-sanctuary-on-campus-hebrew-classrooms-at-american-universities-since-oct-7-2023/",
-      "source": "eJewish Philanthropy",
-      "author": "Sharon Avni",
-      "published": "2025-10-21T07:30:00",
-      "scraped_at": "2025-10-21T08:12:31.909832",
-      "guid": "https://ejewishphilanthropy.com/?p=164917"
-    },
-    {
-      "title": "UNESCO holds conference on Jew-hatred in higher ed, urges strategic action",
-      "description": "The conference and resulting policy paper aim to “ensure safer, more inclusive and equitable learning environments for Jewish students across Europe, while upholding principles of academic freedom and inclusivity.” The post UNESCO holds conference on Jew-hatred in higher ed, urges strategic action appeared first on JNS.org .",
-      "link": "https://www.jns.org/unesco-holds-conference-on-jew-hatred-in-higher-ed-urges-strategic-action/",
-      "source": "JNS",
-      "author": "Mike Wagenheim",
-      "published": "2025-10-20T18:57:52",
-      "scraped_at": "2025-10-20T19:08:47.465717",
-      "guid": "https://www.jns.org/?p=597108"
-    },
-    {
-      "title": "At NYC gala, Goldman family announces $2 million matching grant to Israel’s Ben-Gurion University",
-      "description": "At a Manhattan benefit for Americans for Ben-Gurion University on Sunday night, the Joyce and Irving Goldman Family Foundation announced a $2 million matching grant to support the university’s recovery from the Israel-Hamas war, including the Iranian missile strike that damaged academic facilities in June. The event, held in midtown Manhattan, drew several hundred supporters... Read More The post At NYC gala, Goldman family announces $2 million matching grant to Israel’s Ben-Gurion University appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/at-nyc-gala-goldman-family-announces-2-million-matching-grant-to-israels-ben-gurion-university/",
-      "source": "eJewish Philanthropy",
-      "author": "Nira Dayanim",
-      "published": "2025-10-20T12:19:24",
-      "scraped_at": "2025-10-20T13:16:41.776979",
-      "guid": "https://ejewishphilanthropy.com/?p=164889"
-    },
-    {
-      "title": "Fresh data shows Israeli emigration levels far outpacing immigration over past two years",
-      "description": "The State of Israel is a country made up overwhelmingly of immigrants, and Jewish immigration to Israel, or aliyah, remains a central tenet of Zionism. And while aliyah has continued through the past two years of war, during this time —and in the months preceding it — Israelhas become a state of emigration, with more... Read More The post Fresh data shows Israeli emigration levels far outpacing immigration over past two years appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/fresh-data-shows-israeli-emigration-levels-far-outpacing-immigration-over-past-two-years/",
-      "source": "eJewish Philanthropy",
-      "author": "Judah Ari Gross",
-      "published": "2025-10-20T12:24:17",
-      "scraped_at": "2025-10-20T13:16:41.776921",
-      "guid": "https://ejewishphilanthropy.com/?p=164896"
-    },
-    {
-      "title": "We cannot forget the fallen",
-      "description": "The images of hostages returning home, embracing their families after months of captivity, have moved us all to tears of relief and joy. We should celebrate these reunions. We must feel this happiness. But even as we rejoice, we cannot declare victory. We cannot move on. Sixteen hostages remain in Gaza, and they are not... Read More The post We cannot forget the fallen appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/we-cannot-forget-the-fallen/",
-      "source": "eJewish Philanthropy",
-      "author": "Sara Fredman Aeder",
-      "published": "2025-10-20T08:30:00",
-      "scraped_at": "2025-10-20T09:10:48.867396",
-      "guid": "https://ejewishphilanthropy.com/?p=164877"
-    },
-    {
-      "title": "US Jewish group publishes ‘Shofar Report,’ a liberal alternative to Trump’s antisemitism strategy",
-      "description": "The group says 'Project Esther,' crackdown on antisemitism on campuses, 'weaponizes' anti-Jewish activity to advance the US president's wider agenda against US universities The post US Jewish group publishes &#8216;Shofar Report,&#8217; a liberal alternative to Trump&#8217;s antisemitism strategy appeared first on The Times of Israel .",
-      "link": "https://www.timesofisrael.com/us-jewish-group-publishes-shofar-report-a-liberal-alternative-to-trumps-antisemitism-strategy/",
-      "source": "Times of Israel",
-      "author": null,
-      "published": "2025-10-18T10:35:30",
-      "scraped_at": "2025-10-18T11:08:26.465565",
-      "guid": "https://www.timesofisrael.com/?p=3667997"
-    },
-    {
-      "title": "Course on Yiddish in Ukraine in the 20th century",
-      "description": "ווי בײַ יעדן לערן־זמן פֿון דער ווירטועלער ייִדיש־פּראָגראַם בײַם אַרבעטער רינג, וועט מען במשך פֿונעם האַרבסט־זמן 2025 לערנען אַ צאָל אינטערעסאַנטע ווײַטהאַלטער־קורסן אויף ייִדיש. דער פֿאָרשער גענאַדי עסטרײַך וועט לערנען אַ קורס וועגן דער ייִדישער ליטעראַטור אין אוקראַיִנע במשך פֿונעם 20סטן יאָרהונדערט, אַרײַנגערעכנט די שרײַבער פֿון דער „קיִעווער גרופּע“— דוד בערגעלסאָן און דער ניסתּר. מע... The post Course on Yiddish in Ukraine in the 20th century appeared first on The Forward .",
-      "link": "https://forward.com/yiddish/776899/course-on-ukrainian-yiddish-literature-at-the-workers-circle/",
-      "source": "The Forward",
-      "author": "פֿאָרווערטס־רעדאַקציע",
-      "published": "2025-10-17T18:50:42",
-      "scraped_at": "2025-10-17T19:10:43.958295",
-      "guid": "https://forward.com/?p=776899"
-    },
-    {
-      "title": "Multicultural Jewish nonprofit Be’chol Lashon 2.0 launches with anthology at New York Comic Con",
-      "description": "Every year, more than 200,000 fanboys and fangirls surge into Manhattan’s Jacob K. Javits Convention Center for the East Coast’s biggest ode to pop culture: New York Comic Con. When comic creator Julian Voloj accepted a position at the Jewish diversity nonprofit Bechol Lashon in 2017, he had an idea in the back of his... Read More The post Multicultural Jewish nonprofit Be&#8217;chol Lashon 2.0 launches with anthology at New York Comic Con appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/multicultural-jewish-nonprofit-bechol-lashon-2-0-launches-with-anthology-at-new-york-comic-con/",
-      "source": "eJewish Philanthropy",
-      "author": "Jay Deitcher",
-      "published": "2025-10-17T11:17:36",
-      "scraped_at": "2025-10-17T12:14:55.042666",
-      "guid": "https://ejewishphilanthropy.com/?p=164849"
-    },
-    {
-      "title": "The emergency isn’t over: Why Jewish philanthropy must stay in crisis mode after the war",
-      "description": "When I was a freshman football player, I had a coach from South Jersey whose accent sounded more like the Deep South. Whenever he thought we weren’t giving enough effort, he’d bark, “You gotta have a sense of UR-GEN-SEEE!” I’m still not sure if he added or removed a syllable, but the point always landed:... Read More The post The emergency isn’t over: Why Jewish philanthropy must stay in crisis mode after the war appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/the-emergency-isnt-over-why-jewish-philanthropy-must-stay-in-crisis-mode-after-the-war/",
-      "source": "eJewish Philanthropy",
-      "author": "Will Eastman",
-      "published": "2025-10-17T08:30:00",
-      "scraped_at": "2025-10-17T09:10:07.033171",
-      "guid": "https://ejewishphilanthropy.com/?p=164834"
-    },
-    {
-      "title": "Remembering my chavruta: Rabbi Moshe Hauer, z”l",
-      "description": "Earlier this week on Simchat Torah, we read the Torah’s final description of the biblical Moshe’s life of inspired leadership: “There never arose another one like Moshe” (Deuteronomy 34:10). These words carry poignant resonance as our Jewish community mourns the sudden death of our beloved sage, Rabbi Moshe Hauer, z”l. Many Jewish leaders talk about... Read More The post Remembering my <em>chavruta</em>: Rabbi Moshe Hauer, <em>z”l</em> appeared first on eJewishPhilanthropy .",
-      "link": "https://ejewishphilanthropy.com/remembering-my-chavruta-rabbi-moshe-hauer-zl/",
-      "source": "eJewish Philanthropy",
-      "author": "Rabbi Rick Jacobs",
-      "published": "2025-10-17T02:00:00",
-      "scraped_at": "2025-10-17T04:10:47.369344",
-      "guid": "https://ejewishphilanthropy.com/?p=164817"
+      "title": "Assyrian cuneiform hinting at tax dodging found in First Temple Jerusalem",
+      "description": "Sealing fragment from Assyria found in Jerusalem for the first time. Assyriologists believe it's a complaint.",
+      "link": "https://www.haaretz.com/archaeology/2025-10-22/ty-article/assyrian-cuneiform-hinting-at-tax-dodging-found-in-first-temple-jerusalem/0000019a-0b0b-d44f-ab9e-9b2b54e60000",
+      "source": "Haaretz",
+      "author": "Ruth Schuster",
+      "published": "2025-10-22T09:56:24",
+      "scraped_at": "2025-10-22T10:10:30.370992",
+      "guid": "https://www.haaretz.com/archaeology/2025-10-22/ty-article/assyrian-cuneiform-hinting-at-tax-dodging-found-in-first-temple-jerusalem/0000019a-0b0b-d44f-ab9e-9b2b54e60000"
     }
   ]
 }

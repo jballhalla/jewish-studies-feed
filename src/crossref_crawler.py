@@ -328,8 +328,8 @@ class CrossrefCrawler:
             #recent_df = recent_df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
             #recent_df = recent_df.where(pd.notna(recent_df), None)
             # **REPLACE NaN with None**
-            recent_df = recent_df.fillna(value=None)
-            
+            recent_df = recent_df.astype(object).where(pd.notna(recent_df), None)
+
             # Group by journal for better organization
             output = {
                 'update': datetime.now().isoformat(),

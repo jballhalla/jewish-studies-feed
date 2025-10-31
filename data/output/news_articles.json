@@ -1,10 +1,911 @@
 {
-  "update": "2025-10-31T07:07:46.225749",
-  "articles_count": 0,
+  "update": "2025-10-31T15:55:17.506045",
+  "articles_count": 43,
   "filtered_date": "2025-10-31",
   "week_start": "2025-10-24",
-  "has_articles": false,
-  "sources": {},
-  "all_articles": [],
-  "message": "No research-relevant articles found for this week."
+  "has_articles": true,
+  "sources": {
+    "eJewish Philanthropy": {
+      "count": 4,
+      "articles": [
+        {
+          "title": "New report shows DAFs’ outsized role in times of crisis",
+          "description": "Over the last two decades, donor-advised funds have skyrocketed in popularity, offering donors a more convenient vehicle for charitable giving than more traditional offerings. But a new study released this week by the Lilly Family School of Philanthropy at Indiana University and the CCS Fundraising consulting firm finds that DAFs are also playing an outsized... Read More The post New report shows DAFs&#8217; outsized role in times of crisis appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/new-report-shows-dafs-outsized-role-in-times-of-crisis/",
+          "source": "eJewish Philanthropy",
+          "author": "Jay Deitcher",
+          "published": "2025-10-31T11:54:20",
+          "scraped_at": "2025-10-31T12:15:26.001794",
+          "guid": "https://ejewishphilanthropy.com/?p=165385"
+        },
+        {
+          "title": "Center-left and center-right blocs agree to split top WZO, KKL-JNF positions in power-sharing deal",
+          "description": "The center-left and center-right blocs of the World Zionist Congress reached a coalition agreement on Wednesday, under which they will split control of the World Zionist Organization and Keren Kayemeth LeIsrael-Jewish National Fund, a WZO official told eJewishPhilanthropy. Under the agreement, the WZO and KKL-JNF chairs’ terms will be split in two, with the WZO... Read More The post Center-left and center-right blocs agree to split top WZO, KKL-JNF positions in power-sharing deal appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/center-left-and-center-right-blocs-agree-to-split-top-wzo-and-kkl-jnf-positions-in-power-sharing-agreement/",
+          "source": "eJewish Philanthropy",
+          "author": "Judah Ari Gross",
+          "published": "2025-10-29T14:51:31",
+          "scraped_at": "2025-10-29T15:09:32.604621",
+          "guid": "https://ejewishphilanthropy.com/?p=165228"
+        },
+        {
+          "title": "Memorial Foundation for Jewish Culture marks 60 years of enabling Jewish Peoplehood",
+          "description": "The Memorial Foundation for Jewish Culture has gone through multiple iterations in its 60 years. First the organization, which was founded by Nahum Goldmann with German reparations, focused on reconstructing Jewish cultural life in the wake of the Holocaust and then pivoted to a broader focus on Jewish Peoplehood. More recently, the foundation has started... Read More The post Memorial Foundation for Jewish Culture marks 60 years of enabling Jewish Peoplehood appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/memorial-foundation-for-jewish-culture-marks-60-years-of-enabling-peoplehood-around-the-world/",
+          "source": "eJewish Philanthropy",
+          "author": "Judith Sudilovsky",
+          "published": "2025-10-29T12:11:08",
+          "scraped_at": "2025-10-29T12:15:21.868761",
+          "guid": "https://ejewishphilanthropy.com/?p=165214"
+        },
+        {
+          "title": "‘We’ll always have day school’: The relationship between Jewish nostalgia and Jewish fluency",
+          "description": "I first pondered the term “Jewish fluency” after I watched writer and podcaster Dan Senor’s 45th annual State of World Jewry address in May. I presently serve as board chair at Sinai Akiba Academy in Los Angeles, and as the video of Senor’s speech made its way around our school board and school community, the... Read More The post ‘We’ll always have day school’: The relationship between Jewish nostalgia and Jewish fluency appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/well-always-have-day-school-the-relationship-between-jewish-nostalgia-and-jewish-fluency/",
+          "source": "eJewish Philanthropy",
+          "author": "Eszter Neuman",
+          "published": "2025-10-29T07:30:00",
+          "scraped_at": "2025-10-29T08:12:17.977589",
+          "guid": "https://ejewishphilanthropy.com/?p=165188"
+        }
+      ]
+    },
+    "Times of Israel": {
+      "count": 9,
+      "articles": [
+        {
+          "title": "Friday Focus with Lazar Berman: New hope for Catholic-Jewish ties",
+          "description": "ToI's diplomatic correspondent assesses the fraught relationship 60 years to Nostra Aetate and delves into the landmark document's genesis The post Friday Focus with Lazar Berman: New hope for Catholic-Jewish ties appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/friday-focus-with-lazar-berman-new-hope-for-catholic-jewish-ties/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-31T08:50:26",
+          "scraped_at": "2025-10-31T09:09:58.713565",
+          "guid": "https://www.timesofisrael.com/?p=3677573&preview=true&preview_id=3677573"
+        },
+        {
+          "title": "With Gaza war paused, Catholic-Jewish ties reenergized on Nostra Aetate anniversary",
+          "description": "The dialogue sparked by the 1965 Vatican document reached new lows after October 7. Now that fighting might be over, optimism surrounds Pope Leo's determination to make progress The post With Gaza war paused, Catholic-Jewish ties reenergized on Nostra Aetate anniversary appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/with-gaza-war-paused-catholic-jewish-ties-reenergized-on-nostra-aetate-anniversary/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-31T07:03:31",
+          "scraped_at": "2025-10-31T08:11:32.205284",
+          "guid": "https://www.timesofisrael.com/?p=3677405"
+        },
+        {
+          "title": "Philip Roth’s latest biographer wants Jews to read him again — without the guilt",
+          "description": "In 'Philip Roth: Stung by Life,' Stanford professor Steven Zipperstein argues for the brilliance and relevance of a writer who 'probed nearly every aspect of contemporary Jewish life' The post Philip Roth’s latest biographer wants Jews to read him again — without the guilt appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/philip-roths-latest-biographer-wants-jews-to-read-him-again-without-the-guilt/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-30T23:21:22",
+          "scraped_at": "2025-10-31T00:35:37.817369",
+          "guid": "https://www.timesofisrael.com/?p=3674803"
+        },
+        {
+          "title": "After October 7, some seek healing from kabbalah-informed psychedelic retreats",
+          "description": "Founded by Rabbi Zac Kamenetz, Shefa Jewish Psychedelic Support turned from an education-only organization to an experiential one after seeing need following the Hamas-led massacre The post After October 7, some seek healing from kabbalah-informed psychedelic retreats appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/after-october-7-jews-seek-healing-from-kabbalah-informed-psychedelic-retreats/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-30T23:44:48",
+          "scraped_at": "2025-10-31T00:35:37.817277",
+          "guid": "https://www.timesofisrael.com/?p=3677868"
+        },
+        {
+          "title": "ADL enlists major law firms to launch pro bono network for US antisemitism cases",
+          "description": "The turn toward litigation represents a shift in tactics as the group focuses on antisemitic offenses amid soaring anti-Jewish bigotry and pressure from the Trump administration The post ADL enlists major law firms to launch pro bono network for US antisemitism cases appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-us-antisemitism-cases/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-30T13:39:05",
+          "scraped_at": "2025-10-30T14:09:36.643560",
+          "guid": "https://www.timesofisrael.com/?p=3676647"
+        },
+        {
+          "title": "Major archaeological sites in Iraq at risk of erosion due to climate change",
+          "description": "Dry weather is increasing salinity in soil and damaging ruins of cities such as Ur, birthplace of Biblical patriarch Abraham, and ancient capital Babylon, warn archaeologists The post Major archaeological sites in Iraq at risk of erosion due to climate change appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/major-archaeological-sites-in-iraq-at-risk-of-erosion-due-to-climate-change/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-30T10:01:34",
+          "scraped_at": "2025-10-30T10:10:06.037232",
+          "guid": "https://www.timesofisrael.com/?p=3677143"
+        },
+        {
+          "title": "Nvidia and Microsoft ranked as 2 best tech firms to work for in Israel in 2025 war year",
+          "description": "2025 ranking by Dun &#038; Bradstreet finds preferences shifted in the wake of Gaza war as employees sought stable workplaces supporting reserve soldiers and families in crisis periods The post Nvidia and Microsoft ranked as 2 best tech firms to work for in Israel in 2025 war year appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/nvidia-and-microsoft-ranked-as-2-best-tech-firms-to-work-for-in-israel-in-2025-war-year/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-29T16:54:33",
+          "scraped_at": "2025-10-29T17:09:09.425186",
+          "guid": "https://www.timesofisrael.com/?p=3676549"
+        },
+        {
+          "title": "AI chipmaking giant Nvidia becomes world’s first $5 trillion company",
+          "description": "Having already been the first firm to pass the $4 trillion mark earlier this year, Nvidia's market cap is now greater than the GDP of India, Japan and the United Kingdom The post AI chipmaking giant Nvidia becomes world&#8217;s first $5 trillion company appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/ai-chipmaking-giant-nvidia-becomes-worlds-first-5-trillion-company/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-29T16:54:56",
+          "scraped_at": "2025-10-29T17:09:09.425137",
+          "guid": "https://www.timesofisrael.com/?p=3676607"
+        },
+        {
+          "title": "German government pledges record $1 billion in funding for Holocaust survivor home care",
+          "description": "The budget reflects the growing needs of an aging survivor population and will now enable all Holocaust survivors on waitlists for home care to receive it The post German government pledges record $1 billion in funding for Holocaust survivor home care appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/german-government-pledges-record-1-billion-in-funding-for-holocaust-survivor-home-care/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2025-10-29T14:27:46",
+          "scraped_at": "2025-10-29T15:09:39.533758",
+          "guid": "https://www.timesofisrael.com/?p=3676243"
+        }
+      ]
+    },
+    "Algemeiner": {
+      "count": 4,
+      "articles": [
+        {
+          "title": "‘Blood and Soil’: Harvard Conservative Group Publishes Hitleresque Essay Amid Rise in Right-Wing Antisemitism",
+          "description": "A conservative student magazine at Harvard University has been suspended by its board of directors following publication of an article...",
+          "link": "https://www.algemeiner.com/2025/10/30/blood-soil-harvard-conservative-group-publishes-hitleresque-essay-rise-right-wing-antisemitism/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2025-10-30T21:35:23",
+          "scraped_at": "2025-10-30T22:08:58.534639",
+          "guid": "https://www.algemeiner.com/?p=756519"
+        },
+        {
+          "title": "Civil Rights Leader Alyza Lewin Joins Combat Antisemitism Movement",
+          "description": "Civil rights leader and constitutional lawyer Alyza Lewin will draw on her family legacy of Jewish resilience and advocacy in...",
+          "link": "https://www.algemeiner.com/2025/10/29/civil-rights-leader-alyza-lewin-joins-combat-antisemitism-movement/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2025-10-29T21:34:29",
+          "scraped_at": "2025-10-29T22:09:09.806544",
+          "guid": "https://www.algemeiner.com/?p=756415"
+        },
+        {
+          "title": "Germany Allocates More Than $1 Billion in Home Care for Holocaust Survivors Globally",
+          "description": "Germany has agreed to allocate more than $1 billion for home care for Holocaust survivors around the world in 2026,...",
+          "link": "https://www.algemeiner.com/2025/10/29/germany-allocates-more-1-billion-home-care-holocaust-survivors-globally/",
+          "source": "Algemeiner",
+          "author": "Shiryn Ghermezian",
+          "published": "2025-10-29T17:40:38",
+          "scraped_at": "2025-10-29T18:12:43.356972",
+          "guid": "https://www.algemeiner.com/?p=756412"
+        },
+        {
+          "title": "New Film Tells a Powerful Story of Teenage Resistance to Hitler",
+          "description": "While students of the Holocaust may know about Sophie Scholl’s defiance of Hitler, which resulted in her execution, Helmuth Hubener...",
+          "link": "https://www.algemeiner.com/2025/10/29/new-film-tells-a-powerful-story-of-teenage-resistance-to-hitler/",
+          "source": "Algemeiner",
+          "author": "Alan Zeitlin",
+          "published": "2025-10-29T16:12:59",
+          "scraped_at": "2025-10-29T17:09:16.391994",
+          "guid": "https://www.algemeiner.com/?p=756301"
+        }
+      ]
+    },
+    "The Forward": {
+      "count": 8,
+      "articles": [
+        {
+          "title": "A conference about YIVO takes place in its birthplace — Vilnius",
+          "description": "פֿונעם 19טן ביזן 21סטן אָקטאָבער איז אין ווילנע פֿאָרגעקומען אַ גרויסע קאָנפֿערענץ לכּבֿוד דעם 100סטן יובֿל פֿונעם ייִוואָ. איבער 25 פֿאָרשערס פֿון אַרום דער וועלט האָבן געהאַלטן לעקציעס און געלייענט רעפֿעראַטן, דער עיקר וועגן היסטאָרישע טעמעס פֿאַרבונדן מיט דער אָנגעזעענער אינסטיטוציע. אַ סך רעדנערס האָבן דערציילט וועגן די ספּעציעלע מעלות פֿון דער שטאָט ווילנע פֿאַר... The post A conference about YIVO takes place in its birthplace — Vilnius appeared first on The Forward .",
+          "link": "https://forward.com/yiddish/779944/a-conference-about-yivo-takes-place-in-its-birthplace-vilnius/",
+          "source": "The Forward",
+          "author": "לייזער בורקאָ",
+          "published": "2025-10-30T20:07:01",
+          "scraped_at": "2025-10-30T20:09:47.240683",
+          "guid": "https://forward.com/?p=779944"
+        },
+        {
+          "title": "How a curator and a rabbi joined forces to keep a piece of Boston’s Jewish history alive",
+          "description": "The most striking artifact in the Judaica collection at Boston’s Museum of Fine Arts isn’t from Yemen or Galicia, or any other far-flung Jewish community that’s long since dispersed; it’s from Chelsea, Massachusetts. The magnificent wooden Torah ark is just shy of 12 feet tall, and until 1999 it was the centerpiece of the Orange... The post How a curator and a rabbi joined forces to keep a piece of Boston&#8217;s Jewish history alive appeared first on The Forward .",
+          "link": "https://forward.com/culture/779536/curator-rabbi-rescue-judaica-museum-torah-ark/",
+          "source": "The Forward",
+          "author": "Noah Hirsch-Rechter",
+          "published": "2025-10-30T13:30:19",
+          "scraped_at": "2025-10-30T14:09:34.218479",
+          "guid": "https://forward.com/?p=779536"
+        },
+        {
+          "title": "ADL removes ‘Protect Civil Rights’ from website as it narrows its mission amid right-wing attacks",
+          "description": "(JTA) — The Anti-Defamation League has removed entirely from the “What We Do” page of its website a section called “Protect Civil Rights.” The removal eliminated a passage that read, “Our founders established ADL with the clear understanding that the fight against any one form of prejudice or hate cannot succeed without countering hate of... The post ADL removes ‘Protect Civil Rights’ from website as it narrows its mission amid right-wing attacks appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/779686/adl-removes-protect-civil-rights-from-website-as-it-narrows-its-mission-amid-right-wing-attacks/",
+          "source": "The Forward",
+          "author": "Ron Kampeas",
+          "published": "2025-10-29T19:39:45",
+          "scraped_at": "2025-10-29T20:10:18.465707",
+          "guid": "https://forward.com/?p=779686"
+        },
+        {
+          "title": "Maria Ka’s cosmic Yiddish music — from punk grit to starlight",
+          "description": "When Polish-born musician Maria Ka released her latest album Di Mashin (The Machine), she wasn’t merely reviving Yiddish song — she was remaking it in her own cosmic image. Performing out of Gdańsk, she fuses everyday Yiddish speech with the vastness of outer space, using synths, distortion and humor to connect the language’s earthly pulse... The post Maria Ka’s cosmic Yiddish music — from punk grit to starlight appeared first on The Forward .",
+          "link": "https://forward.com/yiddish-world/779524/maria-kas-cosmic-yiddish-electronica-punk-gdansk-poland/",
+          "source": "The Forward",
+          "author": "Judah Sussman",
+          "published": "2025-10-29T18:18:26",
+          "scraped_at": "2025-10-29T19:08:28.699943",
+          "guid": "https://forward.com/?p=779524"
+        },
+        {
+          "title": "Rabbi Alvin Kass, longest-serving NYPD chaplain famed for 9/11 response, dies at 89",
+          "description": "(JTA) — Less than a week after rushing to Ground Zero as a police chaplain on 9/11, Rabbi Alvin Kass led Rosh Hashanah services — not only for his Brooklyn congregation but at a makeshift synagogue at LaGuardia Airport for emergency responders who had flooded into New York City after the terrorist attacks. “It was,”... The post Rabbi Alvin Kass, longest-serving NYPD chaplain famed for 9/11 response, dies at 89 appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/779497/rabbi-alvin-kass-longest-serving-nypd-chaplain-famed-for-9-11-response-dies-at-89/",
+          "source": "The Forward",
+          "author": "Philissa Cramer",
+          "published": "2025-10-29T17:23:16",
+          "scraped_at": "2025-10-29T18:12:34.270302",
+          "guid": "https://forward.com/?p=779497"
+        },
+        {
+          "title": "ADL enlists major law firms to launch pro bono network for antisemitism cases",
+          "description": "(JTA) — The Anti-Defamation League is launching a nationwide legal service to connect victims of antisemitism with lawyers who are able to take their cases on a pro-bono basis. The initiative comes as the ADL has increasingly turned to litigation as a tactic — the group says it has filed more lawsuits and legal complaints... The post ADL enlists major law firms to launch pro bono network for antisemitism cases appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/779434/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-antisemitism-cases/",
+          "source": "The Forward",
+          "author": "Asaf Elia-Shalev",
+          "published": "2025-10-29T14:21:36",
+          "scraped_at": "2025-10-29T15:09:37.366122",
+          "guid": "https://forward.com/?p=779434"
+        },
+        {
+          "title": "American synagogues are closing at a record rate. This retired judge is rescuing their stained glass windows.",
+          "description": "CHICAGO — Jerry Orbach moves through the sanctuary of Northbrook Community Synagogue with the practiced eye of a man who’s spent years rescuing pieces of a fading world. The suburban Chicago congregation glows with stained glass saved from shuttered synagogues, their colors reframed along these walls. What began as one man’s mission has turned the... The post American synagogues are closing at a record rate. This retired judge is rescuing their stained glass windows. appeared first on The Forward .",
+          "link": "https://forward.com/news/779236/saving-stained-glass-synagogues/",
+          "source": "The Forward",
+          "author": "Benyamin Cohen",
+          "published": "2025-10-29T11:06:53",
+          "scraped_at": "2025-10-29T11:08:51.058637",
+          "guid": "https://forward.com/?p=779236"
+        },
+        {
+          "title": "German government pledges record $1B in funding for Holocaust survivor home care",
+          "description": "(JTA) — The German government has agreed to allocate $1.08 billion in funds for home care for survivors for 2026, marking the largest budget for home care in its history of Holocaust reparations, reflecting the growing needs of an aging survivor population. The funding, which was secured following negotiations with the Conference on Jewish Material... The post German government pledges record $1B in funding for Holocaust survivor home care appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/779392/german-government-pledges-record-1b-in-funding-for-holocaust-survivor-home-care/",
+          "source": "The Forward",
+          "author": "Grace Gilson",
+          "published": "2025-10-29T08:47:00",
+          "scraped_at": "2025-10-29T09:09:52.183988",
+          "guid": "https://forward.com/?p=779392"
+        }
+      ]
+    },
+    "Haaretz": {
+      "count": 8,
+      "articles": [
+        {
+          "title": "Shaphan the Scribe and the Jewish Question: Or, how not to find the elephant in the room",
+          "description": "The claim was made that Shaphan 'invented' Judaism as we know it, and that the only real find in ancient Jerusalem was a toilet. An archaeologist answers",
+          "link": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/shaphan-the-scribe-and-the-jewish-question-or-how-not-to-find-the-elephant-in-the-room/0000019a-35df-d856-a9ff-7fffa4700000",
+          "source": "Haaretz",
+          "author": "Aren Maeir",
+          "published": "2025-10-30T16:37:02",
+          "scraped_at": "2025-10-30T17:09:10.251245",
+          "guid": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/shaphan-the-scribe-and-the-jewish-question-or-how-not-to-find-the-elephant-in-the-room/0000019a-35df-d856-a9ff-7fffa4700000"
+        },
+        {
+          "title": "New study: Half of Gaza war reservists with PTSD symptoms struggle to reenter workforce",
+          "description": "The study, conducted by the Israel Trauma and Resiliency Center, also found that nearly one in three IDF reservists continue to struggle with returning to work or pursuing further studies",
+          "link": "https://www.haaretz.com/israel-news/2025-10-30/ty-article/.premium/new-study-half-of-gaza-war-reservists-with-ptsd-symptoms-struggle-to-reenter-workforce/0000019a-3578-d856-a9ff-7ffb66570000",
+          "source": "Haaretz",
+          "author": "Ido Efrati",
+          "published": "2025-10-30T15:46:36",
+          "scraped_at": "2025-10-30T16:11:26.642515",
+          "guid": "https://www.haaretz.com/israel-news/2025-10-30/ty-article/.premium/new-study-half-of-gaza-war-reservists-with-ptsd-symptoms-struggle-to-reenter-workforce/0000019a-3578-d856-a9ff-7ffb66570000"
+        },
+        {
+          "title": "'Teenage T. rex' wasn't a tyrannosaur, new study proves",
+          "description": "A shocking new study defines Nanotyrannus as stand-alone species, in fact at least two species, overturning decades of assuming that tiny T. rex-type skeletons were babies. Some were, some weren't",
+          "link": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/teenage-t-rex-wasnt-a-tyrannosaur-paleontologists-prove/0000019a-3579-da7a-abdb-bffb1b890000",
+          "source": "Haaretz",
+          "author": "Ruth Schuster",
+          "published": "2025-10-30T16:00:14",
+          "scraped_at": "2025-10-30T16:11:26.642478",
+          "guid": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/teenage-t-rex-wasnt-a-tyrannosaur-paleontologists-prove/0000019a-3579-da7a-abdb-bffb1b890000"
+        },
+        {
+          "title": "Jews in space: A new documentary on practicing Judaism beyond Earth",
+          "description": "The film 'Fiddler on the Moon: Judaism in Space' explores how astronauts like Ilan Ramon adapted Jewish law to life in orbit",
+          "link": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/awaiting-quotes-how-do-jews-observe-shabbat-on-mars-a-new-documentary-tells-how/0000019a-3042-ddf1-a1db-fcffaba10000",
+          "source": "Haaretz",
+          "author": "Tzach Yoked",
+          "published": "2025-10-30T10:43:10",
+          "scraped_at": "2025-10-30T11:08:58.531116",
+          "guid": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/awaiting-quotes-how-do-jews-observe-shabbat-on-mars-a-new-documentary-tells-how/0000019a-3042-ddf1-a1db-fcffaba10000"
+        },
+        {
+          "title": "How a French rabbi and a Palestinian peace activist are tackling the post-October 7 'linguistic crisis'",
+          "description": "Both Delphine Horvilleur and Ghadir Hani were involved in interfaith dialogue long before October 7. The pair share their expert advice on how to have constructive conversations after two years of toxic Israel-Palestine discourse",
+          "link": "https://www.haaretz.com/life/2025-10-30/ty-article-magazine/.premium/how-a-french-rabbi-and-a-palestinian-activist-are-tackling-todays-linguistic-crisis/0000019a-2f6f-ddf1-a1db-ffffd75f0000",
+          "source": "Haaretz",
+          "author": "Linda Dayan",
+          "published": "2025-10-29T22:07:43",
+          "scraped_at": "2025-10-29T23:09:07.922604",
+          "guid": "https://www.haaretz.com/life/2025-10-30/ty-article-magazine/.premium/how-a-french-rabbi-and-a-palestinian-activist-are-tackling-todays-linguistic-crisis/0000019a-2f6f-ddf1-a1db-ffffd75f0000"
+        },
+        {
+          "title": "'Wild applause that went on and on': In Spain, a powerful sign of Jewish revival",
+          "description": "All three members of this year's graduating class at the rabbinical seminary run by the Reform movement in Argentina happened to be from Spain. It was as good an excuse as any to hold the first ordination ceremony in Spain in more than 500 years",
+          "link": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/wild-applause-that-went-on-and-on-in-spain-a-powerful-sign-of-jewish-revival/0000019a-2fad-db3e-affa-bfade72b0000",
+          "source": "Haaretz",
+          "author": "Judy Maltz",
+          "published": "2025-10-29T22:09:25",
+          "scraped_at": "2025-10-29T23:09:07.922572",
+          "guid": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/wild-applause-that-went-on-and-on-in-spain-a-powerful-sign-of-jewish-revival/0000019a-2fad-db3e-affa-bfade72b0000"
+        },
+        {
+          "title": "'A very historical moment': Meet the first Black-African delegate to the 'parliament of the Jewish people'",
+          "description": "Rabbi Gershom Sizomu, the spiritual leader of the Abayudaya community, is the first representative of Uganda to hold a seat in the World Zionist Congress. He sees it as a sign of growing acceptance of Jewish diversity",
+          "link": "https://www.haaretz.com/jewish/2025-10-29/ty-article/.premium/meet-the-first-black-african-delegate-to-the-parliament-of-the-jewish-people/0000019a-2f6d-d4aa-a9fa-2feda71c0000",
+          "source": "Haaretz",
+          "author": "Judy Maltz",
+          "published": "2025-10-29T13:17:42",
+          "scraped_at": "2025-10-29T14:09:47.536293",
+          "guid": "https://www.haaretz.com/jewish/2025-10-29/ty-article/.premium/meet-the-first-black-african-delegate-to-the-parliament-of-the-jewish-people/0000019a-2f6d-d4aa-a9fa-2feda71c0000"
+        },
+        {
+          "title": "European passports slip away: Israelis face new obstacles to naturalization abroad",
+          "description": "As tens of thousands of Israelis relocate and more plan to follow, naturalization programs in Europe and North America are tightening requirements",
+          "link": "https://www.haaretz.com/israel-news/2025-10-29/ty-article/.premium/european-passports-slip-away-israelis-face-new-obstacles-to-naturalization-abroad/0000019a-253c-dcd3-abdb-ad7ec3600000",
+          "source": "Haaretz",
+          "author": "Hadar Kane",
+          "published": "2025-10-29T12:14:17",
+          "scraped_at": "2025-10-29T13:18:43.557876",
+          "guid": "https://www.haaretz.com/israel-news/2025-10-29/ty-article/.premium/european-passports-slip-away-israelis-face-new-obstacles-to-naturalization-abroad/0000019a-253c-dcd3-abdb-ad7ec3600000"
+        }
+      ]
+    },
+    "Jewish Journal": {
+      "count": 3,
+      "articles": [
+        {
+          "title": "Two New Looks at the Face of American Jews on Film",
+          "description": "Two standout short films at the Soho International Film Festival examine Jewish identity. The post Two New Looks at the Face of American Jews on Film appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/culture/arts/film/384641/two-new-looks-at-the-face-of-american-jews-on-film/",
+          "source": "Jewish Journal",
+          "author": "Alan Zeitlin",
+          "published": "2025-10-30T07:05:13",
+          "scraped_at": "2025-10-30T07:09:49.027357",
+          "guid": "https://jewishjournal.com/?p=384641"
+        },
+        {
+          "title": "In Germany, Academic Activism Fuels Antisemitism",
+          "description": "The second anniversary of the massacres was an occasion for academics in Germany to spread anti-Israel propaganda. The post In Germany, Academic Activism Fuels Antisemitism appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/commentary/opinion/384614/in-germany-academic-activism-fuels-antisemitism/",
+          "source": "Jewish Journal",
+          "author": "Verena Buser",
+          "published": "2025-10-30T04:53:59",
+          "scraped_at": "2025-10-30T05:09:24.713172",
+          "guid": "https://jewishjournal.com/?p=384614"
+        },
+        {
+          "title": "Rabbis Need to Be Trained for the Job They Actually Do",
+          "description": "Rabbis are now called on for different types of communal roles. Roles that can’t be outsourced. Roles of relationship building, communication, teaching, and leadership. The post Rabbis Need to Be Trained for the Job They Actually Do appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/commentary/opinion/384595/rabbis-need-to-be-trained-for-the-job-they-actually-do/",
+          "source": "Jewish Journal",
+          "author": "Rabbi Ari Perten",
+          "published": "2025-10-29T21:09:58",
+          "scraped_at": "2025-10-29T22:09:04.449718",
+          "guid": "https://jewishjournal.com/?p=384595"
+        }
+      ]
+    },
+    "JNS": {
+      "count": 6,
+      "articles": [
+        {
+          "title": "An Australian Jewish author’s triumph over antisemitism",
+          "description": "Linda Margolin Royal's award-winning book honors the righteous who risked their lives to save Jews, including her family, during the Holocaust. The post An Australian Jewish author’s triumph over antisemitism appeared first on JNS.org .",
+          "link": "https://www.jns.org/an-australian-jewish-authors-triumph-over-antisemitism/",
+          "source": "JNS",
+          "author": "Eve Glover",
+          "published": "2025-10-30T05:23:15",
+          "scraped_at": "2025-10-30T06:12:59.446628",
+          "guid": "https://www.jns.org/?p=599788"
+        },
+        {
+          "title": "Israeli-founded companies produced $13 billion for New York in 2024, per report",
+          "description": "“Israelis have a knack for turning challenges into opportunities,” according to the U.S.-Israel Business Alliance. “This resilience has also proven beneficial to New Yorkers.” The post Israeli-founded companies produced $13 billion for New York in 2024, per report appeared first on JNS.org .",
+          "link": "https://www.jns.org/israeli-founded-companies-produced-13-billion-for-new-york-in-2024-per-report/",
+          "source": "JNS",
+          "author": "Mike Wagenheim",
+          "published": "2025-10-29T17:45:52",
+          "scraped_at": "2025-10-29T18:12:41.049491",
+          "guid": "https://www.jns.org/?p=599925"
+        },
+        {
+          "title": "Zionist Congress shows world Jewry’s division—and unity",
+          "description": "In Jerusalem, fierce debates and record participation amid rising antisemitism underline how the stakes have risen in the Diaspora. The post Zionist Congress shows world Jewry&#8217;s division—and unity appeared first on JNS.org .",
+          "link": "https://www.jns.org/zionist-congress-shows-world-jewrys-division-and-unity/",
+          "source": "JNS",
+          "author": "Canaan Lidor",
+          "published": "2025-10-29T10:19:37",
+          "scraped_at": "2025-10-29T11:08:58.053829",
+          "guid": "https://www.jns.org/?p=599716"
+        },
+        {
+          "title": "New York police study ZAKA’s Oct. 7 response in Israel",
+          "description": "Senior law enforcement officials met volunteers in Beit Shemesh to learn how faith-based responders aided victims of the Hamas-led attacks. The post New York police study ZAKA’s Oct. 7 response in Israel appeared first on JNS.org .",
+          "link": "https://www.jns.org/new-york-police-study-zakas-oct-7-response-in-israel/",
+          "source": "JNS",
+          "author": "JNS Staff",
+          "published": "2025-10-29T10:48:34",
+          "scraped_at": "2025-10-29T11:08:58.053744",
+          "guid": "https://www.jns.org/?p=599752"
+        },
+        {
+          "title": "Israel should lead with ‘moral diplomacy’",
+          "description": "Ethiopian-born scholar Dr. Shmuel Legesse envisions an academy to train Israeli professionals to communicate Israel’s values more effectively. The post Israel should lead with ‘moral diplomacy’ appeared first on JNS.org .",
+          "link": "https://www.jns.org/israel-should-lead-with-moral-diplomacy/",
+          "source": "JNS",
+          "author": "Steve Linde",
+          "published": "2025-10-29T08:48:28",
+          "scraped_at": "2025-10-29T09:09:58.810637",
+          "guid": "https://www.jns.org/?p=599424"
+        },
+        {
+          "title": "‘Education is the first wall in the fight against antisemitism’",
+          "description": "Israeli Education Minister Yoav Kisch addresses the International Pro-Israel Summit in Budapest, thanking Hungary for its “zero tolerance toward antisemitism.\" The post ‘Education is the first wall in the fight against antisemitism’ appeared first on JNS.org .",
+          "link": "https://www.jns.org/education-is-the-first-wall-in-the-fight-against-antisemitism/",
+          "source": "JNS",
+          "author": null,
+          "published": "2025-10-29T07:07:04",
+          "scraped_at": "2025-10-29T08:12:29.593322",
+          "guid": "https://www.jns.org/?p=599606"
+        }
+      ]
+    },
+    "JTA": {
+      "count": 1,
+      "articles": [
+        {
+          "title": "ADL enlists major law firms to launch pro bono network for antisemitism cases",
+          "description": "The growing focus on filing lawsuits represents a shift in tactics in the group's fight against antisemitism. -- The post ADL enlists major law firms to launch pro bono network for antisemitism cases appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2025/10/29/united-states/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-antisemitism-cases",
+          "source": "JTA",
+          "author": "Asaf Elia-Shalev",
+          "published": "2025-10-29T12:47:24",
+          "scraped_at": "2025-10-29T13:18:25.731078",
+          "guid": "https://www.jta.org/?p=1891458"
+        }
+      ]
+    }
+  },
+  "all_articles": [
+    {
+      "title": "New report shows DAFs’ outsized role in times of crisis",
+      "description": "Over the last two decades, donor-advised funds have skyrocketed in popularity, offering donors a more convenient vehicle for charitable giving than more traditional offerings. But a new study released this week by the Lilly Family School of Philanthropy at Indiana University and the CCS Fundraising consulting firm finds that DAFs are also playing an outsized... Read More The post New report shows DAFs&#8217; outsized role in times of crisis appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/new-report-shows-dafs-outsized-role-in-times-of-crisis/",
+      "source": "eJewish Philanthropy",
+      "author": "Jay Deitcher",
+      "published": "2025-10-31T11:54:20",
+      "scraped_at": "2025-10-31T12:15:26.001794",
+      "guid": "https://ejewishphilanthropy.com/?p=165385"
+    },
+    {
+      "title": "Friday Focus with Lazar Berman: New hope for Catholic-Jewish ties",
+      "description": "ToI's diplomatic correspondent assesses the fraught relationship 60 years to Nostra Aetate and delves into the landmark document's genesis The post Friday Focus with Lazar Berman: New hope for Catholic-Jewish ties appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/friday-focus-with-lazar-berman-new-hope-for-catholic-jewish-ties/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-31T08:50:26",
+      "scraped_at": "2025-10-31T09:09:58.713565",
+      "guid": "https://www.timesofisrael.com/?p=3677573&preview=true&preview_id=3677573"
+    },
+    {
+      "title": "With Gaza war paused, Catholic-Jewish ties reenergized on Nostra Aetate anniversary",
+      "description": "The dialogue sparked by the 1965 Vatican document reached new lows after October 7. Now that fighting might be over, optimism surrounds Pope Leo's determination to make progress The post With Gaza war paused, Catholic-Jewish ties reenergized on Nostra Aetate anniversary appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/with-gaza-war-paused-catholic-jewish-ties-reenergized-on-nostra-aetate-anniversary/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-31T07:03:31",
+      "scraped_at": "2025-10-31T08:11:32.205284",
+      "guid": "https://www.timesofisrael.com/?p=3677405"
+    },
+    {
+      "title": "Philip Roth’s latest biographer wants Jews to read him again — without the guilt",
+      "description": "In 'Philip Roth: Stung by Life,' Stanford professor Steven Zipperstein argues for the brilliance and relevance of a writer who 'probed nearly every aspect of contemporary Jewish life' The post Philip Roth’s latest biographer wants Jews to read him again — without the guilt appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/philip-roths-latest-biographer-wants-jews-to-read-him-again-without-the-guilt/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-30T23:21:22",
+      "scraped_at": "2025-10-31T00:35:37.817369",
+      "guid": "https://www.timesofisrael.com/?p=3674803"
+    },
+    {
+      "title": "After October 7, some seek healing from kabbalah-informed psychedelic retreats",
+      "description": "Founded by Rabbi Zac Kamenetz, Shefa Jewish Psychedelic Support turned from an education-only organization to an experiential one after seeing need following the Hamas-led massacre The post After October 7, some seek healing from kabbalah-informed psychedelic retreats appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/after-october-7-jews-seek-healing-from-kabbalah-informed-psychedelic-retreats/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-30T23:44:48",
+      "scraped_at": "2025-10-31T00:35:37.817277",
+      "guid": "https://www.timesofisrael.com/?p=3677868"
+    },
+    {
+      "title": "‘Blood and Soil’: Harvard Conservative Group Publishes Hitleresque Essay Amid Rise in Right-Wing Antisemitism",
+      "description": "A conservative student magazine at Harvard University has been suspended by its board of directors following publication of an article...",
+      "link": "https://www.algemeiner.com/2025/10/30/blood-soil-harvard-conservative-group-publishes-hitleresque-essay-rise-right-wing-antisemitism/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2025-10-30T21:35:23",
+      "scraped_at": "2025-10-30T22:08:58.534639",
+      "guid": "https://www.algemeiner.com/?p=756519"
+    },
+    {
+      "title": "A conference about YIVO takes place in its birthplace — Vilnius",
+      "description": "פֿונעם 19טן ביזן 21סטן אָקטאָבער איז אין ווילנע פֿאָרגעקומען אַ גרויסע קאָנפֿערענץ לכּבֿוד דעם 100סטן יובֿל פֿונעם ייִוואָ. איבער 25 פֿאָרשערס פֿון אַרום דער וועלט האָבן געהאַלטן לעקציעס און געלייענט רעפֿעראַטן, דער עיקר וועגן היסטאָרישע טעמעס פֿאַרבונדן מיט דער אָנגעזעענער אינסטיטוציע. אַ סך רעדנערס האָבן דערציילט וועגן די ספּעציעלע מעלות פֿון דער שטאָט ווילנע פֿאַר... The post A conference about YIVO takes place in its birthplace — Vilnius appeared first on The Forward .",
+      "link": "https://forward.com/yiddish/779944/a-conference-about-yivo-takes-place-in-its-birthplace-vilnius/",
+      "source": "The Forward",
+      "author": "לייזער בורקאָ",
+      "published": "2025-10-30T20:07:01",
+      "scraped_at": "2025-10-30T20:09:47.240683",
+      "guid": "https://forward.com/?p=779944"
+    },
+    {
+      "title": "Shaphan the Scribe and the Jewish Question: Or, how not to find the elephant in the room",
+      "description": "The claim was made that Shaphan 'invented' Judaism as we know it, and that the only real find in ancient Jerusalem was a toilet. An archaeologist answers",
+      "link": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/shaphan-the-scribe-and-the-jewish-question-or-how-not-to-find-the-elephant-in-the-room/0000019a-35df-d856-a9ff-7fffa4700000",
+      "source": "Haaretz",
+      "author": "Aren Maeir",
+      "published": "2025-10-30T16:37:02",
+      "scraped_at": "2025-10-30T17:09:10.251245",
+      "guid": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/shaphan-the-scribe-and-the-jewish-question-or-how-not-to-find-the-elephant-in-the-room/0000019a-35df-d856-a9ff-7fffa4700000"
+    },
+    {
+      "title": "New study: Half of Gaza war reservists with PTSD symptoms struggle to reenter workforce",
+      "description": "The study, conducted by the Israel Trauma and Resiliency Center, also found that nearly one in three IDF reservists continue to struggle with returning to work or pursuing further studies",
+      "link": "https://www.haaretz.com/israel-news/2025-10-30/ty-article/.premium/new-study-half-of-gaza-war-reservists-with-ptsd-symptoms-struggle-to-reenter-workforce/0000019a-3578-d856-a9ff-7ffb66570000",
+      "source": "Haaretz",
+      "author": "Ido Efrati",
+      "published": "2025-10-30T15:46:36",
+      "scraped_at": "2025-10-30T16:11:26.642515",
+      "guid": "https://www.haaretz.com/israel-news/2025-10-30/ty-article/.premium/new-study-half-of-gaza-war-reservists-with-ptsd-symptoms-struggle-to-reenter-workforce/0000019a-3578-d856-a9ff-7ffb66570000"
+    },
+    {
+      "title": "'Teenage T. rex' wasn't a tyrannosaur, new study proves",
+      "description": "A shocking new study defines Nanotyrannus as stand-alone species, in fact at least two species, overturning decades of assuming that tiny T. rex-type skeletons were babies. Some were, some weren't",
+      "link": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/teenage-t-rex-wasnt-a-tyrannosaur-paleontologists-prove/0000019a-3579-da7a-abdb-bffb1b890000",
+      "source": "Haaretz",
+      "author": "Ruth Schuster",
+      "published": "2025-10-30T16:00:14",
+      "scraped_at": "2025-10-30T16:11:26.642478",
+      "guid": "https://www.haaretz.com/archaeology/2025-10-30/ty-article/teenage-t-rex-wasnt-a-tyrannosaur-paleontologists-prove/0000019a-3579-da7a-abdb-bffb1b890000"
+    },
+    {
+      "title": "ADL enlists major law firms to launch pro bono network for US antisemitism cases",
+      "description": "The turn toward litigation represents a shift in tactics as the group focuses on antisemitic offenses amid soaring anti-Jewish bigotry and pressure from the Trump administration The post ADL enlists major law firms to launch pro bono network for US antisemitism cases appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-us-antisemitism-cases/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-30T13:39:05",
+      "scraped_at": "2025-10-30T14:09:36.643560",
+      "guid": "https://www.timesofisrael.com/?p=3676647"
+    },
+    {
+      "title": "How a curator and a rabbi joined forces to keep a piece of Boston’s Jewish history alive",
+      "description": "The most striking artifact in the Judaica collection at Boston’s Museum of Fine Arts isn’t from Yemen or Galicia, or any other far-flung Jewish community that’s long since dispersed; it’s from Chelsea, Massachusetts. The magnificent wooden Torah ark is just shy of 12 feet tall, and until 1999 it was the centerpiece of the Orange... The post How a curator and a rabbi joined forces to keep a piece of Boston&#8217;s Jewish history alive appeared first on The Forward .",
+      "link": "https://forward.com/culture/779536/curator-rabbi-rescue-judaica-museum-torah-ark/",
+      "source": "The Forward",
+      "author": "Noah Hirsch-Rechter",
+      "published": "2025-10-30T13:30:19",
+      "scraped_at": "2025-10-30T14:09:34.218479",
+      "guid": "https://forward.com/?p=779536"
+    },
+    {
+      "title": "Jews in space: A new documentary on practicing Judaism beyond Earth",
+      "description": "The film 'Fiddler on the Moon: Judaism in Space' explores how astronauts like Ilan Ramon adapted Jewish law to life in orbit",
+      "link": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/awaiting-quotes-how-do-jews-observe-shabbat-on-mars-a-new-documentary-tells-how/0000019a-3042-ddf1-a1db-fcffaba10000",
+      "source": "Haaretz",
+      "author": "Tzach Yoked",
+      "published": "2025-10-30T10:43:10",
+      "scraped_at": "2025-10-30T11:08:58.531116",
+      "guid": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/awaiting-quotes-how-do-jews-observe-shabbat-on-mars-a-new-documentary-tells-how/0000019a-3042-ddf1-a1db-fcffaba10000"
+    },
+    {
+      "title": "Major archaeological sites in Iraq at risk of erosion due to climate change",
+      "description": "Dry weather is increasing salinity in soil and damaging ruins of cities such as Ur, birthplace of Biblical patriarch Abraham, and ancient capital Babylon, warn archaeologists The post Major archaeological sites in Iraq at risk of erosion due to climate change appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/major-archaeological-sites-in-iraq-at-risk-of-erosion-due-to-climate-change/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-30T10:01:34",
+      "scraped_at": "2025-10-30T10:10:06.037232",
+      "guid": "https://www.timesofisrael.com/?p=3677143"
+    },
+    {
+      "title": "Two New Looks at the Face of American Jews on Film",
+      "description": "Two standout short films at the Soho International Film Festival examine Jewish identity. The post Two New Looks at the Face of American Jews on Film appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/culture/arts/film/384641/two-new-looks-at-the-face-of-american-jews-on-film/",
+      "source": "Jewish Journal",
+      "author": "Alan Zeitlin",
+      "published": "2025-10-30T07:05:13",
+      "scraped_at": "2025-10-30T07:09:49.027357",
+      "guid": "https://jewishjournal.com/?p=384641"
+    },
+    {
+      "title": "An Australian Jewish author’s triumph over antisemitism",
+      "description": "Linda Margolin Royal's award-winning book honors the righteous who risked their lives to save Jews, including her family, during the Holocaust. The post An Australian Jewish author’s triumph over antisemitism appeared first on JNS.org .",
+      "link": "https://www.jns.org/an-australian-jewish-authors-triumph-over-antisemitism/",
+      "source": "JNS",
+      "author": "Eve Glover",
+      "published": "2025-10-30T05:23:15",
+      "scraped_at": "2025-10-30T06:12:59.446628",
+      "guid": "https://www.jns.org/?p=599788"
+    },
+    {
+      "title": "In Germany, Academic Activism Fuels Antisemitism",
+      "description": "The second anniversary of the massacres was an occasion for academics in Germany to spread anti-Israel propaganda. The post In Germany, Academic Activism Fuels Antisemitism appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/commentary/opinion/384614/in-germany-academic-activism-fuels-antisemitism/",
+      "source": "Jewish Journal",
+      "author": "Verena Buser",
+      "published": "2025-10-30T04:53:59",
+      "scraped_at": "2025-10-30T05:09:24.713172",
+      "guid": "https://jewishjournal.com/?p=384614"
+    },
+    {
+      "title": "How a French rabbi and a Palestinian peace activist are tackling the post-October 7 'linguistic crisis'",
+      "description": "Both Delphine Horvilleur and Ghadir Hani were involved in interfaith dialogue long before October 7. The pair share their expert advice on how to have constructive conversations after two years of toxic Israel-Palestine discourse",
+      "link": "https://www.haaretz.com/life/2025-10-30/ty-article-magazine/.premium/how-a-french-rabbi-and-a-palestinian-activist-are-tackling-todays-linguistic-crisis/0000019a-2f6f-ddf1-a1db-ffffd75f0000",
+      "source": "Haaretz",
+      "author": "Linda Dayan",
+      "published": "2025-10-29T22:07:43",
+      "scraped_at": "2025-10-29T23:09:07.922604",
+      "guid": "https://www.haaretz.com/life/2025-10-30/ty-article-magazine/.premium/how-a-french-rabbi-and-a-palestinian-activist-are-tackling-todays-linguistic-crisis/0000019a-2f6f-ddf1-a1db-ffffd75f0000"
+    },
+    {
+      "title": "'Wild applause that went on and on': In Spain, a powerful sign of Jewish revival",
+      "description": "All three members of this year's graduating class at the rabbinical seminary run by the Reform movement in Argentina happened to be from Spain. It was as good an excuse as any to hold the first ordination ceremony in Spain in more than 500 years",
+      "link": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/wild-applause-that-went-on-and-on-in-spain-a-powerful-sign-of-jewish-revival/0000019a-2fad-db3e-affa-bfade72b0000",
+      "source": "Haaretz",
+      "author": "Judy Maltz",
+      "published": "2025-10-29T22:09:25",
+      "scraped_at": "2025-10-29T23:09:07.922572",
+      "guid": "https://www.haaretz.com/jewish/2025-10-30/ty-article-magazine/.premium/wild-applause-that-went-on-and-on-in-spain-a-powerful-sign-of-jewish-revival/0000019a-2fad-db3e-affa-bfade72b0000"
+    },
+    {
+      "title": "Civil Rights Leader Alyza Lewin Joins Combat Antisemitism Movement",
+      "description": "Civil rights leader and constitutional lawyer Alyza Lewin will draw on her family legacy of Jewish resilience and advocacy in...",
+      "link": "https://www.algemeiner.com/2025/10/29/civil-rights-leader-alyza-lewin-joins-combat-antisemitism-movement/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2025-10-29T21:34:29",
+      "scraped_at": "2025-10-29T22:09:09.806544",
+      "guid": "https://www.algemeiner.com/?p=756415"
+    },
+    {
+      "title": "Rabbis Need to Be Trained for the Job They Actually Do",
+      "description": "Rabbis are now called on for different types of communal roles. Roles that can’t be outsourced. Roles of relationship building, communication, teaching, and leadership. The post Rabbis Need to Be Trained for the Job They Actually Do appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/commentary/opinion/384595/rabbis-need-to-be-trained-for-the-job-they-actually-do/",
+      "source": "Jewish Journal",
+      "author": "Rabbi Ari Perten",
+      "published": "2025-10-29T21:09:58",
+      "scraped_at": "2025-10-29T22:09:04.449718",
+      "guid": "https://jewishjournal.com/?p=384595"
+    },
+    {
+      "title": "ADL removes ‘Protect Civil Rights’ from website as it narrows its mission amid right-wing attacks",
+      "description": "(JTA) — The Anti-Defamation League has removed entirely from the “What We Do” page of its website a section called “Protect Civil Rights.” The removal eliminated a passage that read, “Our founders established ADL with the clear understanding that the fight against any one form of prejudice or hate cannot succeed without countering hate of... The post ADL removes ‘Protect Civil Rights’ from website as it narrows its mission amid right-wing attacks appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/779686/adl-removes-protect-civil-rights-from-website-as-it-narrows-its-mission-amid-right-wing-attacks/",
+      "source": "The Forward",
+      "author": "Ron Kampeas",
+      "published": "2025-10-29T19:39:45",
+      "scraped_at": "2025-10-29T20:10:18.465707",
+      "guid": "https://forward.com/?p=779686"
+    },
+    {
+      "title": "Maria Ka’s cosmic Yiddish music — from punk grit to starlight",
+      "description": "When Polish-born musician Maria Ka released her latest album Di Mashin (The Machine), she wasn’t merely reviving Yiddish song — she was remaking it in her own cosmic image. Performing out of Gdańsk, she fuses everyday Yiddish speech with the vastness of outer space, using synths, distortion and humor to connect the language’s earthly pulse... The post Maria Ka’s cosmic Yiddish music — from punk grit to starlight appeared first on The Forward .",
+      "link": "https://forward.com/yiddish-world/779524/maria-kas-cosmic-yiddish-electronica-punk-gdansk-poland/",
+      "source": "The Forward",
+      "author": "Judah Sussman",
+      "published": "2025-10-29T18:18:26",
+      "scraped_at": "2025-10-29T19:08:28.699943",
+      "guid": "https://forward.com/?p=779524"
+    },
+    {
+      "title": "Germany Allocates More Than $1 Billion in Home Care for Holocaust Survivors Globally",
+      "description": "Germany has agreed to allocate more than $1 billion for home care for Holocaust survivors around the world in 2026,...",
+      "link": "https://www.algemeiner.com/2025/10/29/germany-allocates-more-1-billion-home-care-holocaust-survivors-globally/",
+      "source": "Algemeiner",
+      "author": "Shiryn Ghermezian",
+      "published": "2025-10-29T17:40:38",
+      "scraped_at": "2025-10-29T18:12:43.356972",
+      "guid": "https://www.algemeiner.com/?p=756412"
+    },
+    {
+      "title": "Israeli-founded companies produced $13 billion for New York in 2024, per report",
+      "description": "“Israelis have a knack for turning challenges into opportunities,” according to the U.S.-Israel Business Alliance. “This resilience has also proven beneficial to New Yorkers.” The post Israeli-founded companies produced $13 billion for New York in 2024, per report appeared first on JNS.org .",
+      "link": "https://www.jns.org/israeli-founded-companies-produced-13-billion-for-new-york-in-2024-per-report/",
+      "source": "JNS",
+      "author": "Mike Wagenheim",
+      "published": "2025-10-29T17:45:52",
+      "scraped_at": "2025-10-29T18:12:41.049491",
+      "guid": "https://www.jns.org/?p=599925"
+    },
+    {
+      "title": "Rabbi Alvin Kass, longest-serving NYPD chaplain famed for 9/11 response, dies at 89",
+      "description": "(JTA) — Less than a week after rushing to Ground Zero as a police chaplain on 9/11, Rabbi Alvin Kass led Rosh Hashanah services — not only for his Brooklyn congregation but at a makeshift synagogue at LaGuardia Airport for emergency responders who had flooded into New York City after the terrorist attacks. “It was,”... The post Rabbi Alvin Kass, longest-serving NYPD chaplain famed for 9/11 response, dies at 89 appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/779497/rabbi-alvin-kass-longest-serving-nypd-chaplain-famed-for-9-11-response-dies-at-89/",
+      "source": "The Forward",
+      "author": "Philissa Cramer",
+      "published": "2025-10-29T17:23:16",
+      "scraped_at": "2025-10-29T18:12:34.270302",
+      "guid": "https://forward.com/?p=779497"
+    },
+    {
+      "title": "New Film Tells a Powerful Story of Teenage Resistance to Hitler",
+      "description": "While students of the Holocaust may know about Sophie Scholl’s defiance of Hitler, which resulted in her execution, Helmuth Hubener...",
+      "link": "https://www.algemeiner.com/2025/10/29/new-film-tells-a-powerful-story-of-teenage-resistance-to-hitler/",
+      "source": "Algemeiner",
+      "author": "Alan Zeitlin",
+      "published": "2025-10-29T16:12:59",
+      "scraped_at": "2025-10-29T17:09:16.391994",
+      "guid": "https://www.algemeiner.com/?p=756301"
+    },
+    {
+      "title": "Nvidia and Microsoft ranked as 2 best tech firms to work for in Israel in 2025 war year",
+      "description": "2025 ranking by Dun &#038; Bradstreet finds preferences shifted in the wake of Gaza war as employees sought stable workplaces supporting reserve soldiers and families in crisis periods The post Nvidia and Microsoft ranked as 2 best tech firms to work for in Israel in 2025 war year appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/nvidia-and-microsoft-ranked-as-2-best-tech-firms-to-work-for-in-israel-in-2025-war-year/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-29T16:54:33",
+      "scraped_at": "2025-10-29T17:09:09.425186",
+      "guid": "https://www.timesofisrael.com/?p=3676549"
+    },
+    {
+      "title": "AI chipmaking giant Nvidia becomes world’s first $5 trillion company",
+      "description": "Having already been the first firm to pass the $4 trillion mark earlier this year, Nvidia's market cap is now greater than the GDP of India, Japan and the United Kingdom The post AI chipmaking giant Nvidia becomes world&#8217;s first $5 trillion company appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/ai-chipmaking-giant-nvidia-becomes-worlds-first-5-trillion-company/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-29T16:54:56",
+      "scraped_at": "2025-10-29T17:09:09.425137",
+      "guid": "https://www.timesofisrael.com/?p=3676607"
+    },
+    {
+      "title": "German government pledges record $1 billion in funding for Holocaust survivor home care",
+      "description": "The budget reflects the growing needs of an aging survivor population and will now enable all Holocaust survivors on waitlists for home care to receive it The post German government pledges record $1 billion in funding for Holocaust survivor home care appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/german-government-pledges-record-1-billion-in-funding-for-holocaust-survivor-home-care/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2025-10-29T14:27:46",
+      "scraped_at": "2025-10-29T15:09:39.533758",
+      "guid": "https://www.timesofisrael.com/?p=3676243"
+    },
+    {
+      "title": "ADL enlists major law firms to launch pro bono network for antisemitism cases",
+      "description": "(JTA) — The Anti-Defamation League is launching a nationwide legal service to connect victims of antisemitism with lawyers who are able to take their cases on a pro-bono basis. The initiative comes as the ADL has increasingly turned to litigation as a tactic — the group says it has filed more lawsuits and legal complaints... The post ADL enlists major law firms to launch pro bono network for antisemitism cases appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/779434/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-antisemitism-cases/",
+      "source": "The Forward",
+      "author": "Asaf Elia-Shalev",
+      "published": "2025-10-29T14:21:36",
+      "scraped_at": "2025-10-29T15:09:37.366122",
+      "guid": "https://forward.com/?p=779434"
+    },
+    {
+      "title": "Center-left and center-right blocs agree to split top WZO, KKL-JNF positions in power-sharing deal",
+      "description": "The center-left and center-right blocs of the World Zionist Congress reached a coalition agreement on Wednesday, under which they will split control of the World Zionist Organization and Keren Kayemeth LeIsrael-Jewish National Fund, a WZO official told eJewishPhilanthropy. Under the agreement, the WZO and KKL-JNF chairs’ terms will be split in two, with the WZO... Read More The post Center-left and center-right blocs agree to split top WZO, KKL-JNF positions in power-sharing deal appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/center-left-and-center-right-blocs-agree-to-split-top-wzo-and-kkl-jnf-positions-in-power-sharing-agreement/",
+      "source": "eJewish Philanthropy",
+      "author": "Judah Ari Gross",
+      "published": "2025-10-29T14:51:31",
+      "scraped_at": "2025-10-29T15:09:32.604621",
+      "guid": "https://ejewishphilanthropy.com/?p=165228"
+    },
+    {
+      "title": "'A very historical moment': Meet the first Black-African delegate to the 'parliament of the Jewish people'",
+      "description": "Rabbi Gershom Sizomu, the spiritual leader of the Abayudaya community, is the first representative of Uganda to hold a seat in the World Zionist Congress. He sees it as a sign of growing acceptance of Jewish diversity",
+      "link": "https://www.haaretz.com/jewish/2025-10-29/ty-article/.premium/meet-the-first-black-african-delegate-to-the-parliament-of-the-jewish-people/0000019a-2f6d-d4aa-a9fa-2feda71c0000",
+      "source": "Haaretz",
+      "author": "Judy Maltz",
+      "published": "2025-10-29T13:17:42",
+      "scraped_at": "2025-10-29T14:09:47.536293",
+      "guid": "https://www.haaretz.com/jewish/2025-10-29/ty-article/.premium/meet-the-first-black-african-delegate-to-the-parliament-of-the-jewish-people/0000019a-2f6d-d4aa-a9fa-2feda71c0000"
+    },
+    {
+      "title": "European passports slip away: Israelis face new obstacles to naturalization abroad",
+      "description": "As tens of thousands of Israelis relocate and more plan to follow, naturalization programs in Europe and North America are tightening requirements",
+      "link": "https://www.haaretz.com/israel-news/2025-10-29/ty-article/.premium/european-passports-slip-away-israelis-face-new-obstacles-to-naturalization-abroad/0000019a-253c-dcd3-abdb-ad7ec3600000",
+      "source": "Haaretz",
+      "author": "Hadar Kane",
+      "published": "2025-10-29T12:14:17",
+      "scraped_at": "2025-10-29T13:18:43.557876",
+      "guid": "https://www.haaretz.com/israel-news/2025-10-29/ty-article/.premium/european-passports-slip-away-israelis-face-new-obstacles-to-naturalization-abroad/0000019a-253c-dcd3-abdb-ad7ec3600000"
+    },
+    {
+      "title": "ADL enlists major law firms to launch pro bono network for antisemitism cases",
+      "description": "The growing focus on filing lawsuits represents a shift in tactics in the group's fight against antisemitism. -- The post ADL enlists major law firms to launch pro bono network for antisemitism cases appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2025/10/29/united-states/adl-enlists-major-law-firms-to-launch-pro-bono-network-for-antisemitism-cases",
+      "source": "JTA",
+      "author": "Asaf Elia-Shalev",
+      "published": "2025-10-29T12:47:24",
+      "scraped_at": "2025-10-29T13:18:25.731078",
+      "guid": "https://www.jta.org/?p=1891458"
+    },
+    {
+      "title": "Memorial Foundation for Jewish Culture marks 60 years of enabling Jewish Peoplehood",
+      "description": "The Memorial Foundation for Jewish Culture has gone through multiple iterations in its 60 years. First the organization, which was founded by Nahum Goldmann with German reparations, focused on reconstructing Jewish cultural life in the wake of the Holocaust and then pivoted to a broader focus on Jewish Peoplehood. More recently, the foundation has started... Read More The post Memorial Foundation for Jewish Culture marks 60 years of enabling Jewish Peoplehood appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/memorial-foundation-for-jewish-culture-marks-60-years-of-enabling-peoplehood-around-the-world/",
+      "source": "eJewish Philanthropy",
+      "author": "Judith Sudilovsky",
+      "published": "2025-10-29T12:11:08",
+      "scraped_at": "2025-10-29T12:15:21.868761",
+      "guid": "https://ejewishphilanthropy.com/?p=165214"
+    },
+    {
+      "title": "Zionist Congress shows world Jewry’s division—and unity",
+      "description": "In Jerusalem, fierce debates and record participation amid rising antisemitism underline how the stakes have risen in the Diaspora. The post Zionist Congress shows world Jewry&#8217;s division—and unity appeared first on JNS.org .",
+      "link": "https://www.jns.org/zionist-congress-shows-world-jewrys-division-and-unity/",
+      "source": "JNS",
+      "author": "Canaan Lidor",
+      "published": "2025-10-29T10:19:37",
+      "scraped_at": "2025-10-29T11:08:58.053829",
+      "guid": "https://www.jns.org/?p=599716"
+    },
+    {
+      "title": "New York police study ZAKA’s Oct. 7 response in Israel",
+      "description": "Senior law enforcement officials met volunteers in Beit Shemesh to learn how faith-based responders aided victims of the Hamas-led attacks. The post New York police study ZAKA’s Oct. 7 response in Israel appeared first on JNS.org .",
+      "link": "https://www.jns.org/new-york-police-study-zakas-oct-7-response-in-israel/",
+      "source": "JNS",
+      "author": "JNS Staff",
+      "published": "2025-10-29T10:48:34",
+      "scraped_at": "2025-10-29T11:08:58.053744",
+      "guid": "https://www.jns.org/?p=599752"
+    },
+    {
+      "title": "American synagogues are closing at a record rate. This retired judge is rescuing their stained glass windows.",
+      "description": "CHICAGO — Jerry Orbach moves through the sanctuary of Northbrook Community Synagogue with the practiced eye of a man who’s spent years rescuing pieces of a fading world. The suburban Chicago congregation glows with stained glass saved from shuttered synagogues, their colors reframed along these walls. What began as one man’s mission has turned the... The post American synagogues are closing at a record rate. This retired judge is rescuing their stained glass windows. appeared first on The Forward .",
+      "link": "https://forward.com/news/779236/saving-stained-glass-synagogues/",
+      "source": "The Forward",
+      "author": "Benyamin Cohen",
+      "published": "2025-10-29T11:06:53",
+      "scraped_at": "2025-10-29T11:08:51.058637",
+      "guid": "https://forward.com/?p=779236"
+    },
+    {
+      "title": "Israel should lead with ‘moral diplomacy’",
+      "description": "Ethiopian-born scholar Dr. Shmuel Legesse envisions an academy to train Israeli professionals to communicate Israel’s values more effectively. The post Israel should lead with ‘moral diplomacy’ appeared first on JNS.org .",
+      "link": "https://www.jns.org/israel-should-lead-with-moral-diplomacy/",
+      "source": "JNS",
+      "author": "Steve Linde",
+      "published": "2025-10-29T08:48:28",
+      "scraped_at": "2025-10-29T09:09:58.810637",
+      "guid": "https://www.jns.org/?p=599424"
+    },
+    {
+      "title": "German government pledges record $1B in funding for Holocaust survivor home care",
+      "description": "(JTA) — The German government has agreed to allocate $1.08 billion in funds for home care for survivors for 2026, marking the largest budget for home care in its history of Holocaust reparations, reflecting the growing needs of an aging survivor population. The funding, which was secured following negotiations with the Conference on Jewish Material... The post German government pledges record $1B in funding for Holocaust survivor home care appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/779392/german-government-pledges-record-1b-in-funding-for-holocaust-survivor-home-care/",
+      "source": "The Forward",
+      "author": "Grace Gilson",
+      "published": "2025-10-29T08:47:00",
+      "scraped_at": "2025-10-29T09:09:52.183988",
+      "guid": "https://forward.com/?p=779392"
+    },
+    {
+      "title": "‘Education is the first wall in the fight against antisemitism’",
+      "description": "Israeli Education Minister Yoav Kisch addresses the International Pro-Israel Summit in Budapest, thanking Hungary for its “zero tolerance toward antisemitism.\" The post ‘Education is the first wall in the fight against antisemitism’ appeared first on JNS.org .",
+      "link": "https://www.jns.org/education-is-the-first-wall-in-the-fight-against-antisemitism/",
+      "source": "JNS",
+      "author": null,
+      "published": "2025-10-29T07:07:04",
+      "scraped_at": "2025-10-29T08:12:29.593322",
+      "guid": "https://www.jns.org/?p=599606"
+    },
+    {
+      "title": "‘We’ll always have day school’: The relationship between Jewish nostalgia and Jewish fluency",
+      "description": "I first pondered the term “Jewish fluency” after I watched writer and podcaster Dan Senor’s 45th annual State of World Jewry address in May. I presently serve as board chair at Sinai Akiba Academy in Los Angeles, and as the video of Senor’s speech made its way around our school board and school community, the... Read More The post ‘We’ll always have day school’: The relationship between Jewish nostalgia and Jewish fluency appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/well-always-have-day-school-the-relationship-between-jewish-nostalgia-and-jewish-fluency/",
+      "source": "eJewish Philanthropy",
+      "author": "Eszter Neuman",
+      "published": "2025-10-29T07:30:00",
+      "scraped_at": "2025-10-29T08:12:17.977589",
+      "guid": "https://ejewishphilanthropy.com/?p=165188"
+    }
+  ]
 }

@@ -24,6 +24,9 @@ class NewsFilter:
         # Retry configuration
         self.max_retries = 3
         self.retry_delay = 5  # seconds
+        
+        # Batch configuration - CRITICAL for handling large volumes
+        self.batch_size = 100  # Process 100 articles at a time
     
     def _setup_logger(self):
         logging.basicConfig(
@@ -49,8 +52,8 @@ class NewsFilter:
         # Archive this week's articles before filtering
         self._archive_weekly_articles(weekly_articles)
         
-        # Filter articles using Anthropic API
-        filtered_articles = self._filter_articles_with_ai(weekly_articles)
+        # Filter articles using Anthropic API (with batching)
+        filtered_articles = self._filter_articles_with_ai_batched(weekly_articles)
         
         # Save filtered articles to output
         self._save_filtered_output(filtered_articles)
@@ -105,40 +108,56 @@ class NewsFilter:
         except Exception as e:
             self.logger.error(f"Error archiving weekly articles: {e}")
     
-    def _filter_articles_with_ai(self, articles: List[Dict]) -> List[Dict]:
-        """Filter articles using Anthropic API for research relevance"""
+    def _filter_articles_with_ai_batched(self, articles: List[Dict]) -> List[Dict]:
+        """Filter articles using Anthropic API in batches"""
         if not articles:
             return []
         
-        # Prepare articles for AI processing
-        articles_for_ai = self._prepare_articles_for_ai(articles)
+        all_filtered_articles = []
+        total_batches = (len(articles) + self.batch_size - 1) // self.batch_size
         
-        # Create the filtering prompt
-        prompt = self._create_filtering_prompt(articles_for_ai)
+        self.logger.info(f"Processing {len(articles)} articles in {total_batches} batches of {self.batch_size}")
         
-        # Call Anthropic API with retry logic
-        filtered_indices = self._call_anthropic_api(prompt)
+        for batch_num in range(total_batches):
+            start_idx = batch_num * self.batch_size
+            end_idx = min(start_idx + self.batch_size, len(articles))
+            batch = articles[start_idx:end_idx]
+            
+            self.logger.info(f"Processing batch {batch_num + 1}/{total_batches} ({len(batch)} articles)")
+            
+            # Prepare articles for AI processing
+            articles_for_ai = self._prepare_articles_for_ai(batch, start_idx)
+            
+            # Create the filtering prompt
+            prompt = self._create_filtering_prompt(articles_for_ai)
+            
+            # Call Anthropic API with retry logic
+            filtered_indices = self._call_anthropic_api(prompt)
+            
+            # Extract filtered articles based on AI response
+            for idx in filtered_indices:
+                # Convert batch-relative index to absolute index
+                absolute_idx = idx
+                if 0 <= absolute_idx < len(batch):
+                    all_filtered_articles.append(batch[absolute_idx])
+            
+            # Rate limiting between batches
+            if batch_num < total_batches - 1:
+                time.sleep(2)  # 2 second delay between batches
         
-        # Extract filtered articles based on AI response
-        filtered_articles = []
-        for idx in filtered_indices:
-            if 0 <= idx < len(articles):
-                filtered_articles.append(articles[idx])
+        self.logger.info(f"AI filtered {len(all_filtered_articles)} research-relevant articles from {len(articles)} total")
         
-        self.logger.info(f"AI filtered {len(filtered_articles)} research-relevant articles from {len(articles)} total")
-        
-        return filtered_articles
+        return all_filtered_articles
     
-    def _prepare_articles_for_ai(self, articles: List[Dict]) -> List[Dict]:
+    def _prepare_articles_for_ai(self, articles: List[Dict], start_index: int = 0) -> List[Dict]:
         """Prepare articles for AI processing by keeping only essential fields"""
         prepared = []
         for i, article in enumerate(articles):
             prepared.append({
-                'index': i,
+                'index': i,  # Batch-relative index
                 'title': article.get('title', ''),
-                'description': article.get('description', ''),
-                'source': article.get('source', ''),
-                'link': article.get('link', '')
+                'description': article.get('description', '')[:300],  # Limit description length
+                'source': article.get('source', '')
             })
         return prepared
     
@@ -146,10 +165,13 @@ class NewsFilter:
         """Create the prompt for AI filtering"""
         articles_text = []
         for article in articles:
+            # Truncate long descriptions to save tokens
+            desc = article['description'][:200] if article['description'] else ''
+            
             articles_text.append(
                 f"Index: {article['index']}\n"
                 f"Title: {article['title']}\n"
-                f"Description: {article['description']}\n"
+                f"Description: {desc}\n"
                 f"Source: {article['source']}\n"
                 f"---"
             )
@@ -179,7 +201,7 @@ EXCLUDE articles about:
 - Entertainment, sports, or lifestyle content
 - Breaking news or daily political developments
 
-Here are the articles to evaluate:
+Here are {len(articles)} articles to evaluate:
 
 {articles_str}
 
@@ -198,7 +220,7 @@ Do not include any other text in your response, just the JSON array.
                 
                 response = self.client.messages.create(
                     model=self.model,
-                    max_tokens=1000,
+                    max_tokens=2000,  # Increased for larger batches
                     temperature=0.1,
                     messages=[
                         {
@@ -210,6 +232,12 @@ Do not include any other text in your response, just the JSON array.
                 
                 # Extract the response content
                 content = response.content[0].text.strip()
+                
+                # Try to find JSON array even if there's extra text
+                import re
+                json_match = re.search(r'\[[\d,\s]+\]', content)
+                if json_match:
+                    content = json_match.group(0)
                 
                 # Parse JSON response
                 try:
@@ -224,7 +252,7 @@ Do not include any other text in your response, just the JSON array.
                 
                 except (json.JSONDecodeError, ValueError) as e:
                     self.logger.warning(f"Invalid JSON response on attempt {attempt + 1}: {e}")
-                    self.logger.warning(f"Response content: {content[:200]}...")
+                    self.logger.warning(f"Response content: {content[:500]}...")
                     
                     if attempt == self.max_retries - 1:
                         self.logger.error("Max retries reached, returning empty result")
@@ -252,7 +280,7 @@ Do not include any other text in your response, just the JSON array.
             # Ensure output directory exists
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
             
-            # FIX: Robust datetime/pandas object handling
+            # Robust datetime/pandas object handling
             processed_articles = []
             for article in filtered_articles:
                 processed_article = {}
@@ -272,7 +300,7 @@ Do not include any other text in your response, just the JSON array.
                             processed_article[key] = str(value)
                 processed_articles.append(processed_article)
             
-            # Create output structure - USE processed_articles, not filtered_articles
+            # Create output structure
             output = {
                 'update': datetime.now().isoformat(),
                 'articles_count': len(processed_articles),
@@ -280,7 +308,7 @@ Do not include any other text in your response, just the JSON array.
                 'week_start': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d'),
                 'has_articles': len(processed_articles) > 0,
                 'sources': {},
-                'all_articles': processed_articles  # <-- CHANGED
+                'all_articles': processed_articles
             }
             
             # Add a message if no articles found
@@ -288,8 +316,8 @@ Do not include any other text in your response, just the JSON array.
                 output['message'] = "No research-relevant articles found for this week."
                 self.logger.info("No research-relevant articles found this week")
             else:
-                # Group by source - USE processed_articles
-                for article in processed_articles:  # <-- CHANGED
+                # Group by source
+                for article in processed_articles:
                     source = article.get('source', 'Unknown')
                     if source not in output['sources']:
                         output['sources'][source] = {
@@ -318,7 +346,7 @@ Do not include any other text in your response, just the JSON array.
         try:
             df = pd.read_csv(self.memory_file)
             
-            # Parse dates - FIX: Use format='mixed' for consistency
+            # Parse dates
             df['scraped_at'] = pd.to_datetime(df['scraped_at'], format='mixed', errors='coerce')
             
             # Keep only articles newer than our processing window

@@ -153,11 +153,21 @@ class NewsFilter:
         """Prepare articles for AI processing by keeping only essential fields"""
         prepared = []
         for i, article in enumerate(articles):
+            # Handle None/NaN values
+            title = article.get('title') or ''
+            description = article.get('description') or ''
+            source = article.get('source') or ''
+            
+            # Ensure they're strings before slicing
+            title = str(title) if title else ''
+            description = str(description) if description else ''
+            source = str(source) if source else ''
+            
             prepared.append({
                 'index': i,  # Batch-relative index
-                'title': article.get('title', ''),
-                'description': article.get('description', '')[:300],  # Limit description length
-                'source': article.get('source', '')
+                'title': title,
+                'description': description[:300],  # Limit description length
+                'source': source
             })
         return prepared
     

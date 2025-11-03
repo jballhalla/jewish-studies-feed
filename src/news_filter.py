@@ -199,7 +199,7 @@ INCLUDE articles that mention or discuss:
 - Academic appointments, fellowships, or scholarly achievements
 - Educational initiatives, curricula, or academic programs
 - Think tank reports or policy analysis
-- Scholarly commentary and analyses
+- Scholarly commentary and analysis
 - Research grants or funding announcements for Jewish Studies
 
 EXCLUDE articles about:
@@ -211,7 +211,7 @@ EXCLUDE articles about:
 - Entertainment, sports, or lifestyle content
 - Breaking news or daily political developments
 
-INCLUDE articles based on research and scholarship, in other words, and EXCLUDE articles that are not relevant to Jewish Studies.
+In sum, INCLUDE articles based on research and scholarship, and EXCLUDE articles that are not relevant to Jewish Studies.
 
 Here are {len(articles)} articles to evaluate:
 

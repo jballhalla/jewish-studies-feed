@@ -188,18 +188,18 @@ class NewsFilter:
         
         articles_str = "\n".join(articles_text)
         
-        prompt = f"""You are helping to curate a weekly digest for the Berman Jewish Policy Archive. Your task is to identify articles that are relevant to Jewish Studies research, academia, and policy analysis.
+        prompt = f"""You are helping to curate a weekly digest for the Berman Archive. Your task is to identify articles that are relevant to research and scholarship in Jewish Studies.
 
 INCLUDE articles that mention or discuss:
 - New academic research, studies, or publications in Jewish Studies
-- Policy reports, white papers, or research studies related to Jewish communities
-- Academic conferences, symposiums, or scholarly events
+- Reports, white papers, or research studies related to Jewish communities
+- Academic conferences, symposia, or scholarly events
 - New books, journal articles, or academic publications
 - Research findings, surveys, or data analysis about Jewish communities
 - Academic appointments, fellowships, or scholarly achievements
-- Educational initiatives, curriculum developments, or academic programs
+- Educational initiatives, curricula, or academic programs
 - Think tank reports or policy analysis
-- Scholarly commentary or analysis pieces
+- Scholarly commentary and analyses
 - Research grants or funding announcements for Jewish Studies
 
 EXCLUDE articles about:
@@ -210,6 +210,8 @@ EXCLUDE articles about:
 - Business news or financial reports
 - Entertainment, sports, or lifestyle content
 - Breaking news or daily political developments
+
+INCLUDE articles based on research and scholarship, in other words, and EXCLUDE articles that are not relevant to Jewish Studies.
 
 Here are {len(articles)} articles to evaluate:
 

@@ -1,11 +1,70 @@
 {
-  "update": "2026-01-16T06:12:03.467968",
-  "articles_count": 6,
+  "update": "2026-01-23T06:10:32.488373",
+  "articles_count": 10,
   "period_days": 7,
   "journals": {
-    "East European Jewish Affairs": {
-      "count": 1,
+    "Holocaust and Genocide Studies": {
+      "count": 2,
       "articles": [
+        {
+          "doi": "10.1093/hgs/dcaf064",
+          "title": "<i>Japan's Holocaust: History of Imperial Japan's Mass Murder and Rape During World War II</i>\n                    , Bryan Mark Rigg",
+          "authors": "Xu, Cheng",
+          "journal_name": "Holocaust and Genocide Studies",
+          "journal_abbrev": "Holo Geno Stud",
+          "issn": "8756-6583",
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "abstract": null,
+          "url": "https://doi.org/10.1093/hgs/dcaf064",
+          "published_online": "2026-01-21T00:00:00",
+          "published_print": null,
+          "published_date": "2026-01-21T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        },
+        {
+          "doi": "10.1093/hgs/dcaf054",
+          "title": "No Moment of Peace: Terror, Panic, and Horror in Responses to Nazi Violence Against Jews, 1933 and 1938",
+          "authors": "Kabalek, Kobi",
+          "journal_name": "Holocaust and Genocide Studies",
+          "journal_abbrev": "Holo Geno Stud",
+          "issn": "8756-6583",
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "abstract": "Abstract Studies and public references to the Holocaust frequently speak of the terror, panic, and horror that engulfed the persecuted Jews. Yet these concepts are rarely explained or discussed in any depth. This article examines the impact of Nazi violence and terror on its German Jewish victims during the 1930s, with a focus on the transformative years of 1933 and 1938, which witnessed unprecedented outbursts of antisemitic violence and mayhem. When did German Jews and international observers invoke terror, panic, and horror in diaries, letters, and memoirs and what were they trying to convey? This article's first part looks at the Nazis’ anti-Jewish attempts to frighten and harass German Jews, and Jews’ responses and emotions. The second part examines panic, an extreme form of terror, in responses to the April 1933 boycott of Jewish businesses and the violent year 1938. The third part identifies moments of horror in both 1933 and 1938, expressed in immobility and accompanied by a shattering realization about humanity and of what people are capable. The article points at the shared features of terror, panic, and horror (fear and anxiety, lack of peace, loss of trust, etc.), while also showing the particular bodily and mental characteristics of each.",
+          "url": "https://doi.org/10.1093/hgs/dcaf054",
+          "published_online": "2026-01-21T00:00:00",
+          "published_print": null,
+          "published_date": "2026-01-21T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        }
+      ]
+    },
+    "East European Jewish Affairs": {
+      "count": 2,
+      "articles": [
+        {
+          "doi": "10.1080/13501674.2026.2614284",
+          "title": "Traditions of composing wills among central European Jews, in particular in Warsaw during the first half of the nineteenth century",
+          "authors": "Dybala-Pacholak, Anna",
+          "journal_name": "East European Jewish Affairs",
+          "journal_abbrev": "East Eur Jewish Aff",
+          "issn": "1743-971X",
+          "volume": null,
+          "issue": null,
+          "pages": "1-18",
+          "abstract": null,
+          "url": "https://doi.org/10.1080/13501674.2026.2614284",
+          "published_online": "2026-01-21T00:00:00",
+          "published_print": null,
+          "published_date": "2026-01-21T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        },
         {
           "doi": "10.1080/13501674.2026.2612701",
           "title": "No man’s land: between refugee geography of Małkinia and Holocaust memory of Treblinka",
@@ -27,8 +86,26 @@
       ]
     },
     "Journal of Modern Jewish Studies": {
-      "count": 2,
+      "count": 3,
       "articles": [
+        {
+          "doi": "10.1080/14725886.2025.2597954",
+          "title": "Philosophical consistency and Mendelssohn's theopolitics: a response to Allan Arkush",
+          "authors": "Weiss, Daniel H.",
+          "journal_name": "Journal of Modern Jewish Studies",
+          "journal_abbrev": "J Mod Jewish Stud",
+          "issn": "1472-5894",
+          "volume": null,
+          "issue": null,
+          "pages": "1-13",
+          "abstract": null,
+          "url": "https://doi.org/10.1080/14725886.2025.2597954",
+          "published_online": "2026-01-19T00:00:00",
+          "published_print": null,
+          "published_date": "2026-01-19T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        },
         {
           "doi": "10.1080/14725886.2025.2606715",
           "title": "Charismatic seeker: A.D. Gordon in the eyes of his contemporaries and in his own eyes",
@@ -128,6 +205,78 @@
     }
   },
   "all_articles": [
+    {
+      "doi": "10.1093/hgs/dcaf064",
+      "title": "<i>Japan's Holocaust: History of Imperial Japan's Mass Murder and Rape During World War II</i>\n                    , Bryan Mark Rigg",
+      "authors": "Xu, Cheng",
+      "journal_name": "Holocaust and Genocide Studies",
+      "journal_abbrev": "Holo Geno Stud",
+      "issn": "8756-6583",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "abstract": null,
+      "url": "https://doi.org/10.1093/hgs/dcaf064",
+      "published_online": "2026-01-21T00:00:00",
+      "published_print": null,
+      "published_date": "2026-01-21T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
+    {
+      "doi": "10.1093/hgs/dcaf054",
+      "title": "No Moment of Peace: Terror, Panic, and Horror in Responses to Nazi Violence Against Jews, 1933 and 1938",
+      "authors": "Kabalek, Kobi",
+      "journal_name": "Holocaust and Genocide Studies",
+      "journal_abbrev": "Holo Geno Stud",
+      "issn": "8756-6583",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "abstract": "Abstract Studies and public references to the Holocaust frequently speak of the terror, panic, and horror that engulfed the persecuted Jews. Yet these concepts are rarely explained or discussed in any depth. This article examines the impact of Nazi violence and terror on its German Jewish victims during the 1930s, with a focus on the transformative years of 1933 and 1938, which witnessed unprecedented outbursts of antisemitic violence and mayhem. When did German Jews and international observers invoke terror, panic, and horror in diaries, letters, and memoirs and what were they trying to convey? This article's first part looks at the Nazis’ anti-Jewish attempts to frighten and harass German Jews, and Jews’ responses and emotions. The second part examines panic, an extreme form of terror, in responses to the April 1933 boycott of Jewish businesses and the violent year 1938. The third part identifies moments of horror in both 1933 and 1938, expressed in immobility and accompanied by a shattering realization about humanity and of what people are capable. The article points at the shared features of terror, panic, and horror (fear and anxiety, lack of peace, loss of trust, etc.), while also showing the particular bodily and mental characteristics of each.",
+      "url": "https://doi.org/10.1093/hgs/dcaf054",
+      "published_online": "2026-01-21T00:00:00",
+      "published_print": null,
+      "published_date": "2026-01-21T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
+    {
+      "doi": "10.1080/13501674.2026.2614284",
+      "title": "Traditions of composing wills among central European Jews, in particular in Warsaw during the first half of the nineteenth century",
+      "authors": "Dybala-Pacholak, Anna",
+      "journal_name": "East European Jewish Affairs",
+      "journal_abbrev": "East Eur Jewish Aff",
+      "issn": "1743-971X",
+      "volume": null,
+      "issue": null,
+      "pages": "1-18",
+      "abstract": null,
+      "url": "https://doi.org/10.1080/13501674.2026.2614284",
+      "published_online": "2026-01-21T00:00:00",
+      "published_print": null,
+      "published_date": "2026-01-21T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
+    {
+      "doi": "10.1080/14725886.2025.2597954",
+      "title": "Philosophical consistency and Mendelssohn's theopolitics: a response to Allan Arkush",
+      "authors": "Weiss, Daniel H.",
+      "journal_name": "Journal of Modern Jewish Studies",
+      "journal_abbrev": "J Mod Jewish Stud",
+      "issn": "1472-5894",
+      "volume": null,
+      "issue": null,
+      "pages": "1-13",
+      "abstract": null,
+      "url": "https://doi.org/10.1080/14725886.2025.2597954",
+      "published_online": "2026-01-19T00:00:00",
+      "published_print": null,
+      "published_date": "2026-01-19T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
     {
       "doi": "10.1080/13501674.2026.2612701",
       "title": "No man’s land: between refugee geography of Małkinia and Holocaust memory of Treblinka",

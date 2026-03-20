@@ -1,10 +1,1671 @@
 {
-  "update": "2026-03-13T07:24:44.507966",
-  "articles_count": 0,
-  "filtered_date": "2026-03-13",
-  "week_start": "2026-03-06",
-  "has_articles": false,
-  "sources": {},
-  "all_articles": [],
-  "message": "No research-relevant articles found for this week."
+  "update": "2026-03-20T07:23:42.194337",
+  "articles_count": 81,
+  "filtered_date": "2026-03-20",
+  "week_start": "2026-03-13",
+  "has_articles": true,
+  "sources": {
+    "Times of Israel": {
+      "count": 11,
+      "articles": [
+        {
+          "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+          "description": "In a 'major step forward' in relations between US and German Jews of the major denomination, Rabbi Gesa Shira Ederberg is also likely the first convert to Judaism to assume the leadership role The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-20T01:08:20",
+          "scraped_at": "2026-03-20T01:42:00.182511",
+          "guid": "https://www.timesofisrael.com/?p=3781348"
+        },
+        {
+          "title": "Mystery widens: Researchers finds Israel’s ‘Stonehenge’ in the Golan is not unique",
+          "description": "Remote sensing and AI helped identify 28 sites similar to Rujm el-Hiri, challenging theories about the ancient stone circle’s purpose and pointing to a wider regional phenomenon The post Mystery widens: Researchers finds Israel&#8217;s &#8216;Stonehenge&#8217; in the Golan is not unique appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/mystery-widens-researchers-finds-israels-stonehenge-in-the-golan-is-not-unique/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-19T09:14:20",
+          "scraped_at": "2026-03-19T09:23:26.522768",
+          "guid": "https://www.timesofisrael.com/?p=3781536"
+        },
+        {
+          "title": "Despite war, Israel ranks 8th in global happiness survey, same as last year",
+          "description": "Findings reflect overall satisfaction with society and life, says Bar-Ilan University researcher Anat Fanti, but concurrent rise in distress levels also show psychological cost of conflict The post Despite war, Israel ranks 8th in global happiness survey, same as last year appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/despite-war-israel-ranks-8th-in-global-happiness-survey-same-as-last-year/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-19T04:02:07",
+          "scraped_at": "2026-03-19T04:46:49.871333",
+          "guid": "https://www.timesofisrael.com/?p=3781198"
+        },
+        {
+          "title": "Anxiety symptoms, lack of trust in adults, rising in children as war drags on",
+          "description": "Veteran NGO reports marked return of symptoms such as bedwetting, nightmares, apathy and withdrawal in children who had already improved from previous rounds of war after therapy The post Anxiety symptoms, lack of trust in adults, rising in children as war drags on appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/anxiety-symptoms-lack-of-trust-in-adults-rising-in-children-as-war-drags-on/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-18T19:56:49",
+          "scraped_at": "2026-03-18T20:19:30.726933",
+          "guid": "https://www.timesofisrael.com/?p=3781163"
+        },
+        {
+          "title": "Arab Israelis experiencing higher distress levels in war than Jews — study",
+          "description": "Survey undertaken during current Iran war shows Arabs feel greatest losses in economic stability, social connections, emotional resilience, faith and hope The post Arab Israelis experiencing higher distress levels in war than Jews &#8212; study appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/arab-israelis-experiencing-higher-distress-levels-in-war-than-jews-study/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-18T17:36:23",
+          "scraped_at": "2026-03-18T18:29:40.999275",
+          "guid": "https://www.timesofisrael.com/?p=3781294"
+        },
+        {
+          "title": "‘Most comprehensive’ report on Oct. 7 attack updated to include new data, survivor accounts",
+          "description": "New testimonies from former hostage Emily Damari and others added to report that UK All-Party Parliamentary Group commissioned to push back on denials of the Hamas-led massacre The post &#8216;Most comprehensive&#8217; report on Oct. 7 attack updated to include new data, survivor accounts appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/most-comprehensive-report-on-oct-7-attack-updated-to-include-new-data-survivor-accounts/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-18T03:09:42",
+          "scraped_at": "2026-03-18T04:47:58.601052",
+          "guid": "https://www.timesofisrael.com/?p=3780526"
+        },
+        {
+          "title": "1 in 5 UK university students ‘reluctant’ to share house with Jewish student — poll",
+          "description": "In poll covering 170 institutions, about half of students report seeing glorification of proscribed terror groups; large majority (82%) say 'globalize the intifada' is antisemitic The post 1 in 5 UK university students ‘reluctant’ to share house with Jewish student — poll appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/1-in-5-uk-university-students-reluctant-to-share-house-with-jewish-student-poll/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-16T12:59:17",
+          "scraped_at": "2026-03-16T13:40:32.362999",
+          "guid": "https://www.timesofisrael.com/?p=3779080"
+        },
+        {
+          "title": "‘Learn your lesson’: Inscribed 2,100-year-old sling bullet found in the Galilee",
+          "description": "Artifact was possibly used by the Greek defenders of the city of Hippos against the Hasmonean army of King Alexander Jannaeus in 101 BCE The post ‘Learn your lesson’: Inscribed 2,100-year-old sling bullet found in the Galilee appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/learn-your-lesson-inscribed-2100-year-old-sling-bullet-found-in-the-galilee/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-15T20:22:06",
+          "scraped_at": "2026-03-15T21:13:27.346495",
+          "guid": "https://www.timesofisrael.com/?p=3778807"
+        },
+        {
+          "title": "Teaching Jewish history in America- with Natalia Mehlman Petzrela - Sponsored Content",
+          "description": "What does it mean to tell Jewish stories in a moment of political polarization and distortion? The post Teaching Jewish history in America- with Natalia Mehlman Petzrela appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/spotlight/teaching-jewish-history-in-america-with-natalia-mehlman-petzrela/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-15T17:17:42",
+          "scraped_at": "2026-03-15T18:17:33.420406",
+          "guid": "https://www.timesofisrael.com/?post_type=spotlight&p=3778751"
+        },
+        {
+          "title": "Cornell and Technion scientists adapt ancient clay air conditioning tech for sustainable cooling",
+          "description": "In innovative study that precedes Cornell students' push to sever ties with Israeli institution, researchers use traditional ceramic know-how for off-grid chill through evaporation The post Cornell and Technion scientists adapt ancient clay air conditioning tech for sustainable cooling appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/cornell-and-technion-scientists-adapt-ancient-clay-air-conditioning-tech-for-sustainable-cooling/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-15T14:49:15",
+          "scraped_at": "2026-03-15T15:13:52.850599",
+          "guid": "https://www.timesofisrael.com/?p=3757692"
+        },
+        {
+          "title": "Some – but not all – US colleges that worked with Trump receive higher marks from ADL",
+          "description": "Columbia, Brown and UCLA are among the schools whose grades improved on the watchdog's annual campus antisemitism report card after falling in line to preserve federal funding The post Some &#8211; but not all &#8211; US colleges that worked with Trump receive higher marks from ADL appeared first on The Times of Israel .",
+          "link": "https://www.timesofisrael.com/some-but-not-all-us-colleges-that-worked-with-trump-receive-higher-marks-from-adl/",
+          "source": "Times of Israel",
+          "author": null,
+          "published": "2026-03-13T14:15:23",
+          "scraped_at": "2026-03-13T15:23:01.684509",
+          "guid": "https://www.timesofisrael.com/?p=3775983"
+        }
+      ]
+    },
+    "Algemeiner": {
+      "count": 12,
+      "articles": [
+        {
+          "title": "Brandeis Center Reaches Settlement With UC Berkeley in Antisemitism Lawsuit",
+          "description": "The Louis D. Brandeis Center for Human Rights Under Law has reached a major agreement to settle a lawsuit it...",
+          "link": "https://www.algemeiner.com/2026/03/19/brandeis-center-reaches-settlement-uc-berkeley-antisemitism-lawsuit/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-19T22:51:07",
+          "scraped_at": "2026-03-19T23:14:27.141928",
+          "guid": "https://www.algemeiner.com/?p=768272"
+        },
+        {
+          "title": "College Republicans Chapter Sues University of Florida for Deactivating Group Over Nazi Salutes",
+          "description": "The University of Florida&#8217;s College Republicans chapter has teamed up with a local far-right lawyer to sue the school for...",
+          "link": "https://www.algemeiner.com/2026/03/19/college-republicans-chapter-sues-university-florida-deactivating-group-nazi-salutes/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-19T18:11:05",
+          "scraped_at": "2026-03-19T21:18:11.834800",
+          "guid": "https://www.algemeiner.com/?p=768178"
+        },
+        {
+          "title": "Germany Sees Surge in Antisemitic Incidents at Holocaust Memorials",
+          "description": "Antisemitic incidents at Germany&#8217;s Holocaust memorial sites remain alarmingly high and continue to climb, according to a new report, amid...",
+          "link": "https://www.algemeiner.com/2026/03/19/germany-sees-surge-antisemitic-incidents-holocaust-memorials/",
+          "source": "Algemeiner",
+          "author": "Ailin Vilches Arguello",
+          "published": "2026-03-19T20:41:03",
+          "scraped_at": "2026-03-19T21:18:11.834750",
+          "guid": "https://www.algemeiner.com/?p=768323"
+        },
+        {
+          "title": "US House Report Finds Faculty Driving Campus Antisemitism While Institutions Protect Them",
+          "description": "A new damning report by Republicans on the US House Committee on Education and the Workforce slammed higher education officials...",
+          "link": "https://www.algemeiner.com/2026/03/18/us-house-report-finds-faculty-driving-campus-antisemitism-while-institutions-protect-them/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-18T18:06:54",
+          "scraped_at": "2026-03-18T18:29:48.725865",
+          "guid": "https://www.algemeiner.com/?p=768142"
+        },
+        {
+          "title": "Harvard’s Jewish Enrollment Drops to Pre-World War II Levels, New Report Shows",
+          "description": "Jewish undergraduate enrollment at Harvard University has plummeted to lows not seen since the eve of World War II and...",
+          "link": "https://www.algemeiner.com/2026/03/18/harvards-jewish-enrollment-drops-pre-world-war-ii-levels-new-report-shows/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-18T14:54:12",
+          "scraped_at": "2026-03-18T15:35:58.420668",
+          "guid": "https://www.algemeiner.com/?p=768096"
+        },
+        {
+          "title": "UK Hate Crime Prosecutions Reveal Stark Disparities Between Muslim and Jewish Victims",
+          "description": "Hate crimes against Muslims in the United Kingdom are nearly twice as likely to result in prosecution as those targeting...",
+          "link": "https://www.algemeiner.com/2026/03/17/uk-hate-crime-prosecutions-reveal-stark-disparities-between-muslim-and-jewish-victims/",
+          "source": "Algemeiner",
+          "author": "Ailin Vilches Arguello",
+          "published": "2026-03-17T19:16:55",
+          "scraped_at": "2026-03-17T19:29:37.449538",
+          "guid": "https://www.algemeiner.com/?p=768094"
+        },
+        {
+          "title": "20 Percent of UK Students Would Not Share Room with Jews, Report Says Amid Deepening Antisemitism Crisis",
+          "description": "A new report by the Union of Jewish Students (UJS) say that Jewish campus life in Great Britain is rapidly...",
+          "link": "https://www.algemeiner.com/2026/03/17/20-percent-of-uk-students-would-not-share-room-with-jews-report-says-amid-deepening-antisemitism-crisis/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-17T17:11:55",
+          "scraped_at": "2026-03-17T17:31:11.120517",
+          "guid": "https://www.algemeiner.com/?p=768058"
+        },
+        {
+          "title": "The Truth About Israel’s Wartime Censorship",
+          "description": "“There are censorship laws in Israel.” (NPR) “Israel has imposed strict military censorship … for decades, but has tightened its...",
+          "link": "https://www.algemeiner.com/2026/03/17/the-truth-about-israels-wartime-censorship/",
+          "source": "Algemeiner",
+          "author": "Chaim Lax",
+          "published": "2026-03-17T16:00:48",
+          "scraped_at": "2026-03-17T16:33:35.641541",
+          "guid": "https://www.algemeiner.com/?p=768053"
+        },
+        {
+          "title": "We Should Be Welcoming All Jews and Bringing Them Closer — Despite Religious Differences",
+          "description": "We Jews have always liked to argue about religion, and everything from kashrut to conversion. Often these differences are far...",
+          "link": "https://www.algemeiner.com/2026/03/17/we-should-be-welcoming-all-jews-and-bringing-them-closer-despite-religious-differences/",
+          "source": "Algemeiner",
+          "author": "Jeremy Rosen",
+          "published": "2026-03-17T16:07:21",
+          "scraped_at": "2026-03-17T16:33:35.641484",
+          "guid": "https://www.algemeiner.com/?p=768036"
+        },
+        {
+          "title": "Over 100 Groups Call on University of California to Address Campus Antisemitism",
+          "description": "Over 100 Jewish advocacy groups have signed a petition imploring the University of California (UC) system to confront faculty antisemitism...",
+          "link": "https://www.algemeiner.com/2026/03/16/over-100-groups-call-university-california-address-campus-antisemitism/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-16T20:23:31",
+          "scraped_at": "2026-03-16T21:20:21.123900",
+          "guid": "https://www.algemeiner.com/?p=767956"
+        },
+        {
+          "title": "Support for Israel Craters Among US Democrats, According to New Poll",
+          "description": "A new national poll reveals the extent to which support for Israel among Democratic voters in the US has dropped...",
+          "link": "https://www.algemeiner.com/2026/03/16/support-israel-craters-us-democrats-new-poll/",
+          "source": "Algemeiner",
+          "author": "Corey Walker",
+          "published": "2026-03-16T19:55:25",
+          "scraped_at": "2026-03-16T20:19:11.180029",
+          "guid": "https://www.algemeiner.com/?p=767997"
+        },
+        {
+          "title": "College Republicans Federation Disbands University of Florida Chapter Over Nazi Pictures",
+          "description": "The Florida Federation of College Republicans (FFCR) has disbanded its chapter at the University of Florida and asked the school...",
+          "link": "https://www.algemeiner.com/2026/03/16/college-republicans-federation-disbands-university-florida-chapter-nazi-pictures/",
+          "source": "Algemeiner",
+          "author": "Dion J. Pierre",
+          "published": "2026-03-16T19:05:30",
+          "scraped_at": "2026-03-16T19:30:12.660143",
+          "guid": "https://www.algemeiner.com/?p=767900"
+        }
+      ]
+    },
+    "Haaretz": {
+      "count": 6,
+      "articles": [
+        {
+          "title": "Berkeley law student groups will no longer be allowed to ban 'Zionist' speakers",
+          "description": "The Brandeis Center for Human Rights Under Law sued Berkeley in November 2023 for its 'longstanding, unchecked spread of antisemitism,' citing this ban. Under the terms of a settlement reached, the university will adopt a controversial definition of antisemitism",
+          "link": "https://www.haaretz.com/us-news/2026-03-19/ty-article/.premium/berkeley-law-student-groups-will-no-longer-be-allowed-to-ban-zionist-speakers/0000019d-0766-da5c-a7bd-2ff6bc080000",
+          "source": "Haaretz",
+          "author": "Judy Maltz",
+          "published": "2026-03-19T19:05:53",
+          "scraped_at": "2026-03-19T19:25:07.677555",
+          "guid": "https://www.haaretz.com/us-news/2026-03-19/ty-article/.premium/berkeley-law-student-groups-will-no-longer-be-allowed-to-ban-zionist-speakers/0000019d-0766-da5c-a7bd-2ff6bc080000"
+        },
+        {
+          "title": "Iranian regime 'degraded' but in tact as threats persist, U.S. intelligence chief warns",
+          "description": "Tulsi Gabbard's appearance before the Senate Intelligence Committee is the first public sworn testimony from senior U.S. officials since the start of the Iran war",
+          "link": "https://www.haaretz.com/us-news/2026-03-18/ty-article/.premium/iranian-regime-degraded-but-threats-persist-u-s-intelligence-chief-warns/0000019d-01ad-d088-a5fd-b3ad22bf0000",
+          "source": "Haaretz",
+          "author": "Ben Samuels",
+          "published": "2026-03-18T18:29:44",
+          "scraped_at": "2026-03-18T19:26:47.073167",
+          "guid": "https://www.haaretz.com/us-news/2026-03-18/ty-article/.premium/iranian-regime-degraded-but-threats-persist-u-s-intelligence-chief-warns/0000019d-01ad-d088-a5fd-b3ad22bf0000"
+        },
+        {
+          "title": "To a Lithuanian shtetl, a living memory returns after 80 years of silence",
+          "description": "The Lost Shtetl Museum is more than an exhibition of artifacts, survivors of a lost civilization. It is a place of reflection and, hopefully, a place to feel safe having a conversation about loss, shame and the Holocaust",
+          "link": "https://www.haaretz.com/opinion/2026-03-18/ty-article-opinion/.premium/to-a-lithuanian-shtetl-a-living-memory-returns-after-80-years-of-silence/0000019c-fb90-dc93-a9de-fbbfe84f0000",
+          "source": "Haaretz",
+          "author": "Jolanta Mickutė",
+          "published": "2026-03-18T08:25:31",
+          "scraped_at": "2026-03-18T09:27:28.895843",
+          "guid": "https://www.haaretz.com/opinion/2026-03-18/ty-article-opinion/.premium/to-a-lithuanian-shtetl-a-living-memory-returns-after-80-years-of-silence/0000019c-fb90-dc93-a9de-fbbfe84f0000"
+        },
+        {
+          "title": "Beyond Israel's consensus: Is the Iran war legal?",
+          "description": "Most experts say Israel's war exceeds the bounds of self-defense. But with the UN Security Council effectively paralyzed, Israel could argue that the rules need updating, allowing states to act against existential threats even without international backing",
+          "link": "https://www.haaretz.com/israel-news/2026-03-17/ty-article-magazine/.premium/beyond-israels-consensus-is-the-iran-war-legal/0000019c-f5f3-d979-a7ff-ffffdbc20000",
+          "source": "Haaretz",
+          "author": "Chen Maanit",
+          "published": "2026-03-17T15:09:42",
+          "scraped_at": "2026-03-17T15:32:16.478202",
+          "guid": "https://www.haaretz.com/israel-news/2026-03-17/ty-article-magazine/.premium/beyond-israels-consensus-is-the-iran-war-legal/0000019c-f5f3-d979-a7ff-ffffdbc20000"
+        },
+        {
+          "title": "'No coincidence': Under 0.5 percent of voices in major Israeli news during Iran war were Arab",
+          "description": "Only 3 of 199 reports on protective measures focused on Arab localities, and in 232 reports on the education system, Arab schools were not mentioned. 'When a fifth of the country's citizens is almost absent from the media, the public does not receive an accurate picture of reality'",
+          "link": "https://www.haaretz.com/israel-news/2026-03-16/ty-article/.premium/under-0-5-percent-of-voices-in-major-israeli-news-during-iran-war-were-arab/0000019c-f5ec-dc3e-ab9e-f5fc585f0000",
+          "source": "Haaretz",
+          "author": "Ido David Cohen",
+          "published": "2026-03-16T18:35:30",
+          "scraped_at": "2026-03-16T19:30:19.257308",
+          "guid": "https://www.haaretz.com/israel-news/2026-03-16/ty-article/.premium/under-0-5-percent-of-voices-in-major-israeli-news-during-iran-war-were-arab/0000019c-f5ec-dc3e-ab9e-f5fc585f0000"
+        },
+        {
+          "title": "20 percent of British students would not want to room with a Jew, report finds",
+          "description": "Published by the Union of Jewish Students, the report also found that nearly one in four British students has seen Jews targeted on their campuses, and nearly have heard chants glorifying terrorist groups",
+          "link": "https://www.haaretz.com/jewish/2026-03-16/ty-article/.premium/20-percent-of-british-students-would-not-want-to-room-with-a-jew-report-finds/0000019c-f6b4-d686-adbd-f6be5bb40000",
+          "source": "Haaretz",
+          "author": "Judy Maltz",
+          "published": "2026-03-16T14:47:33",
+          "scraped_at": "2026-03-16T15:33:13.825933",
+          "guid": "https://www.haaretz.com/jewish/2026-03-16/ty-article/.premium/20-percent-of-british-students-would-not-want-to-room-with-a-jew-report-finds/0000019c-f6b4-d686-adbd-f6be5bb40000"
+        }
+      ]
+    },
+    "JNS": {
+      "count": 18,
+      "articles": [
+        {
+          "title": "Berkeley to better protect Jews, reimburse $1 million in Brandeis Center legal fees",
+          "description": "“What happened at Berkeley is a cautionary tale,” stated Kenneth Marcus, of the Brandeis Center, after the public school settled a lawsuit alleging Jew-hatred.",
+          "link": "https://www.jns.org/news/u-s-news/berkeley-to-better-protect-jews-reimburse-1-million-in-brandeis-center-legal-fees",
+          "source": "JNS",
+          "author": "Aaron Bandler",
+          "published": "2026-03-19T17:03:06",
+          "scraped_at": "2026-03-19T17:28:12.264543",
+          "guid": "https://www.jns.org/news/u-s-news/berkeley-to-better-protect-jews-reimburse-1-million-in-brandeis-center-legal-fees"
+        },
+        {
+          "title": "‘It’s not true,’ Lipstadt tells JNS of prof’s letter saying she shouldn’t speak at University of Washington",
+          "description": "“If you grab too much, you don’t grab anything at all,” the former U.S. envoy on Jew-hatred said, quoting the Talmud.",
+          "link": "https://www.jns.org/its-not-true-lipstadt-tells-jns-of-profs-letter-saying-she-shouldnt-speak-at-university-of-washington",
+          "source": "JNS",
+          "author": "Jessica Russak-Hoffman",
+          "published": "2026-03-19T14:02:08",
+          "scraped_at": "2026-03-19T14:26:54.649436",
+          "guid": "https://www.jns.org/its-not-true-lipstadt-tells-jns-of-profs-letter-saying-she-shouldnt-speak-at-university-of-washington"
+        },
+        {
+          "title": "Israel ranks eighth in World Happiness Report, despite ongoing war",
+          "description": "Bar-Ilan University researcher Anat Fanti: “Israel’s results reflect resilience, but not the psychological cost of war.”",
+          "link": "https://www.jns.org/news/israel-news/israel-ranks-eighth-in-world-happiness-report-despite-ongoing-war",
+          "source": "JNS",
+          "author": "Steve Linde",
+          "published": "2026-03-19T05:37:00",
+          "scraped_at": "2026-03-19T06:31:48.432528",
+          "guid": "https://www.jns.org/news/israel-news/israel-ranks-eighth-in-world-happiness-report-despite-ongoing-war"
+        },
+        {
+          "title": "‘Children shaped clay 15,000 years ago in Israel’",
+          "description": "The Hebrew University of Jerusalem reported that Natufian hunter-gatherers produced 142 beads and pendants uncovered by archaeologists.",
+          "link": "https://www.jns.org/news/israel-news/children-shaped-clay-15-000-years-ago-in-israel",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-19T06:00:00",
+          "scraped_at": "2026-03-19T06:31:48.432476",
+          "guid": "https://www.jns.org/news/israel-news/children-shaped-clay-15-000-years-ago-in-israel"
+        },
+        {
+          "title": "‘Somebody came into my house to shoot my babies’: Temple Israel, Federation call for federal security measures after attack",
+          "description": "“This could have been the greatest terrorist tragedy in America since 9/11,” Eric Fingerhut, president and CEO of the Jewish Federations of North America, told JNS.",
+          "link": "https://www.jns.org/news/u-s-news/somebody-came-into-my-house-to-shoot-my-babies-temple-israel-federation-call-for-federal-security-measures-after-attack",
+          "source": "JNS",
+          "author": "Andrew Bernard",
+          "published": "2026-03-18T23:29:05",
+          "scraped_at": "2026-03-19T00:50:28.381095",
+          "guid": "https://www.jns.org/news/u-s-news/somebody-came-into-my-house-to-shoot-my-babies-temple-israel-federation-call-for-federal-security-measures-after-attack"
+        },
+        {
+          "title": "Congress unanimously passes bill to permanently extend Holocaust art restitution law",
+          "description": "“Justice must no longer be denied due to procedural technicalities and legislative sunset provisions,” Rep. Jerry Nadler said. The post Congress unanimously passes bill to permanently extend Holocaust art restitution law appeared first on JNS.org .",
+          "link": "https://www.jns.org/congress-unanimously-passes-bill-to-permanently-extend-holocaust-art-restitution-law/",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-17T20:22:53",
+          "scraped_at": "2026-03-17T21:19:36.320398",
+          "guid": "https://www.jns.org/?p=654373"
+        },
+        {
+          "title": "Legacy organizations skittish on confronting the scourge of anti-Zionism on campus",
+          "description": "If Jewish peoplehood and nationhood are not seen as integral to Jewish life, then attacks on the legitimacy of Israel can appear as fair game. The post Legacy organizations skittish on confronting the scourge of anti-Zionism on campus appeared first on JNS.org .",
+          "link": "https://www.jns.org/legacy-organizations-skittish-on-confronting-the-scourge-of-anti-zionism-on-campus/",
+          "source": "JNS",
+          "author": "Casey Babb and Naya Lekht",
+          "published": "2026-03-17T20:44:20",
+          "scraped_at": "2026-03-17T21:19:36.320349",
+          "guid": "https://www.jns.org/?p=654358"
+        },
+        {
+          "title": "University leaders, faculty and students driving Jew-hatred and failing to fight it, House panel report says",
+          "description": "Northwestern and Georgetown campuses in Qatar aren’t living up to “their stated goal of promoting Western values and liberal education abroad,” the House Education and Workforce Committee said. The post University leaders, faculty and students driving Jew-hatred and failing to fight it, House panel report says appeared first on JNS.org .",
+          "link": "https://www.jns.org/university-leaders-faculty-and-students-driving-jew-hatred-and-failing-to-fight-it-house-panel-report-says/",
+          "source": "JNS",
+          "author": "Aaron Bandler",
+          "published": "2026-03-17T19:00:00",
+          "scraped_at": "2026-03-17T19:29:34.425740",
+          "guid": "https://www.jns.org/?p=654330"
+        },
+        {
+          "title": "Agudath Israel digitizes Holocaust-era archives, highlights wartime Orthodox Jewish press",
+          "description": "The collections are “a treasure trove of primary source materials accessible to the broad Jewish public,” Rabbi Chaim Dovid Zwiebel stated. The post Agudath Israel digitizes Holocaust-era archives, highlights wartime Orthodox Jewish press appeared first on JNS.org .",
+          "link": "https://www.jns.org/agudath-israel-digitizes-holocaust-era-archives-highlights-wartime-orthodox-jewish-press/",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-17T16:53:53",
+          "scraped_at": "2026-03-17T17:31:08.672427",
+          "guid": "https://www.jns.org/?p=654283"
+        },
+        {
+          "title": "Webinar led by UN staff advised boycotting Israel, anti-Jewish advocacy",
+          "description": "A former United Nations official said that staffers should cite a Facebook page called “Jews against genocide,” which links to publications that support Hamas, to counter claims of antisemitism. The post Webinar led by UN staff advised boycotting Israel, anti-Jewish advocacy appeared first on JNS.org .",
+          "link": "https://www.jns.org/webinar-led-by-un-staff-advised-boycotting-israel-anti-jewish-advocacy/",
+          "source": "JNS",
+          "author": "Mike Wagenheim",
+          "published": "2026-03-17T15:00:30",
+          "scraped_at": "2026-03-17T15:32:08.139844",
+          "guid": "https://www.jns.org/?p=654243"
+        },
+        {
+          "title": "Paint won’t mar the legacy of a Japanese diplomat",
+          "description": "Chiune Sugihara issued 2,139 visas during World War II to help save 6,000 individuals. He deserves respect for such a legacy. The post Paint won’t mar the legacy of a Japanese diplomat appeared first on JNS.org .",
+          "link": "https://www.jns.org/paint-wont-mar-the-legacy-of-a-japanese-diplomat/",
+          "source": "JNS",
+          "author": "Linda Margolin Royal",
+          "published": "2026-03-17T12:30:00",
+          "scraped_at": "2026-03-17T13:39:49.332366",
+          "guid": "https://www.jns.org/?p=653808"
+        },
+        {
+          "title": "Jew-hatred normalized on UK campuses: report",
+          "description": "Almost a quarter of students attest to seeing Jewish students harassed. The post Jew-hatred normalized on UK campuses: report appeared first on JNS.org .",
+          "link": "https://www.jns.org/jew-hatred-normalized-on-uk-campuses-report/",
+          "source": "JNS",
+          "author": "JNS Staff",
+          "published": "2026-03-17T06:22:00",
+          "scraped_at": "2026-03-17T06:34:39.313710",
+          "guid": "https://www.jns.org/?p=653487"
+        },
+        {
+          "title": "Israeli Nobel laureate warns of ‘brain drain’ in Jewish state, but others say statistics are more fluid",
+          "description": "“It is well known in other historical examples that if you start losing your best people, you may never recover,” Joel Mokyr, a professor at Northwestern University, told JNS. The post Israeli Nobel laureate warns of ‘brain drain’ in Jewish state, but others say statistics are more fluid appeared first on JNS.org .",
+          "link": "https://www.jns.org/israeli-nobel-laureate-warns-of-brain-drain-in-jewish-state-but-others-say-statistics-are-more-fluid/",
+          "source": "JNS",
+          "author": "Mike Wagenheim",
+          "published": "2026-03-16T21:10:48",
+          "scraped_at": "2026-03-16T21:20:18.323522",
+          "guid": "https://www.jns.org/?p=653761"
+        },
+        {
+          "title": "Jewish enrollment at Harvard drops to lowest level since before WWII",
+          "description": "“I strongly believe the antisemitism does not just impact students on campus at Harvard,” Rep. Elise Stefanik stated. “It shapes admission.” The post Jewish enrollment at Harvard drops to lowest level since before WWII appeared first on JNS.org .",
+          "link": "https://www.jns.org/jewish-enrollment-at-harvard-drops-to-lowest-level-since-before-wwii/",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-16T20:13:48",
+          "scraped_at": "2026-03-16T20:19:08.793348",
+          "guid": "https://www.jns.org/?p=653736"
+        },
+        {
+          "title": "The indictment that put Lithuania on trial",
+          "description": "The Eastern European country has never punished one of its citizens for participating in the mass murder of Jews during the Holocaust; yet, it is now prosecuting a Jewish citizen for discussing that history. The post The indictment that put Lithuania on trial appeared first on JNS.org .",
+          "link": "https://www.jns.org/the-indictment-that-put-lithuania-on-trial/",
+          "source": "JNS",
+          "author": "Grant Gochin",
+          "published": "2026-03-16T16:00:00",
+          "scraped_at": "2026-03-16T18:30:27.815462",
+          "guid": "https://www.jns.org/?p=653653"
+        },
+        {
+          "title": "Oklahoma attorney general urges detailed explanation for rejection of Jewish charter school",
+          "description": "Attorney General Gentner Drummond argues that the Statewide Charter School Board’s leadership “steered members to cite only religion as the reason for denial,” leaving out other non-constitutional deficiencies. The post Oklahoma attorney general urges detailed explanation for rejection of Jewish charter school appeared first on JNS.org .",
+          "link": "https://www.jns.org/oklahoma-attorney-general-urges-detailed-explanation-for-rejection-of-jewish-charter-school/",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-16T18:03:58",
+          "scraped_at": "2026-03-16T18:30:27.815328",
+          "guid": "https://www.jns.org/?p=653649"
+        },
+        {
+          "title": "Survey: Post-Oct. 7 support for Israel wanes among Democrats, younger voters",
+          "description": "“Israel may have had major military success in its war against Hamas, but its actions have badly damaged its standing among the American people,” stated a Democratic pollster who led the survey. The post Survey: Post-Oct. 7 support for Israel wanes among Democrats, younger voters appeared first on JNS.org .",
+          "link": "https://www.jns.org/survey-post-oct-7-support-for-israel-wanes-among-democrats-younger-voters/",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-03-16T17:05:17",
+          "scraped_at": "2026-03-16T17:29:41.231456",
+          "guid": "https://www.jns.org/?p=653620"
+        },
+        {
+          "title": "Petition urges University of California regents to address report on faculty role in campus Jew-hatred",
+          "description": "“It is about enforcing the crucial boundary between private speech and institutional advocacy,” the petition states. The post Petition urges University of California regents to address report on faculty role in campus Jew-hatred appeared first on JNS.org .",
+          "link": "https://www.jns.org/petition-urges-university-of-california-regents-to-address-report-on-faculty-role-in-campus-jew-hatred/",
+          "source": "JNS",
+          "author": "Aaron Bandler",
+          "published": "2026-03-16T16:22:23",
+          "scraped_at": "2026-03-16T16:32:16.492996",
+          "guid": "https://www.jns.org/?p=653615"
+        }
+      ]
+    },
+    "J. Weekly": {
+      "count": 5,
+      "articles": [
+        {
+          "title": "Cal settles antisemitism lawsuit for $1 million, pledges changes",
+          "description": "UC Berkeley will pay $1 million and make changes to its nondiscrimination policy to settle a lawsuit alleging the university allowed antisemitic harassment to go unchecked. The settlement agreement was [&#8230;]",
+          "link": "https://jweekly.com/2026/03/19/cal-settles-antisemitism-lawsuit-for-1-million-pledges-policy-changes/",
+          "source": "J. Weekly",
+          "author": "Gabe Stutman",
+          "published": "2026-03-19T17:16:56",
+          "scraped_at": "2026-03-19T17:27:57.812250",
+          "guid": "https://jweekly.com/?p=301433"
+        },
+        {
+          "title": "Rabbi Sharon Brous: We must ‘rehumanize’ each other",
+          "description": "Rabbi Sharon Brous has spent much of her career asking a deceptively simple question: How do we keep our humanity in a world that often pushes us toward isolation, fear [&#8230;]",
+          "link": "https://jweekly.com/2026/03/18/rabbi-sharon-brous-we-must-rehumanize-each-other-in-an-inhumane-world/",
+          "source": "J. Weekly",
+          "author": "Lea Loeb",
+          "published": "2026-03-18T20:34:15",
+          "scraped_at": "2026-03-18T21:18:01.053452",
+          "guid": "https://jweekly.com/?p=301253"
+        },
+        {
+          "title": "OPINION | Why is the Jewish establishment so focused on the left?",
+          "description": "This story was originally published in the Forward. America’s antisemitism watchdogs are committing institutional malpractice. While antisemitism explodes on the right, including throughout the Donald Trump administration and popular right-wing [&#8230;]",
+          "link": "https://jweekly.com/2026/03/16/antisemitism-is-exploding-on-the-right-but-the-jewish-establishment-is-focused-on-the-left/",
+          "source": "J. Weekly",
+          "author": "Rabbi Jay Michaelson",
+          "published": "2026-03-16T19:00:00",
+          "scraped_at": "2026-03-16T19:29:55.294211",
+          "guid": "https://jweekly.com/?p=301136"
+        },
+        {
+          "title": "Security funding for Jewish groups held up by DHS shutdown",
+          "description": "(JTA) — A shutdown at the Department of Homeland Security since Feb. 14 is halting the review of millions of dollars in security funding for nonprofits, leaving Jewish institutions and [&#8230;]",
+          "link": "https://jweekly.com/2026/03/16/security-funding-that-jewish-groups-call-crucial-is-being-held-up-by-dhs-shutdown/",
+          "source": "J. Weekly",
+          "author": "Asaf Elia-Shalev",
+          "published": "2026-03-16T17:34:45",
+          "scraped_at": "2026-03-16T18:30:12.329607",
+          "guid": "https://jweekly.com/?p=301133"
+        },
+        {
+          "title": "Jewish security watchdogs warn of highest threats in recent times",
+          "description": "(JTA) — A string of recent synagogue attacks across North America and Europe has left security officials sounding the alarm bells. “We are in the midst of the most elevated [&#8230;]",
+          "link": "https://jweekly.com/2026/03/13/jewish-security-watchdogs-warn-of-most-elevated-and-complex-threat-environment-in-recent-history/",
+          "source": "J. Weekly",
+          "author": "Joseph Strauss and Jackie Hajdenberg",
+          "published": "2026-03-13T23:15:00",
+          "scraped_at": "2026-03-14T00:45:40.685776",
+          "guid": "https://jweekly.com/?p=301112"
+        }
+      ]
+    },
+    "eJewish Philanthropy": {
+      "count": 12,
+      "articles": [
+        {
+          "title": "Pluralism is a Jewish survival skill",
+          "description": "There are moments in Jewish history when disagreement feels dangerous. We are living in one of those moments now. In the past year, I’ve spoken with countless Jewish communal leaders who make the same painful admission: they have stopped convening contentious conversations altogether. Not because the questions are unimportant, but because they no longer trust... Read More The post Pluralism is a Jewish survival skill appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/pluralism-is-a-jewish-survival-skill/",
+          "source": "eJewish Philanthropy",
+          "author": "Rabbi David Singer",
+          "published": "2026-03-19T13:39:36",
+          "scraped_at": "2026-03-19T14:26:42.330680",
+          "guid": "https://ejewishphilanthropy.com/?p=170182"
+        },
+        {
+          "title": "KKL-JNF approves $598 million budget for 2026, along with millions in wartime allocations",
+          "description": "As Eyal Ostrinski, chair of Keren Kayemet LeIsrael-Jewish National Fund, discussed the organizations allocations in recent weeks, in a conversation with eJewishPhilanthropy this week, he repeatedly realized that there was something else he wanted to share, peppering the conversation with “oh, and one more thing,” “I nearly forgot” and “I also have to mention” — a... Read More The post KKL-JNF approves $598 million budget for 2026, along with millions in wartime allocations appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/kkl-jnf-approves-598-million-budget-for-2026-along-with-millions-in-wartime-allocations/",
+          "source": "eJewish Philanthropy",
+          "author": "Judah Ari Gross",
+          "published": "2026-03-19T13:19:12",
+          "scraped_at": "2026-03-19T13:37:22.607999",
+          "guid": "https://ejewishphilanthropy.com/?p=170200"
+        },
+        {
+          "title": "Squeezed by BDS, Nazarians shift USC endowment to Judaic studies, with HUC antisemitism program",
+          "description": "Shortly before the Oct. 7, 2023, terrorist attacks in Israel, Sharon Nazarian ensured that her new UCLA course on global antisemitism would be housed in the global studies department, deliberately choosing a diverse student body over the more niche Jewish or Israel studies departments. But in response to rising Boycott, Divestment and Sanctions activity on... Read More The post Squeezed by BDS, Nazarians shift USC endowment to Judaic studies, with HUC antisemitism program appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/squeezed-by-bds-nazarians-shift-usc-endowment-to-judaic-studies-with-huc-antisemitism-program/",
+          "source": "eJewish Philanthropy",
+          "author": "Haley Cohen",
+          "published": "2026-03-19T08:19:27",
+          "scraped_at": "2026-03-19T08:22:49.805706",
+          "guid": "https://ejewishphilanthropy.com/?p=170197"
+        },
+        {
+          "title": "Rethinking doctoral studies for Jewish communal leadership",
+          "description": "The William Davidson Graduate School of Jewish Education at the Jewish Theological Seminary was created to prepare and support the professionals who shape Jewish life. Over the past several years, we’ve taken note as a troubling pattern emerged across the field: talented, committed people struggling with burnout, career stagnation, a loss of hope and confronting... Read More The post Rethinking doctoral studies for Jewish communal leadership appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/rethinking-doctoral-studies-for-jewish-communal-leadership/",
+          "source": "eJewish Philanthropy",
+          "author": "Abigail Uhrman",
+          "published": "2026-03-18T09:30:00",
+          "scraped_at": "2026-03-18T10:27:03.992949",
+          "guid": "https://ejewishphilanthropy.com/?p=170112"
+        },
+        {
+          "title": "JFN teams up with Genesis Prize to double Gal Gadot’s initiative to support groups ‘healing’ Israel",
+          "description": "SAN DIEGO — It is customary for winners of the annual Genesis Prize, often referred to as the “Jewish Nobel,” to donate the $1 million award to causes they are passionate about. Past recipients have given their funds to combating antisemitism, assisting refugees, women’s rights and preserving the memory of Greek Holocaust victims. When actress Gal... Read More The post JFN teams up with Genesis Prize to double Gal Gadot&#8217;s initiative to support groups &#8216;healing&#8217; Israel appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/jfn-teams-up-with-genesis-prize-to-double-gal-gadots-initiative-to-support-groups-healing-israel/",
+          "source": "eJewish Philanthropy",
+          "author": "Jay Deitcher",
+          "published": "2026-03-17T11:19:06",
+          "scraped_at": "2026-03-17T11:23:08.348847",
+          "guid": "https://ejewishphilanthropy.com/?p=170071"
+        },
+        {
+          "title": "A window for systemic change: Andrés Spokoiny’s address to JFN 2026",
+          "description": "I’m not proud of it, but I have the habit of leaving things to the last minute. In fact, some of you know that I write my conference speech the day before the conference starts. But this year, I told myself: This time I’ll do things differently. I’ll be a good boy… I’ll write my... Read More The post A window for systemic change: Andrés Spokoiny’s address to JFN 2026 appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/a-window-for-systemic-change-andres-spokoinys-address-to-jfn-2026/",
+          "source": "eJewish Philanthropy",
+          "author": "Andrés Spokoiny",
+          "published": "2026-03-16T22:00:00",
+          "scraped_at": "2026-03-17T10:24:42.206661",
+          "guid": "https://ejewishphilanthropy.com/?p=170029"
+        },
+        {
+          "title": "As philanthropists gather in San Diego, Israel’s first responders face a growing trauma epidemic",
+          "description": "As the former battalion chief responsible for firefighter health and safety for the City of San Diego, I spent much of my career confronting a reality that every firefighter, paramedic, police officer and soldier eventually learns: The most serious injuries in these professions are often not the ones sustained during the emergency itself. They are... Read More The post As philanthropists gather in San Diego, Israel’s first responders face a growing trauma epidemic appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/as-philanthropists-gather-in-san-diego-israels-first-responders-face-a-growing-trauma-epidemic/",
+          "source": "eJewish Philanthropy",
+          "author": "David Picone",
+          "published": "2026-03-17T10:01:48",
+          "scraped_at": "2026-03-17T10:24:42.206601",
+          "guid": "https://ejewishphilanthropy.com/?p=170057"
+        },
+        {
+          "title": "The moment for systemic change: Andrés Spokoiny’s address to JFN 2026",
+          "description": "I’m not proud of it, but I have the habit of leaving things to the last minute. In fact, some of you know that I write my conference speech the day before the conference starts. But this year, I told myself: This time I’ll do things differently. I’ll be a good boy… I’ll write my... Read More The post The moment for systemic change: Andrés Spokoiny’s address to JFN 2026 appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/make-all-this-count-andres-spokoinys-address-to-jfn-2026/",
+          "source": "eJewish Philanthropy",
+          "author": "Andrés Spokoiny",
+          "published": "2026-03-16T22:00:00",
+          "scraped_at": "2026-03-17T07:30:08.382584",
+          "guid": "https://ejewishphilanthropy.com/?p=170029"
+        },
+        {
+          "title": "JFN conference highlights new voices as next generation of philanthropists join the conversation",
+          "description": "It was the same temperature as every day in San Diego — a crisp 70 degrees, not too hot, not too cold — as over 600 attendees, individual funders and representatives of family foundations and large grantmakers, from 9 countries made their way to the Omni La Costa Resort and Spa for Jewish Funders Networks... Read More The post JFN conference highlights new voices as next generation of philanthropists join the conversation appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/jfn-conference-highlights-new-voices-as-next-generation-of-philanthropists-join-the-conversation/",
+          "source": "eJewish Philanthropy",
+          "author": "Jay Deitcher",
+          "published": "2026-03-16T10:35:34",
+          "scraped_at": "2026-03-16T11:25:05.199851",
+          "guid": "https://ejewishphilanthropy.com/?p=169999"
+        },
+        {
+          "title": "Why climate action is the next great Jewish responsibility",
+          "description": "I grew up in a family with a long history of supporting both the Jewish community and Jewish values. From an early age, I absorbed the idea of different kinds of responsibility: to my community, to the wider societies we are a part of and to future generations. I learned that giving is certainly about... Read More The post Why climate action is the next great Jewish responsibility appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/why-climate-action-is-the-next-great-jewish-responsibility/",
+          "source": "eJewish Philanthropy",
+          "author": "Stephen Bronfman",
+          "published": "2026-03-16T08:00:00",
+          "scraped_at": "2026-03-16T08:34:03.913132",
+          "guid": "https://ejewishphilanthropy.com/?p=169985"
+        },
+        {
+          "title": "600+ funders flocking to San Diego for JFN confab on philanthropy in a time of constant uncertainty",
+          "description": "At this year’s Jewish Funders Network International Conference, which kicks off Sunday in San Diego, over 600 funders will grapple with one overarching question: How does the Jewish community operate under uncertainty and successive crises? Since the COVID-19 pandemic, the Jewish world has been in a chronic state of tumult. The past 2 1/2 years... Read More The post 600+ funders flocking to San Diego for JFN confab on philanthropy in a time of constant uncertainty appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/600-funders-flocking-to-san-diego-for-jfn-confab-on-philanthropy-in-a-time-of-constant-uncertainty/",
+          "source": "eJewish Philanthropy",
+          "author": "Jay Deitcher",
+          "published": "2026-03-13T11:48:45",
+          "scraped_at": "2026-03-13T12:22:47.271174",
+          "guid": "https://ejewishphilanthropy.com/?p=169957"
+        },
+        {
+          "title": "The shifting religious landscape and its implications for American liberal Judaism",
+          "description": "To fully appreciate what is unfolding in the Jewish religious market space, it is essential to capture what is happening more broadly in the world of American religion. Liberal religious seminaries and umbrella organizations for liberal movements are experiencing significant membership decline, financial challenges, theological evolution and a pivot toward social justice activism over traditional... Read More The post The shifting religious landscape and its implications for American liberal Judaism appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/the-shifting-religious-landscape-and-its-implications-for-american-liberal-judaism/",
+          "source": "eJewish Philanthropy",
+          "author": "Steven Windmueller",
+          "published": "2026-03-13T08:32:37",
+          "scraped_at": "2026-03-13T09:21:35.629758",
+          "guid": "https://ejewishphilanthropy.com/?p=169948"
+        }
+      ]
+    },
+    "The Forward": {
+      "count": 12,
+      "articles": [
+        {
+          "title": "NYC synagogues boost security as DHS shutdown stalls federal funding",
+          "description": "(New York Jewish Week) — When an attacker drove into Temple Israel in suburban Detroit last week, the synagogue’s security guards were ready to engage him. Soon after, the attacker was dead — with no serious injuries to anyone else. But that was at the biggest congregation in the United States, with a large staff of... The post NYC synagogues boost security as DHS shutdown stalls federal funding appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813631/nyc-synagogues-boost-security-as-dhs-shutdown-stalls-federal-funding/",
+          "source": "The Forward",
+          "author": "Joseph Strauss",
+          "published": "2026-03-19T09:07:13",
+          "scraped_at": "2026-03-19T09:23:24.389469",
+          "guid": "https://forward.com/?p=813631"
+        },
+        {
+          "title": "U of Florida College Republicans, caught making Nazi salutes, sue school for disbanding chapter",
+          "description": "(JTA) — Another group for young Republicans is in hot water over revelations that its members have engaged in antisemitic activity. The University of Florida disbanded its College Republicans chapter over the weekend following social media posts in which two members reportedly made Nazi salutes, among other actions. In response, the group sued the university,... The post U of Florida College Republicans, caught making Nazi salutes, sue school for disbanding chapter appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813580/u-of-florida-college-republicans-caught-making-nazi-salutes-sue-school-for-disbanding-chapter/",
+          "source": "The Forward",
+          "author": "Andrew Lapin",
+          "published": "2026-03-19T09:09:28",
+          "scraped_at": "2026-03-19T09:23:24.389422",
+          "guid": "https://forward.com/?p=813580"
+        },
+        {
+          "title": "Jan. 6 protester Jake Lang renounced his Judaism to court the far right. It isn’t working.",
+          "description": "(JTA) — Jake Lang has burned a copy of the Talmud, performed a Nazi salute outside AIPAC’s headquarters and repeatedly declared that “Christ is King.” But those antisemitic displays have not earned him an in with his fellow far-right personalities. Instead, after Lang’s anti-Muslim rally in New York City earlier this month was derailed by... The post Jan. 6 protester Jake Lang renounced his Judaism to court the far right. It isn’t working. appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813496/jan-6-protester-jake-lang-renounced-his-judaism-to-court-the-far-right-it-isnt-working/",
+          "source": "The Forward",
+          "author": "Grace Gilson",
+          "published": "2026-03-19T09:12:10",
+          "scraped_at": "2026-03-19T09:23:24.389362",
+          "guid": "https://forward.com/?p=813496"
+        },
+        {
+          "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+          "description": "(JTA) — BERLIN — Gesa Shira Ederberg was not yet a rabbi when she was tapped to lead a seder, to teach Hebrew, and to organize an egalitarian minyan in her home city of Berlin. She happened to be in the right places when help was needed, recalls Ederberg, who was pursuing a degree in... The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813481/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association/",
+          "source": "The Forward",
+          "author": "Philissa Cramer",
+          "published": "2026-03-18T14:18:40",
+          "scraped_at": "2026-03-18T14:39:05.930449",
+          "guid": "https://forward.com/?p=813481"
+        },
+        {
+          "title": "An astonishing history of wartime Berlin that reads like a thriller",
+          "description": "Stay Alive: Berlin, 1939-1945 Ian Buruma Penguin Press, 400 pages, $35 World War II Berlin had its share of fanatical Nazis, along with a handful of courageous resisters. But it is the people navigating between these two moral poles that seem to interest Ian Buruma the most — those trying, against the odds, to remain... The post An astonishing history of wartime Berlin that reads like a thriller appeared first on The Forward .",
+          "link": "https://forward.com/culture/812500/ian-buruma-stay-alive-wartime-berlin-history/",
+          "source": "The Forward",
+          "author": "Julia M. Klein",
+          "published": "2026-03-17T17:00:20",
+          "scraped_at": "2026-03-17T19:29:27.218362",
+          "guid": "https://forward.com/?p=812500"
+        },
+        {
+          "title": "Dueling letters from Jewish groups dispute prevalence of antisemitism at UCLA",
+          "description": "More than 100 Jewish faculty and staff at the University of California, Los Angeles published a letter Monday disputing the Trump administration’s claim in a federal lawsuit against the university that the school has fostered a hostile climate for its Jewish employees. Following an investigation launched just weeks after Trump’s inauguration, the U.S. Department of... The post Dueling letters from Jewish groups dispute prevalence of antisemitism at UCLA appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813301/dueling-letters-from-jewish-groups-dispute-prevalence-of-antisemitism-at-ucla/",
+          "source": "The Forward",
+          "author": "Arno Rosenfeld",
+          "published": "2026-03-17T17:55:42",
+          "scraped_at": "2026-03-17T18:29:46.770733",
+          "guid": "https://forward.com/?p=813301"
+        },
+        {
+          "title": "Democratic voter support for Israel plummets to historic low",
+          "description": "Support for Israel among Democratic voters has plummeted by more than half over the past three years, with only 13% of Democrats now expressing a positive view of Israel while 57% hold a negative view amid the U.S.-Israel war against Iran, according to a new NBC News poll. The numbers mark a stunning shift since... The post Democratic voter support for Israel plummets to historic low appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/813076/democratic-support-israel-plummets-historic-low-nbc/",
+          "source": "The Forward",
+          "author": "Arno Rosenfeld",
+          "published": "2026-03-16T20:35:53",
+          "scraped_at": "2026-03-16T21:20:11.802979",
+          "guid": "https://forward.com/?p=813076"
+        },
+        {
+          "title": "As Temple Israel, both security training and sacred relationships prepared us for the worst",
+          "description": "(JTA) — As the executive director of a synagogue, I read the daily security briefs from Secure Community Network and engage in regular security updates with my colleagues and friends in Jewish communal spaces across the country. I never imagined that the security risks we talk about every day would literally be at the entry... The post As Temple Israel, both security training and sacred relationships prepared us for the worst appeared first on The Forward .",
+          "link": "https://forward.com/opinion/812998/as-temple-israel-both-security-training-and-sacred-relationships-prepared-us-for-the-worst/",
+          "source": "The Forward",
+          "author": "Jason Plotkin",
+          "published": "2026-03-16T17:56:42",
+          "scraped_at": "2026-03-16T18:30:20.459193",
+          "guid": "https://forward.com/?p=812998"
+        },
+        {
+          "title": "Oklahoma attorney general accuses officials of rigging vote on proposed Jewish charter school",
+          "description": "(JTA) — Oklahoma’s attorney general is accusing a state board of trying to rig the legal fight over a proposed Jewish charter school — a dispute that could open the door for publicly funded religious charter schools across the United States. Attorney General Gentner Drummond filed a motion this week asking an Oklahoma County district... The post Oklahoma attorney general accuses officials of rigging vote on proposed Jewish charter school appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/812614/oklahoma-attorney-general-accuses-officials-of-rigging-vote-on-proposed-jewish-charter-school/",
+          "source": "The Forward",
+          "author": "Asaf Elia-Shalev",
+          "published": "2026-03-15T14:43:01",
+          "scraped_at": "2026-03-15T15:13:50.678073",
+          "guid": "https://forward.com/?p=812614"
+        },
+        {
+          "title": "His family was forced to sell their precious Pissarro painting before fleeing Nazi Germany; will he finally see justice?",
+          "description": "It has been more than four years since I first reported on the looted art case regarding the Camille Pissarro painting, “Rue Saint-Honoré, Apres Midi, Effet de Pluie,” in The Forward. The painting is part of a series the Jewish artist painted from the safety of his hotel room in Paris at the height of... The post His family was forced to sell their precious Pissarro painting before fleeing Nazi Germany; will he finally see justice? appeared first on The Forward .",
+          "link": "https://forward.com/culture/812371/cassirer-family-pissarro-painting-nazi-looted-art-spain-museum/",
+          "source": "The Forward",
+          "author": "Michelle Young",
+          "published": "2026-03-15T13:00:19",
+          "scraped_at": "2026-03-15T13:25:48.854659",
+          "guid": "https://forward.com/?p=812371"
+        },
+        {
+          "title": "What we get wrong about how Germany has reckoned with its Nazi past",
+          "description": "On a recent Freakonomics episode about the German film director Werner Herzog, host Stephen Dubner voiced a familiar assertion about postwar Germany’s confrontation with the Nazi past — an assertion shared by many Americans but one that is, in fact, a partial myth. “It’s always impressed me,” Dubner said to Herzog, “the way that Germany,... The post What we get wrong about how Germany has reckoned with its Nazi past appeared first on The Forward .",
+          "link": "https://forward.com/opinion/811597/germany-reckoning-with-nazi-past-lessons-for-trump-america/",
+          "source": "The Forward",
+          "author": "Terrence Petty",
+          "published": "2026-03-14T13:00:57",
+          "scraped_at": "2026-03-14T13:24:45.690660",
+          "guid": "https://forward.com/?p=811597"
+        },
+        {
+          "title": "Synagogues size up security after Michigan attack amid intensifying risks",
+          "description": "Jewish security professionals say the attack on Temple Israel in the Detroit suburbs Thursday highlights a need for Jewish institutions to prepare for more such “two-staged” assaults in which attackers use both a vehicle and weapons, as the threat of antisemitic violence grows following the Israel-U.S. launch of war on Iran. “We crossed a threshold... The post Synagogues size up security after Michigan attack amid intensifying risks appeared first on The Forward .",
+          "link": "https://forward.com/news/812506/temple-israel-attack-security-risk/",
+          "source": "The Forward",
+          "author": "Hannah Feuer",
+          "published": "2026-03-13T20:23:31",
+          "scraped_at": "2026-03-13T21:16:34.759504",
+          "guid": "https://forward.com/?p=812506"
+        }
+      ]
+    },
+    "JTA": {
+      "count": 5,
+      "articles": [
+        {
+          "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+          "description": "Rabbi Gesa Ederberg is also likely the first convert to Judaism to hold the role. -- The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/03/18/global/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association",
+          "source": "JTA",
+          "author": "Toby Axelrod",
+          "published": "2026-03-18T14:00:47",
+          "scraped_at": "2026-03-18T14:39:03.381551",
+          "guid": "https://www.jta.org/?p=1898400"
+        },
+        {
+          "title": "Americans now view Israel more negatively than positively, poll finds",
+          "description": "The new poll, conducted by NBC news, found eroding support for Israel across party lines. -- The post Americans now view Israel more negatively than positively, poll finds appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/03/17/united-states/americans-now-view-israel-more-negatively-than-positively-poll-finds",
+          "source": "JTA",
+          "author": "Grace Gilson",
+          "published": "2026-03-17T18:40:32",
+          "scraped_at": "2026-03-18T13:40:07.797824",
+          "guid": "https://www.jta.org/?p=1898466"
+        },
+        {
+          "title": "German school named for Albanian who saved Jews sends students to Tirana for Holocaust remembrance",
+          "description": "Most of the students at Berlin's Refik Veseli Schule are Muslim immigrants. -- The post German school named for Albanian who saved Jews sends students to Tirana for Holocaust remembrance appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/03/16/global/german-school-named-for-albanian-who-saved-jews-sends-students-to-tirana-for-holocaust-remembrance",
+          "source": "JTA",
+          "author": "Larry Luxner",
+          "published": "2026-03-17T02:01:34",
+          "scraped_at": "2026-03-17T03:09:59.683444",
+          "guid": "https://www.jta.org/?p=1897878"
+        },
+        {
+          "title": "As a genocide law professor, I’d give the US brief supporting Israel at the ICJ a failing grade",
+          "description": "Did the lawyers who drafted the U.S. opinion even read Israel's arguments? -- The post As a genocide law professor, I&#8217;d give the US brief supporting Israel at the ICJ a failing grade appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/03/16/ideas/as-a-genocide-law-professor-id-give-the-us-brief-supporting-israel-at-the-icj-a-failing-grade",
+          "source": "JTA",
+          "author": "Menachem Z. Rosensaft",
+          "published": "2026-03-16T17:00:36",
+          "scraped_at": "2026-03-16T17:29:32.340487",
+          "guid": "https://www.jta.org/?p=1898351"
+        },
+        {
+          "title": "After string of synagogue attacks, Jewish security watchdogs warn of ‘most elevated and complex threat environment’ in recent history",
+          "description": "\"We are in the midst of the most elevated and complex threat environment the Jewish community and this country has seen in modern history,” said Kerry Sleeper of the Secure Community Network. -- The post After string of synagogue attacks, Jewish security watchdogs warn of &#8216;most elevated and complex threat environment&#8217; in recent history appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/03/13/united-states/after-string-of-synagogue-attacks-jewish-security-watchdogs-warn-of-most-elevated-and-complex-threat-environment-in-recent-history",
+          "source": "JTA",
+          "author": "Jackie Hajdenberg",
+          "published": "2026-03-13T22:04:28",
+          "scraped_at": "2026-03-13T22:13:52.595392",
+          "guid": "https://www.jta.org/?p=1898299"
+        }
+      ]
+    }
+  },
+  "all_articles": [
+    {
+      "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+      "description": "In a 'major step forward' in relations between US and German Jews of the major denomination, Rabbi Gesa Shira Ederberg is also likely the first convert to Judaism to assume the leadership role The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-20T01:08:20",
+      "scraped_at": "2026-03-20T01:42:00.182511",
+      "guid": "https://www.timesofisrael.com/?p=3781348"
+    },
+    {
+      "title": "Brandeis Center Reaches Settlement With UC Berkeley in Antisemitism Lawsuit",
+      "description": "The Louis D. Brandeis Center for Human Rights Under Law has reached a major agreement to settle a lawsuit it...",
+      "link": "https://www.algemeiner.com/2026/03/19/brandeis-center-reaches-settlement-uc-berkeley-antisemitism-lawsuit/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-19T22:51:07",
+      "scraped_at": "2026-03-19T23:14:27.141928",
+      "guid": "https://www.algemeiner.com/?p=768272"
+    },
+    {
+      "title": "College Republicans Chapter Sues University of Florida for Deactivating Group Over Nazi Salutes",
+      "description": "The University of Florida&#8217;s College Republicans chapter has teamed up with a local far-right lawyer to sue the school for...",
+      "link": "https://www.algemeiner.com/2026/03/19/college-republicans-chapter-sues-university-florida-deactivating-group-nazi-salutes/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-19T18:11:05",
+      "scraped_at": "2026-03-19T21:18:11.834800",
+      "guid": "https://www.algemeiner.com/?p=768178"
+    },
+    {
+      "title": "Germany Sees Surge in Antisemitic Incidents at Holocaust Memorials",
+      "description": "Antisemitic incidents at Germany&#8217;s Holocaust memorial sites remain alarmingly high and continue to climb, according to a new report, amid...",
+      "link": "https://www.algemeiner.com/2026/03/19/germany-sees-surge-antisemitic-incidents-holocaust-memorials/",
+      "source": "Algemeiner",
+      "author": "Ailin Vilches Arguello",
+      "published": "2026-03-19T20:41:03",
+      "scraped_at": "2026-03-19T21:18:11.834750",
+      "guid": "https://www.algemeiner.com/?p=768323"
+    },
+    {
+      "title": "Berkeley law student groups will no longer be allowed to ban 'Zionist' speakers",
+      "description": "The Brandeis Center for Human Rights Under Law sued Berkeley in November 2023 for its 'longstanding, unchecked spread of antisemitism,' citing this ban. Under the terms of a settlement reached, the university will adopt a controversial definition of antisemitism",
+      "link": "https://www.haaretz.com/us-news/2026-03-19/ty-article/.premium/berkeley-law-student-groups-will-no-longer-be-allowed-to-ban-zionist-speakers/0000019d-0766-da5c-a7bd-2ff6bc080000",
+      "source": "Haaretz",
+      "author": "Judy Maltz",
+      "published": "2026-03-19T19:05:53",
+      "scraped_at": "2026-03-19T19:25:07.677555",
+      "guid": "https://www.haaretz.com/us-news/2026-03-19/ty-article/.premium/berkeley-law-student-groups-will-no-longer-be-allowed-to-ban-zionist-speakers/0000019d-0766-da5c-a7bd-2ff6bc080000"
+    },
+    {
+      "title": "Berkeley to better protect Jews, reimburse $1 million in Brandeis Center legal fees",
+      "description": "“What happened at Berkeley is a cautionary tale,” stated Kenneth Marcus, of the Brandeis Center, after the public school settled a lawsuit alleging Jew-hatred.",
+      "link": "https://www.jns.org/news/u-s-news/berkeley-to-better-protect-jews-reimburse-1-million-in-brandeis-center-legal-fees",
+      "source": "JNS",
+      "author": "Aaron Bandler",
+      "published": "2026-03-19T17:03:06",
+      "scraped_at": "2026-03-19T17:28:12.264543",
+      "guid": "https://www.jns.org/news/u-s-news/berkeley-to-better-protect-jews-reimburse-1-million-in-brandeis-center-legal-fees"
+    },
+    {
+      "title": "Cal settles antisemitism lawsuit for $1 million, pledges changes",
+      "description": "UC Berkeley will pay $1 million and make changes to its nondiscrimination policy to settle a lawsuit alleging the university allowed antisemitic harassment to go unchecked. The settlement agreement was [&#8230;]",
+      "link": "https://jweekly.com/2026/03/19/cal-settles-antisemitism-lawsuit-for-1-million-pledges-policy-changes/",
+      "source": "J. Weekly",
+      "author": "Gabe Stutman",
+      "published": "2026-03-19T17:16:56",
+      "scraped_at": "2026-03-19T17:27:57.812250",
+      "guid": "https://jweekly.com/?p=301433"
+    },
+    {
+      "title": "‘It’s not true,’ Lipstadt tells JNS of prof’s letter saying she shouldn’t speak at University of Washington",
+      "description": "“If you grab too much, you don’t grab anything at all,” the former U.S. envoy on Jew-hatred said, quoting the Talmud.",
+      "link": "https://www.jns.org/its-not-true-lipstadt-tells-jns-of-profs-letter-saying-she-shouldnt-speak-at-university-of-washington",
+      "source": "JNS",
+      "author": "Jessica Russak-Hoffman",
+      "published": "2026-03-19T14:02:08",
+      "scraped_at": "2026-03-19T14:26:54.649436",
+      "guid": "https://www.jns.org/its-not-true-lipstadt-tells-jns-of-profs-letter-saying-she-shouldnt-speak-at-university-of-washington"
+    },
+    {
+      "title": "Pluralism is a Jewish survival skill",
+      "description": "There are moments in Jewish history when disagreement feels dangerous. We are living in one of those moments now. In the past year, I’ve spoken with countless Jewish communal leaders who make the same painful admission: they have stopped convening contentious conversations altogether. Not because the questions are unimportant, but because they no longer trust... Read More The post Pluralism is a Jewish survival skill appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/pluralism-is-a-jewish-survival-skill/",
+      "source": "eJewish Philanthropy",
+      "author": "Rabbi David Singer",
+      "published": "2026-03-19T13:39:36",
+      "scraped_at": "2026-03-19T14:26:42.330680",
+      "guid": "https://ejewishphilanthropy.com/?p=170182"
+    },
+    {
+      "title": "KKL-JNF approves $598 million budget for 2026, along with millions in wartime allocations",
+      "description": "As Eyal Ostrinski, chair of Keren Kayemet LeIsrael-Jewish National Fund, discussed the organizations allocations in recent weeks, in a conversation with eJewishPhilanthropy this week, he repeatedly realized that there was something else he wanted to share, peppering the conversation with “oh, and one more thing,” “I nearly forgot” and “I also have to mention” — a... Read More The post KKL-JNF approves $598 million budget for 2026, along with millions in wartime allocations appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/kkl-jnf-approves-598-million-budget-for-2026-along-with-millions-in-wartime-allocations/",
+      "source": "eJewish Philanthropy",
+      "author": "Judah Ari Gross",
+      "published": "2026-03-19T13:19:12",
+      "scraped_at": "2026-03-19T13:37:22.607999",
+      "guid": "https://ejewishphilanthropy.com/?p=170200"
+    },
+    {
+      "title": "Mystery widens: Researchers finds Israel’s ‘Stonehenge’ in the Golan is not unique",
+      "description": "Remote sensing and AI helped identify 28 sites similar to Rujm el-Hiri, challenging theories about the ancient stone circle’s purpose and pointing to a wider regional phenomenon The post Mystery widens: Researchers finds Israel&#8217;s &#8216;Stonehenge&#8217; in the Golan is not unique appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/mystery-widens-researchers-finds-israels-stonehenge-in-the-golan-is-not-unique/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-19T09:14:20",
+      "scraped_at": "2026-03-19T09:23:26.522768",
+      "guid": "https://www.timesofisrael.com/?p=3781536"
+    },
+    {
+      "title": "NYC synagogues boost security as DHS shutdown stalls federal funding",
+      "description": "(New York Jewish Week) — When an attacker drove into Temple Israel in suburban Detroit last week, the synagogue’s security guards were ready to engage him. Soon after, the attacker was dead — with no serious injuries to anyone else. But that was at the biggest congregation in the United States, with a large staff of... The post NYC synagogues boost security as DHS shutdown stalls federal funding appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813631/nyc-synagogues-boost-security-as-dhs-shutdown-stalls-federal-funding/",
+      "source": "The Forward",
+      "author": "Joseph Strauss",
+      "published": "2026-03-19T09:07:13",
+      "scraped_at": "2026-03-19T09:23:24.389469",
+      "guid": "https://forward.com/?p=813631"
+    },
+    {
+      "title": "U of Florida College Republicans, caught making Nazi salutes, sue school for disbanding chapter",
+      "description": "(JTA) — Another group for young Republicans is in hot water over revelations that its members have engaged in antisemitic activity. The University of Florida disbanded its College Republicans chapter over the weekend following social media posts in which two members reportedly made Nazi salutes, among other actions. In response, the group sued the university,... The post U of Florida College Republicans, caught making Nazi salutes, sue school for disbanding chapter appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813580/u-of-florida-college-republicans-caught-making-nazi-salutes-sue-school-for-disbanding-chapter/",
+      "source": "The Forward",
+      "author": "Andrew Lapin",
+      "published": "2026-03-19T09:09:28",
+      "scraped_at": "2026-03-19T09:23:24.389422",
+      "guid": "https://forward.com/?p=813580"
+    },
+    {
+      "title": "Jan. 6 protester Jake Lang renounced his Judaism to court the far right. It isn’t working.",
+      "description": "(JTA) — Jake Lang has burned a copy of the Talmud, performed a Nazi salute outside AIPAC’s headquarters and repeatedly declared that “Christ is King.” But those antisemitic displays have not earned him an in with his fellow far-right personalities. Instead, after Lang’s anti-Muslim rally in New York City earlier this month was derailed by... The post Jan. 6 protester Jake Lang renounced his Judaism to court the far right. It isn’t working. appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813496/jan-6-protester-jake-lang-renounced-his-judaism-to-court-the-far-right-it-isnt-working/",
+      "source": "The Forward",
+      "author": "Grace Gilson",
+      "published": "2026-03-19T09:12:10",
+      "scraped_at": "2026-03-19T09:23:24.389362",
+      "guid": "https://forward.com/?p=813496"
+    },
+    {
+      "title": "Squeezed by BDS, Nazarians shift USC endowment to Judaic studies, with HUC antisemitism program",
+      "description": "Shortly before the Oct. 7, 2023, terrorist attacks in Israel, Sharon Nazarian ensured that her new UCLA course on global antisemitism would be housed in the global studies department, deliberately choosing a diverse student body over the more niche Jewish or Israel studies departments. But in response to rising Boycott, Divestment and Sanctions activity on... Read More The post Squeezed by BDS, Nazarians shift USC endowment to Judaic studies, with HUC antisemitism program appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/squeezed-by-bds-nazarians-shift-usc-endowment-to-judaic-studies-with-huc-antisemitism-program/",
+      "source": "eJewish Philanthropy",
+      "author": "Haley Cohen",
+      "published": "2026-03-19T08:19:27",
+      "scraped_at": "2026-03-19T08:22:49.805706",
+      "guid": "https://ejewishphilanthropy.com/?p=170197"
+    },
+    {
+      "title": "Israel ranks eighth in World Happiness Report, despite ongoing war",
+      "description": "Bar-Ilan University researcher Anat Fanti: “Israel’s results reflect resilience, but not the psychological cost of war.”",
+      "link": "https://www.jns.org/news/israel-news/israel-ranks-eighth-in-world-happiness-report-despite-ongoing-war",
+      "source": "JNS",
+      "author": "Steve Linde",
+      "published": "2026-03-19T05:37:00",
+      "scraped_at": "2026-03-19T06:31:48.432528",
+      "guid": "https://www.jns.org/news/israel-news/israel-ranks-eighth-in-world-happiness-report-despite-ongoing-war"
+    },
+    {
+      "title": "‘Children shaped clay 15,000 years ago in Israel’",
+      "description": "The Hebrew University of Jerusalem reported that Natufian hunter-gatherers produced 142 beads and pendants uncovered by archaeologists.",
+      "link": "https://www.jns.org/news/israel-news/children-shaped-clay-15-000-years-ago-in-israel",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-19T06:00:00",
+      "scraped_at": "2026-03-19T06:31:48.432476",
+      "guid": "https://www.jns.org/news/israel-news/children-shaped-clay-15-000-years-ago-in-israel"
+    },
+    {
+      "title": "Despite war, Israel ranks 8th in global happiness survey, same as last year",
+      "description": "Findings reflect overall satisfaction with society and life, says Bar-Ilan University researcher Anat Fanti, but concurrent rise in distress levels also show psychological cost of conflict The post Despite war, Israel ranks 8th in global happiness survey, same as last year appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/despite-war-israel-ranks-8th-in-global-happiness-survey-same-as-last-year/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-19T04:02:07",
+      "scraped_at": "2026-03-19T04:46:49.871333",
+      "guid": "https://www.timesofisrael.com/?p=3781198"
+    },
+    {
+      "title": "‘Somebody came into my house to shoot my babies’: Temple Israel, Federation call for federal security measures after attack",
+      "description": "“This could have been the greatest terrorist tragedy in America since 9/11,” Eric Fingerhut, president and CEO of the Jewish Federations of North America, told JNS.",
+      "link": "https://www.jns.org/news/u-s-news/somebody-came-into-my-house-to-shoot-my-babies-temple-israel-federation-call-for-federal-security-measures-after-attack",
+      "source": "JNS",
+      "author": "Andrew Bernard",
+      "published": "2026-03-18T23:29:05",
+      "scraped_at": "2026-03-19T00:50:28.381095",
+      "guid": "https://www.jns.org/news/u-s-news/somebody-came-into-my-house-to-shoot-my-babies-temple-israel-federation-call-for-federal-security-measures-after-attack"
+    },
+    {
+      "title": "Rabbi Sharon Brous: We must ‘rehumanize’ each other",
+      "description": "Rabbi Sharon Brous has spent much of her career asking a deceptively simple question: How do we keep our humanity in a world that often pushes us toward isolation, fear [&#8230;]",
+      "link": "https://jweekly.com/2026/03/18/rabbi-sharon-brous-we-must-rehumanize-each-other-in-an-inhumane-world/",
+      "source": "J. Weekly",
+      "author": "Lea Loeb",
+      "published": "2026-03-18T20:34:15",
+      "scraped_at": "2026-03-18T21:18:01.053452",
+      "guid": "https://jweekly.com/?p=301253"
+    },
+    {
+      "title": "Anxiety symptoms, lack of trust in adults, rising in children as war drags on",
+      "description": "Veteran NGO reports marked return of symptoms such as bedwetting, nightmares, apathy and withdrawal in children who had already improved from previous rounds of war after therapy The post Anxiety symptoms, lack of trust in adults, rising in children as war drags on appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/anxiety-symptoms-lack-of-trust-in-adults-rising-in-children-as-war-drags-on/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-18T19:56:49",
+      "scraped_at": "2026-03-18T20:19:30.726933",
+      "guid": "https://www.timesofisrael.com/?p=3781163"
+    },
+    {
+      "title": "Iranian regime 'degraded' but in tact as threats persist, U.S. intelligence chief warns",
+      "description": "Tulsi Gabbard's appearance before the Senate Intelligence Committee is the first public sworn testimony from senior U.S. officials since the start of the Iran war",
+      "link": "https://www.haaretz.com/us-news/2026-03-18/ty-article/.premium/iranian-regime-degraded-but-threats-persist-u-s-intelligence-chief-warns/0000019d-01ad-d088-a5fd-b3ad22bf0000",
+      "source": "Haaretz",
+      "author": "Ben Samuels",
+      "published": "2026-03-18T18:29:44",
+      "scraped_at": "2026-03-18T19:26:47.073167",
+      "guid": "https://www.haaretz.com/us-news/2026-03-18/ty-article/.premium/iranian-regime-degraded-but-threats-persist-u-s-intelligence-chief-warns/0000019d-01ad-d088-a5fd-b3ad22bf0000"
+    },
+    {
+      "title": "US House Report Finds Faculty Driving Campus Antisemitism While Institutions Protect Them",
+      "description": "A new damning report by Republicans on the US House Committee on Education and the Workforce slammed higher education officials...",
+      "link": "https://www.algemeiner.com/2026/03/18/us-house-report-finds-faculty-driving-campus-antisemitism-while-institutions-protect-them/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-18T18:06:54",
+      "scraped_at": "2026-03-18T18:29:48.725865",
+      "guid": "https://www.algemeiner.com/?p=768142"
+    },
+    {
+      "title": "Arab Israelis experiencing higher distress levels in war than Jews — study",
+      "description": "Survey undertaken during current Iran war shows Arabs feel greatest losses in economic stability, social connections, emotional resilience, faith and hope The post Arab Israelis experiencing higher distress levels in war than Jews &#8212; study appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/arab-israelis-experiencing-higher-distress-levels-in-war-than-jews-study/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-18T17:36:23",
+      "scraped_at": "2026-03-18T18:29:40.999275",
+      "guid": "https://www.timesofisrael.com/?p=3781294"
+    },
+    {
+      "title": "Harvard’s Jewish Enrollment Drops to Pre-World War II Levels, New Report Shows",
+      "description": "Jewish undergraduate enrollment at Harvard University has plummeted to lows not seen since the eve of World War II and...",
+      "link": "https://www.algemeiner.com/2026/03/18/harvards-jewish-enrollment-drops-pre-world-war-ii-levels-new-report-shows/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-18T14:54:12",
+      "scraped_at": "2026-03-18T15:35:58.420668",
+      "guid": "https://www.algemeiner.com/?p=768096"
+    },
+    {
+      "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+      "description": "(JTA) — BERLIN — Gesa Shira Ederberg was not yet a rabbi when she was tapped to lead a seder, to teach Hebrew, and to organize an egalitarian minyan in her home city of Berlin. She happened to be in the right places when help was needed, recalls Ederberg, who was pursuing a degree in... The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813481/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association/",
+      "source": "The Forward",
+      "author": "Philissa Cramer",
+      "published": "2026-03-18T14:18:40",
+      "scraped_at": "2026-03-18T14:39:05.930449",
+      "guid": "https://forward.com/?p=813481"
+    },
+    {
+      "title": "Berlin rabbi makes history as first European to head Conservative rabbis’ association",
+      "description": "Rabbi Gesa Ederberg is also likely the first convert to Judaism to hold the role. -- The post Berlin rabbi makes history as first European to head Conservative rabbis’ association appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/03/18/global/berlin-rabbi-makes-history-as-first-european-to-head-conservative-rabbis-association",
+      "source": "JTA",
+      "author": "Toby Axelrod",
+      "published": "2026-03-18T14:00:47",
+      "scraped_at": "2026-03-18T14:39:03.381551",
+      "guid": "https://www.jta.org/?p=1898400"
+    },
+    {
+      "title": "Americans now view Israel more negatively than positively, poll finds",
+      "description": "The new poll, conducted by NBC news, found eroding support for Israel across party lines. -- The post Americans now view Israel more negatively than positively, poll finds appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/03/17/united-states/americans-now-view-israel-more-negatively-than-positively-poll-finds",
+      "source": "JTA",
+      "author": "Grace Gilson",
+      "published": "2026-03-17T18:40:32",
+      "scraped_at": "2026-03-18T13:40:07.797824",
+      "guid": "https://www.jta.org/?p=1898466"
+    },
+    {
+      "title": "Rethinking doctoral studies for Jewish communal leadership",
+      "description": "The William Davidson Graduate School of Jewish Education at the Jewish Theological Seminary was created to prepare and support the professionals who shape Jewish life. Over the past several years, we’ve taken note as a troubling pattern emerged across the field: talented, committed people struggling with burnout, career stagnation, a loss of hope and confronting... Read More The post Rethinking doctoral studies for Jewish communal leadership appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/rethinking-doctoral-studies-for-jewish-communal-leadership/",
+      "source": "eJewish Philanthropy",
+      "author": "Abigail Uhrman",
+      "published": "2026-03-18T09:30:00",
+      "scraped_at": "2026-03-18T10:27:03.992949",
+      "guid": "https://ejewishphilanthropy.com/?p=170112"
+    },
+    {
+      "title": "To a Lithuanian shtetl, a living memory returns after 80 years of silence",
+      "description": "The Lost Shtetl Museum is more than an exhibition of artifacts, survivors of a lost civilization. It is a place of reflection and, hopefully, a place to feel safe having a conversation about loss, shame and the Holocaust",
+      "link": "https://www.haaretz.com/opinion/2026-03-18/ty-article-opinion/.premium/to-a-lithuanian-shtetl-a-living-memory-returns-after-80-years-of-silence/0000019c-fb90-dc93-a9de-fbbfe84f0000",
+      "source": "Haaretz",
+      "author": "Jolanta Mickutė",
+      "published": "2026-03-18T08:25:31",
+      "scraped_at": "2026-03-18T09:27:28.895843",
+      "guid": "https://www.haaretz.com/opinion/2026-03-18/ty-article-opinion/.premium/to-a-lithuanian-shtetl-a-living-memory-returns-after-80-years-of-silence/0000019c-fb90-dc93-a9de-fbbfe84f0000"
+    },
+    {
+      "title": "‘Most comprehensive’ report on Oct. 7 attack updated to include new data, survivor accounts",
+      "description": "New testimonies from former hostage Emily Damari and others added to report that UK All-Party Parliamentary Group commissioned to push back on denials of the Hamas-led massacre The post &#8216;Most comprehensive&#8217; report on Oct. 7 attack updated to include new data, survivor accounts appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/most-comprehensive-report-on-oct-7-attack-updated-to-include-new-data-survivor-accounts/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-18T03:09:42",
+      "scraped_at": "2026-03-18T04:47:58.601052",
+      "guid": "https://www.timesofisrael.com/?p=3780526"
+    },
+    {
+      "title": "Congress unanimously passes bill to permanently extend Holocaust art restitution law",
+      "description": "“Justice must no longer be denied due to procedural technicalities and legislative sunset provisions,” Rep. Jerry Nadler said. The post Congress unanimously passes bill to permanently extend Holocaust art restitution law appeared first on JNS.org .",
+      "link": "https://www.jns.org/congress-unanimously-passes-bill-to-permanently-extend-holocaust-art-restitution-law/",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-17T20:22:53",
+      "scraped_at": "2026-03-17T21:19:36.320398",
+      "guid": "https://www.jns.org/?p=654373"
+    },
+    {
+      "title": "Legacy organizations skittish on confronting the scourge of anti-Zionism on campus",
+      "description": "If Jewish peoplehood and nationhood are not seen as integral to Jewish life, then attacks on the legitimacy of Israel can appear as fair game. The post Legacy organizations skittish on confronting the scourge of anti-Zionism on campus appeared first on JNS.org .",
+      "link": "https://www.jns.org/legacy-organizations-skittish-on-confronting-the-scourge-of-anti-zionism-on-campus/",
+      "source": "JNS",
+      "author": "Casey Babb and Naya Lekht",
+      "published": "2026-03-17T20:44:20",
+      "scraped_at": "2026-03-17T21:19:36.320349",
+      "guid": "https://www.jns.org/?p=654358"
+    },
+    {
+      "title": "UK Hate Crime Prosecutions Reveal Stark Disparities Between Muslim and Jewish Victims",
+      "description": "Hate crimes against Muslims in the United Kingdom are nearly twice as likely to result in prosecution as those targeting...",
+      "link": "https://www.algemeiner.com/2026/03/17/uk-hate-crime-prosecutions-reveal-stark-disparities-between-muslim-and-jewish-victims/",
+      "source": "Algemeiner",
+      "author": "Ailin Vilches Arguello",
+      "published": "2026-03-17T19:16:55",
+      "scraped_at": "2026-03-17T19:29:37.449538",
+      "guid": "https://www.algemeiner.com/?p=768094"
+    },
+    {
+      "title": "University leaders, faculty and students driving Jew-hatred and failing to fight it, House panel report says",
+      "description": "Northwestern and Georgetown campuses in Qatar aren’t living up to “their stated goal of promoting Western values and liberal education abroad,” the House Education and Workforce Committee said. The post University leaders, faculty and students driving Jew-hatred and failing to fight it, House panel report says appeared first on JNS.org .",
+      "link": "https://www.jns.org/university-leaders-faculty-and-students-driving-jew-hatred-and-failing-to-fight-it-house-panel-report-says/",
+      "source": "JNS",
+      "author": "Aaron Bandler",
+      "published": "2026-03-17T19:00:00",
+      "scraped_at": "2026-03-17T19:29:34.425740",
+      "guid": "https://www.jns.org/?p=654330"
+    },
+    {
+      "title": "An astonishing history of wartime Berlin that reads like a thriller",
+      "description": "Stay Alive: Berlin, 1939-1945 Ian Buruma Penguin Press, 400 pages, $35 World War II Berlin had its share of fanatical Nazis, along with a handful of courageous resisters. But it is the people navigating between these two moral poles that seem to interest Ian Buruma the most — those trying, against the odds, to remain... The post An astonishing history of wartime Berlin that reads like a thriller appeared first on The Forward .",
+      "link": "https://forward.com/culture/812500/ian-buruma-stay-alive-wartime-berlin-history/",
+      "source": "The Forward",
+      "author": "Julia M. Klein",
+      "published": "2026-03-17T17:00:20",
+      "scraped_at": "2026-03-17T19:29:27.218362",
+      "guid": "https://forward.com/?p=812500"
+    },
+    {
+      "title": "Dueling letters from Jewish groups dispute prevalence of antisemitism at UCLA",
+      "description": "More than 100 Jewish faculty and staff at the University of California, Los Angeles published a letter Monday disputing the Trump administration’s claim in a federal lawsuit against the university that the school has fostered a hostile climate for its Jewish employees. Following an investigation launched just weeks after Trump’s inauguration, the U.S. Department of... The post Dueling letters from Jewish groups dispute prevalence of antisemitism at UCLA appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813301/dueling-letters-from-jewish-groups-dispute-prevalence-of-antisemitism-at-ucla/",
+      "source": "The Forward",
+      "author": "Arno Rosenfeld",
+      "published": "2026-03-17T17:55:42",
+      "scraped_at": "2026-03-17T18:29:46.770733",
+      "guid": "https://forward.com/?p=813301"
+    },
+    {
+      "title": "20 Percent of UK Students Would Not Share Room with Jews, Report Says Amid Deepening Antisemitism Crisis",
+      "description": "A new report by the Union of Jewish Students (UJS) say that Jewish campus life in Great Britain is rapidly...",
+      "link": "https://www.algemeiner.com/2026/03/17/20-percent-of-uk-students-would-not-share-room-with-jews-report-says-amid-deepening-antisemitism-crisis/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-17T17:11:55",
+      "scraped_at": "2026-03-17T17:31:11.120517",
+      "guid": "https://www.algemeiner.com/?p=768058"
+    },
+    {
+      "title": "Agudath Israel digitizes Holocaust-era archives, highlights wartime Orthodox Jewish press",
+      "description": "The collections are “a treasure trove of primary source materials accessible to the broad Jewish public,” Rabbi Chaim Dovid Zwiebel stated. The post Agudath Israel digitizes Holocaust-era archives, highlights wartime Orthodox Jewish press appeared first on JNS.org .",
+      "link": "https://www.jns.org/agudath-israel-digitizes-holocaust-era-archives-highlights-wartime-orthodox-jewish-press/",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-17T16:53:53",
+      "scraped_at": "2026-03-17T17:31:08.672427",
+      "guid": "https://www.jns.org/?p=654283"
+    },
+    {
+      "title": "The Truth About Israel’s Wartime Censorship",
+      "description": "“There are censorship laws in Israel.” (NPR) “Israel has imposed strict military censorship … for decades, but has tightened its...",
+      "link": "https://www.algemeiner.com/2026/03/17/the-truth-about-israels-wartime-censorship/",
+      "source": "Algemeiner",
+      "author": "Chaim Lax",
+      "published": "2026-03-17T16:00:48",
+      "scraped_at": "2026-03-17T16:33:35.641541",
+      "guid": "https://www.algemeiner.com/?p=768053"
+    },
+    {
+      "title": "We Should Be Welcoming All Jews and Bringing Them Closer — Despite Religious Differences",
+      "description": "We Jews have always liked to argue about religion, and everything from kashrut to conversion. Often these differences are far...",
+      "link": "https://www.algemeiner.com/2026/03/17/we-should-be-welcoming-all-jews-and-bringing-them-closer-despite-religious-differences/",
+      "source": "Algemeiner",
+      "author": "Jeremy Rosen",
+      "published": "2026-03-17T16:07:21",
+      "scraped_at": "2026-03-17T16:33:35.641484",
+      "guid": "https://www.algemeiner.com/?p=768036"
+    },
+    {
+      "title": "Beyond Israel's consensus: Is the Iran war legal?",
+      "description": "Most experts say Israel's war exceeds the bounds of self-defense. But with the UN Security Council effectively paralyzed, Israel could argue that the rules need updating, allowing states to act against existential threats even without international backing",
+      "link": "https://www.haaretz.com/israel-news/2026-03-17/ty-article-magazine/.premium/beyond-israels-consensus-is-the-iran-war-legal/0000019c-f5f3-d979-a7ff-ffffdbc20000",
+      "source": "Haaretz",
+      "author": "Chen Maanit",
+      "published": "2026-03-17T15:09:42",
+      "scraped_at": "2026-03-17T15:32:16.478202",
+      "guid": "https://www.haaretz.com/israel-news/2026-03-17/ty-article-magazine/.premium/beyond-israels-consensus-is-the-iran-war-legal/0000019c-f5f3-d979-a7ff-ffffdbc20000"
+    },
+    {
+      "title": "Webinar led by UN staff advised boycotting Israel, anti-Jewish advocacy",
+      "description": "A former United Nations official said that staffers should cite a Facebook page called “Jews against genocide,” which links to publications that support Hamas, to counter claims of antisemitism. The post Webinar led by UN staff advised boycotting Israel, anti-Jewish advocacy appeared first on JNS.org .",
+      "link": "https://www.jns.org/webinar-led-by-un-staff-advised-boycotting-israel-anti-jewish-advocacy/",
+      "source": "JNS",
+      "author": "Mike Wagenheim",
+      "published": "2026-03-17T15:00:30",
+      "scraped_at": "2026-03-17T15:32:08.139844",
+      "guid": "https://www.jns.org/?p=654243"
+    },
+    {
+      "title": "Paint won’t mar the legacy of a Japanese diplomat",
+      "description": "Chiune Sugihara issued 2,139 visas during World War II to help save 6,000 individuals. He deserves respect for such a legacy. The post Paint won’t mar the legacy of a Japanese diplomat appeared first on JNS.org .",
+      "link": "https://www.jns.org/paint-wont-mar-the-legacy-of-a-japanese-diplomat/",
+      "source": "JNS",
+      "author": "Linda Margolin Royal",
+      "published": "2026-03-17T12:30:00",
+      "scraped_at": "2026-03-17T13:39:49.332366",
+      "guid": "https://www.jns.org/?p=653808"
+    },
+    {
+      "title": "JFN teams up with Genesis Prize to double Gal Gadot’s initiative to support groups ‘healing’ Israel",
+      "description": "SAN DIEGO — It is customary for winners of the annual Genesis Prize, often referred to as the “Jewish Nobel,” to donate the $1 million award to causes they are passionate about. Past recipients have given their funds to combating antisemitism, assisting refugees, women’s rights and preserving the memory of Greek Holocaust victims. When actress Gal... Read More The post JFN teams up with Genesis Prize to double Gal Gadot&#8217;s initiative to support groups &#8216;healing&#8217; Israel appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/jfn-teams-up-with-genesis-prize-to-double-gal-gadots-initiative-to-support-groups-healing-israel/",
+      "source": "eJewish Philanthropy",
+      "author": "Jay Deitcher",
+      "published": "2026-03-17T11:19:06",
+      "scraped_at": "2026-03-17T11:23:08.348847",
+      "guid": "https://ejewishphilanthropy.com/?p=170071"
+    },
+    {
+      "title": "A window for systemic change: Andrés Spokoiny’s address to JFN 2026",
+      "description": "I’m not proud of it, but I have the habit of leaving things to the last minute. In fact, some of you know that I write my conference speech the day before the conference starts. But this year, I told myself: This time I’ll do things differently. I’ll be a good boy… I’ll write my... Read More The post A window for systemic change: Andrés Spokoiny’s address to JFN 2026 appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/a-window-for-systemic-change-andres-spokoinys-address-to-jfn-2026/",
+      "source": "eJewish Philanthropy",
+      "author": "Andrés Spokoiny",
+      "published": "2026-03-16T22:00:00",
+      "scraped_at": "2026-03-17T10:24:42.206661",
+      "guid": "https://ejewishphilanthropy.com/?p=170029"
+    },
+    {
+      "title": "As philanthropists gather in San Diego, Israel’s first responders face a growing trauma epidemic",
+      "description": "As the former battalion chief responsible for firefighter health and safety for the City of San Diego, I spent much of my career confronting a reality that every firefighter, paramedic, police officer and soldier eventually learns: The most serious injuries in these professions are often not the ones sustained during the emergency itself. They are... Read More The post As philanthropists gather in San Diego, Israel’s first responders face a growing trauma epidemic appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/as-philanthropists-gather-in-san-diego-israels-first-responders-face-a-growing-trauma-epidemic/",
+      "source": "eJewish Philanthropy",
+      "author": "David Picone",
+      "published": "2026-03-17T10:01:48",
+      "scraped_at": "2026-03-17T10:24:42.206601",
+      "guid": "https://ejewishphilanthropy.com/?p=170057"
+    },
+    {
+      "title": "The moment for systemic change: Andrés Spokoiny’s address to JFN 2026",
+      "description": "I’m not proud of it, but I have the habit of leaving things to the last minute. In fact, some of you know that I write my conference speech the day before the conference starts. But this year, I told myself: This time I’ll do things differently. I’ll be a good boy… I’ll write my... Read More The post The moment for systemic change: Andrés Spokoiny’s address to JFN 2026 appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/make-all-this-count-andres-spokoinys-address-to-jfn-2026/",
+      "source": "eJewish Philanthropy",
+      "author": "Andrés Spokoiny",
+      "published": "2026-03-16T22:00:00",
+      "scraped_at": "2026-03-17T07:30:08.382584",
+      "guid": "https://ejewishphilanthropy.com/?p=170029"
+    },
+    {
+      "title": "Jew-hatred normalized on UK campuses: report",
+      "description": "Almost a quarter of students attest to seeing Jewish students harassed. The post Jew-hatred normalized on UK campuses: report appeared first on JNS.org .",
+      "link": "https://www.jns.org/jew-hatred-normalized-on-uk-campuses-report/",
+      "source": "JNS",
+      "author": "JNS Staff",
+      "published": "2026-03-17T06:22:00",
+      "scraped_at": "2026-03-17T06:34:39.313710",
+      "guid": "https://www.jns.org/?p=653487"
+    },
+    {
+      "title": "German school named for Albanian who saved Jews sends students to Tirana for Holocaust remembrance",
+      "description": "Most of the students at Berlin's Refik Veseli Schule are Muslim immigrants. -- The post German school named for Albanian who saved Jews sends students to Tirana for Holocaust remembrance appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/03/16/global/german-school-named-for-albanian-who-saved-jews-sends-students-to-tirana-for-holocaust-remembrance",
+      "source": "JTA",
+      "author": "Larry Luxner",
+      "published": "2026-03-17T02:01:34",
+      "scraped_at": "2026-03-17T03:09:59.683444",
+      "guid": "https://www.jta.org/?p=1897878"
+    },
+    {
+      "title": "Over 100 Groups Call on University of California to Address Campus Antisemitism",
+      "description": "Over 100 Jewish advocacy groups have signed a petition imploring the University of California (UC) system to confront faculty antisemitism...",
+      "link": "https://www.algemeiner.com/2026/03/16/over-100-groups-call-university-california-address-campus-antisemitism/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-16T20:23:31",
+      "scraped_at": "2026-03-16T21:20:21.123900",
+      "guid": "https://www.algemeiner.com/?p=767956"
+    },
+    {
+      "title": "Israeli Nobel laureate warns of ‘brain drain’ in Jewish state, but others say statistics are more fluid",
+      "description": "“It is well known in other historical examples that if you start losing your best people, you may never recover,” Joel Mokyr, a professor at Northwestern University, told JNS. The post Israeli Nobel laureate warns of ‘brain drain’ in Jewish state, but others say statistics are more fluid appeared first on JNS.org .",
+      "link": "https://www.jns.org/israeli-nobel-laureate-warns-of-brain-drain-in-jewish-state-but-others-say-statistics-are-more-fluid/",
+      "source": "JNS",
+      "author": "Mike Wagenheim",
+      "published": "2026-03-16T21:10:48",
+      "scraped_at": "2026-03-16T21:20:18.323522",
+      "guid": "https://www.jns.org/?p=653761"
+    },
+    {
+      "title": "Democratic voter support for Israel plummets to historic low",
+      "description": "Support for Israel among Democratic voters has plummeted by more than half over the past three years, with only 13% of Democrats now expressing a positive view of Israel while 57% hold a negative view amid the U.S.-Israel war against Iran, according to a new NBC News poll. The numbers mark a stunning shift since... The post Democratic voter support for Israel plummets to historic low appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/813076/democratic-support-israel-plummets-historic-low-nbc/",
+      "source": "The Forward",
+      "author": "Arno Rosenfeld",
+      "published": "2026-03-16T20:35:53",
+      "scraped_at": "2026-03-16T21:20:11.802979",
+      "guid": "https://forward.com/?p=813076"
+    },
+    {
+      "title": "Support for Israel Craters Among US Democrats, According to New Poll",
+      "description": "A new national poll reveals the extent to which support for Israel among Democratic voters in the US has dropped...",
+      "link": "https://www.algemeiner.com/2026/03/16/support-israel-craters-us-democrats-new-poll/",
+      "source": "Algemeiner",
+      "author": "Corey Walker",
+      "published": "2026-03-16T19:55:25",
+      "scraped_at": "2026-03-16T20:19:11.180029",
+      "guid": "https://www.algemeiner.com/?p=767997"
+    },
+    {
+      "title": "Jewish enrollment at Harvard drops to lowest level since before WWII",
+      "description": "“I strongly believe the antisemitism does not just impact students on campus at Harvard,” Rep. Elise Stefanik stated. “It shapes admission.” The post Jewish enrollment at Harvard drops to lowest level since before WWII appeared first on JNS.org .",
+      "link": "https://www.jns.org/jewish-enrollment-at-harvard-drops-to-lowest-level-since-before-wwii/",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-16T20:13:48",
+      "scraped_at": "2026-03-16T20:19:08.793348",
+      "guid": "https://www.jns.org/?p=653736"
+    },
+    {
+      "title": "'No coincidence': Under 0.5 percent of voices in major Israeli news during Iran war were Arab",
+      "description": "Only 3 of 199 reports on protective measures focused on Arab localities, and in 232 reports on the education system, Arab schools were not mentioned. 'When a fifth of the country's citizens is almost absent from the media, the public does not receive an accurate picture of reality'",
+      "link": "https://www.haaretz.com/israel-news/2026-03-16/ty-article/.premium/under-0-5-percent-of-voices-in-major-israeli-news-during-iran-war-were-arab/0000019c-f5ec-dc3e-ab9e-f5fc585f0000",
+      "source": "Haaretz",
+      "author": "Ido David Cohen",
+      "published": "2026-03-16T18:35:30",
+      "scraped_at": "2026-03-16T19:30:19.257308",
+      "guid": "https://www.haaretz.com/israel-news/2026-03-16/ty-article/.premium/under-0-5-percent-of-voices-in-major-israeli-news-during-iran-war-were-arab/0000019c-f5ec-dc3e-ab9e-f5fc585f0000"
+    },
+    {
+      "title": "College Republicans Federation Disbands University of Florida Chapter Over Nazi Pictures",
+      "description": "The Florida Federation of College Republicans (FFCR) has disbanded its chapter at the University of Florida and asked the school...",
+      "link": "https://www.algemeiner.com/2026/03/16/college-republicans-federation-disbands-university-florida-chapter-nazi-pictures/",
+      "source": "Algemeiner",
+      "author": "Dion J. Pierre",
+      "published": "2026-03-16T19:05:30",
+      "scraped_at": "2026-03-16T19:30:12.660143",
+      "guid": "https://www.algemeiner.com/?p=767900"
+    },
+    {
+      "title": "OPINION | Why is the Jewish establishment so focused on the left?",
+      "description": "This story was originally published in the Forward. America’s antisemitism watchdogs are committing institutional malpractice. While antisemitism explodes on the right, including throughout the Donald Trump administration and popular right-wing [&#8230;]",
+      "link": "https://jweekly.com/2026/03/16/antisemitism-is-exploding-on-the-right-but-the-jewish-establishment-is-focused-on-the-left/",
+      "source": "J. Weekly",
+      "author": "Rabbi Jay Michaelson",
+      "published": "2026-03-16T19:00:00",
+      "scraped_at": "2026-03-16T19:29:55.294211",
+      "guid": "https://jweekly.com/?p=301136"
+    },
+    {
+      "title": "The indictment that put Lithuania on trial",
+      "description": "The Eastern European country has never punished one of its citizens for participating in the mass murder of Jews during the Holocaust; yet, it is now prosecuting a Jewish citizen for discussing that history. The post The indictment that put Lithuania on trial appeared first on JNS.org .",
+      "link": "https://www.jns.org/the-indictment-that-put-lithuania-on-trial/",
+      "source": "JNS",
+      "author": "Grant Gochin",
+      "published": "2026-03-16T16:00:00",
+      "scraped_at": "2026-03-16T18:30:27.815462",
+      "guid": "https://www.jns.org/?p=653653"
+    },
+    {
+      "title": "Oklahoma attorney general urges detailed explanation for rejection of Jewish charter school",
+      "description": "Attorney General Gentner Drummond argues that the Statewide Charter School Board’s leadership “steered members to cite only religion as the reason for denial,” leaving out other non-constitutional deficiencies. The post Oklahoma attorney general urges detailed explanation for rejection of Jewish charter school appeared first on JNS.org .",
+      "link": "https://www.jns.org/oklahoma-attorney-general-urges-detailed-explanation-for-rejection-of-jewish-charter-school/",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-16T18:03:58",
+      "scraped_at": "2026-03-16T18:30:27.815328",
+      "guid": "https://www.jns.org/?p=653649"
+    },
+    {
+      "title": "As Temple Israel, both security training and sacred relationships prepared us for the worst",
+      "description": "(JTA) — As the executive director of a synagogue, I read the daily security briefs from Secure Community Network and engage in regular security updates with my colleagues and friends in Jewish communal spaces across the country. I never imagined that the security risks we talk about every day would literally be at the entry... The post As Temple Israel, both security training and sacred relationships prepared us for the worst appeared first on The Forward .",
+      "link": "https://forward.com/opinion/812998/as-temple-israel-both-security-training-and-sacred-relationships-prepared-us-for-the-worst/",
+      "source": "The Forward",
+      "author": "Jason Plotkin",
+      "published": "2026-03-16T17:56:42",
+      "scraped_at": "2026-03-16T18:30:20.459193",
+      "guid": "https://forward.com/?p=812998"
+    },
+    {
+      "title": "Security funding for Jewish groups held up by DHS shutdown",
+      "description": "(JTA) — A shutdown at the Department of Homeland Security since Feb. 14 is halting the review of millions of dollars in security funding for nonprofits, leaving Jewish institutions and [&#8230;]",
+      "link": "https://jweekly.com/2026/03/16/security-funding-that-jewish-groups-call-crucial-is-being-held-up-by-dhs-shutdown/",
+      "source": "J. Weekly",
+      "author": "Asaf Elia-Shalev",
+      "published": "2026-03-16T17:34:45",
+      "scraped_at": "2026-03-16T18:30:12.329607",
+      "guid": "https://jweekly.com/?p=301133"
+    },
+    {
+      "title": "Survey: Post-Oct. 7 support for Israel wanes among Democrats, younger voters",
+      "description": "“Israel may have had major military success in its war against Hamas, but its actions have badly damaged its standing among the American people,” stated a Democratic pollster who led the survey. The post Survey: Post-Oct. 7 support for Israel wanes among Democrats, younger voters appeared first on JNS.org .",
+      "link": "https://www.jns.org/survey-post-oct-7-support-for-israel-wanes-among-democrats-younger-voters/",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-03-16T17:05:17",
+      "scraped_at": "2026-03-16T17:29:41.231456",
+      "guid": "https://www.jns.org/?p=653620"
+    },
+    {
+      "title": "As a genocide law professor, I’d give the US brief supporting Israel at the ICJ a failing grade",
+      "description": "Did the lawyers who drafted the U.S. opinion even read Israel's arguments? -- The post As a genocide law professor, I&#8217;d give the US brief supporting Israel at the ICJ a failing grade appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/03/16/ideas/as-a-genocide-law-professor-id-give-the-us-brief-supporting-israel-at-the-icj-a-failing-grade",
+      "source": "JTA",
+      "author": "Menachem Z. Rosensaft",
+      "published": "2026-03-16T17:00:36",
+      "scraped_at": "2026-03-16T17:29:32.340487",
+      "guid": "https://www.jta.org/?p=1898351"
+    },
+    {
+      "title": "Petition urges University of California regents to address report on faculty role in campus Jew-hatred",
+      "description": "“It is about enforcing the crucial boundary between private speech and institutional advocacy,” the petition states. The post Petition urges University of California regents to address report on faculty role in campus Jew-hatred appeared first on JNS.org .",
+      "link": "https://www.jns.org/petition-urges-university-of-california-regents-to-address-report-on-faculty-role-in-campus-jew-hatred/",
+      "source": "JNS",
+      "author": "Aaron Bandler",
+      "published": "2026-03-16T16:22:23",
+      "scraped_at": "2026-03-16T16:32:16.492996",
+      "guid": "https://www.jns.org/?p=653615"
+    },
+    {
+      "title": "20 percent of British students would not want to room with a Jew, report finds",
+      "description": "Published by the Union of Jewish Students, the report also found that nearly one in four British students has seen Jews targeted on their campuses, and nearly have heard chants glorifying terrorist groups",
+      "link": "https://www.haaretz.com/jewish/2026-03-16/ty-article/.premium/20-percent-of-british-students-would-not-want-to-room-with-a-jew-report-finds/0000019c-f6b4-d686-adbd-f6be5bb40000",
+      "source": "Haaretz",
+      "author": "Judy Maltz",
+      "published": "2026-03-16T14:47:33",
+      "scraped_at": "2026-03-16T15:33:13.825933",
+      "guid": "https://www.haaretz.com/jewish/2026-03-16/ty-article/.premium/20-percent-of-british-students-would-not-want-to-room-with-a-jew-report-finds/0000019c-f6b4-d686-adbd-f6be5bb40000"
+    },
+    {
+      "title": "1 in 5 UK university students ‘reluctant’ to share house with Jewish student — poll",
+      "description": "In poll covering 170 institutions, about half of students report seeing glorification of proscribed terror groups; large majority (82%) say 'globalize the intifada' is antisemitic The post 1 in 5 UK university students ‘reluctant’ to share house with Jewish student — poll appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/1-in-5-uk-university-students-reluctant-to-share-house-with-jewish-student-poll/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-16T12:59:17",
+      "scraped_at": "2026-03-16T13:40:32.362999",
+      "guid": "https://www.timesofisrael.com/?p=3779080"
+    },
+    {
+      "title": "JFN conference highlights new voices as next generation of philanthropists join the conversation",
+      "description": "It was the same temperature as every day in San Diego — a crisp 70 degrees, not too hot, not too cold — as over 600 attendees, individual funders and representatives of family foundations and large grantmakers, from 9 countries made their way to the Omni La Costa Resort and Spa for Jewish Funders Networks... Read More The post JFN conference highlights new voices as next generation of philanthropists join the conversation appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/jfn-conference-highlights-new-voices-as-next-generation-of-philanthropists-join-the-conversation/",
+      "source": "eJewish Philanthropy",
+      "author": "Jay Deitcher",
+      "published": "2026-03-16T10:35:34",
+      "scraped_at": "2026-03-16T11:25:05.199851",
+      "guid": "https://ejewishphilanthropy.com/?p=169999"
+    },
+    {
+      "title": "Why climate action is the next great Jewish responsibility",
+      "description": "I grew up in a family with a long history of supporting both the Jewish community and Jewish values. From an early age, I absorbed the idea of different kinds of responsibility: to my community, to the wider societies we are a part of and to future generations. I learned that giving is certainly about... Read More The post Why climate action is the next great Jewish responsibility appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/why-climate-action-is-the-next-great-jewish-responsibility/",
+      "source": "eJewish Philanthropy",
+      "author": "Stephen Bronfman",
+      "published": "2026-03-16T08:00:00",
+      "scraped_at": "2026-03-16T08:34:03.913132",
+      "guid": "https://ejewishphilanthropy.com/?p=169985"
+    },
+    {
+      "title": "‘Learn your lesson’: Inscribed 2,100-year-old sling bullet found in the Galilee",
+      "description": "Artifact was possibly used by the Greek defenders of the city of Hippos against the Hasmonean army of King Alexander Jannaeus in 101 BCE The post ‘Learn your lesson’: Inscribed 2,100-year-old sling bullet found in the Galilee appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/learn-your-lesson-inscribed-2100-year-old-sling-bullet-found-in-the-galilee/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-15T20:22:06",
+      "scraped_at": "2026-03-15T21:13:27.346495",
+      "guid": "https://www.timesofisrael.com/?p=3778807"
+    },
+    {
+      "title": "Teaching Jewish history in America- with Natalia Mehlman Petzrela - Sponsored Content",
+      "description": "What does it mean to tell Jewish stories in a moment of political polarization and distortion? The post Teaching Jewish history in America- with Natalia Mehlman Petzrela appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/spotlight/teaching-jewish-history-in-america-with-natalia-mehlman-petzrela/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-15T17:17:42",
+      "scraped_at": "2026-03-15T18:17:33.420406",
+      "guid": "https://www.timesofisrael.com/?post_type=spotlight&p=3778751"
+    },
+    {
+      "title": "Cornell and Technion scientists adapt ancient clay air conditioning tech for sustainable cooling",
+      "description": "In innovative study that precedes Cornell students' push to sever ties with Israeli institution, researchers use traditional ceramic know-how for off-grid chill through evaporation The post Cornell and Technion scientists adapt ancient clay air conditioning tech for sustainable cooling appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/cornell-and-technion-scientists-adapt-ancient-clay-air-conditioning-tech-for-sustainable-cooling/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-15T14:49:15",
+      "scraped_at": "2026-03-15T15:13:52.850599",
+      "guid": "https://www.timesofisrael.com/?p=3757692"
+    },
+    {
+      "title": "Oklahoma attorney general accuses officials of rigging vote on proposed Jewish charter school",
+      "description": "(JTA) — Oklahoma’s attorney general is accusing a state board of trying to rig the legal fight over a proposed Jewish charter school — a dispute that could open the door for publicly funded religious charter schools across the United States. Attorney General Gentner Drummond filed a motion this week asking an Oklahoma County district... The post Oklahoma attorney general accuses officials of rigging vote on proposed Jewish charter school appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/812614/oklahoma-attorney-general-accuses-officials-of-rigging-vote-on-proposed-jewish-charter-school/",
+      "source": "The Forward",
+      "author": "Asaf Elia-Shalev",
+      "published": "2026-03-15T14:43:01",
+      "scraped_at": "2026-03-15T15:13:50.678073",
+      "guid": "https://forward.com/?p=812614"
+    },
+    {
+      "title": "His family was forced to sell their precious Pissarro painting before fleeing Nazi Germany; will he finally see justice?",
+      "description": "It has been more than four years since I first reported on the looted art case regarding the Camille Pissarro painting, “Rue Saint-Honoré, Apres Midi, Effet de Pluie,” in The Forward. The painting is part of a series the Jewish artist painted from the safety of his hotel room in Paris at the height of... The post His family was forced to sell their precious Pissarro painting before fleeing Nazi Germany; will he finally see justice? appeared first on The Forward .",
+      "link": "https://forward.com/culture/812371/cassirer-family-pissarro-painting-nazi-looted-art-spain-museum/",
+      "source": "The Forward",
+      "author": "Michelle Young",
+      "published": "2026-03-15T13:00:19",
+      "scraped_at": "2026-03-15T13:25:48.854659",
+      "guid": "https://forward.com/?p=812371"
+    },
+    {
+      "title": "What we get wrong about how Germany has reckoned with its Nazi past",
+      "description": "On a recent Freakonomics episode about the German film director Werner Herzog, host Stephen Dubner voiced a familiar assertion about postwar Germany’s confrontation with the Nazi past — an assertion shared by many Americans but one that is, in fact, a partial myth. “It’s always impressed me,” Dubner said to Herzog, “the way that Germany,... The post What we get wrong about how Germany has reckoned with its Nazi past appeared first on The Forward .",
+      "link": "https://forward.com/opinion/811597/germany-reckoning-with-nazi-past-lessons-for-trump-america/",
+      "source": "The Forward",
+      "author": "Terrence Petty",
+      "published": "2026-03-14T13:00:57",
+      "scraped_at": "2026-03-14T13:24:45.690660",
+      "guid": "https://forward.com/?p=811597"
+    },
+    {
+      "title": "Jewish security watchdogs warn of highest threats in recent times",
+      "description": "(JTA) — A string of recent synagogue attacks across North America and Europe has left security officials sounding the alarm bells. “We are in the midst of the most elevated [&#8230;]",
+      "link": "https://jweekly.com/2026/03/13/jewish-security-watchdogs-warn-of-most-elevated-and-complex-threat-environment-in-recent-history/",
+      "source": "J. Weekly",
+      "author": "Joseph Strauss and Jackie Hajdenberg",
+      "published": "2026-03-13T23:15:00",
+      "scraped_at": "2026-03-14T00:45:40.685776",
+      "guid": "https://jweekly.com/?p=301112"
+    },
+    {
+      "title": "After string of synagogue attacks, Jewish security watchdogs warn of ‘most elevated and complex threat environment’ in recent history",
+      "description": "\"We are in the midst of the most elevated and complex threat environment the Jewish community and this country has seen in modern history,” said Kerry Sleeper of the Secure Community Network. -- The post After string of synagogue attacks, Jewish security watchdogs warn of &#8216;most elevated and complex threat environment&#8217; in recent history appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/03/13/united-states/after-string-of-synagogue-attacks-jewish-security-watchdogs-warn-of-most-elevated-and-complex-threat-environment-in-recent-history",
+      "source": "JTA",
+      "author": "Jackie Hajdenberg",
+      "published": "2026-03-13T22:04:28",
+      "scraped_at": "2026-03-13T22:13:52.595392",
+      "guid": "https://www.jta.org/?p=1898299"
+    },
+    {
+      "title": "Synagogues size up security after Michigan attack amid intensifying risks",
+      "description": "Jewish security professionals say the attack on Temple Israel in the Detroit suburbs Thursday highlights a need for Jewish institutions to prepare for more such “two-staged” assaults in which attackers use both a vehicle and weapons, as the threat of antisemitic violence grows following the Israel-U.S. launch of war on Iran. “We crossed a threshold... The post Synagogues size up security after Michigan attack amid intensifying risks appeared first on The Forward .",
+      "link": "https://forward.com/news/812506/temple-israel-attack-security-risk/",
+      "source": "The Forward",
+      "author": "Hannah Feuer",
+      "published": "2026-03-13T20:23:31",
+      "scraped_at": "2026-03-13T21:16:34.759504",
+      "guid": "https://forward.com/?p=812506"
+    },
+    {
+      "title": "Some – but not all – US colleges that worked with Trump receive higher marks from ADL",
+      "description": "Columbia, Brown and UCLA are among the schools whose grades improved on the watchdog's annual campus antisemitism report card after falling in line to preserve federal funding The post Some &#8211; but not all &#8211; US colleges that worked with Trump receive higher marks from ADL appeared first on The Times of Israel .",
+      "link": "https://www.timesofisrael.com/some-but-not-all-us-colleges-that-worked-with-trump-receive-higher-marks-from-adl/",
+      "source": "Times of Israel",
+      "author": null,
+      "published": "2026-03-13T14:15:23",
+      "scraped_at": "2026-03-13T15:23:01.684509",
+      "guid": "https://www.timesofisrael.com/?p=3775983"
+    },
+    {
+      "title": "600+ funders flocking to San Diego for JFN confab on philanthropy in a time of constant uncertainty",
+      "description": "At this year’s Jewish Funders Network International Conference, which kicks off Sunday in San Diego, over 600 funders will grapple with one overarching question: How does the Jewish community operate under uncertainty and successive crises? Since the COVID-19 pandemic, the Jewish world has been in a chronic state of tumult. The past 2 1/2 years... Read More The post 600+ funders flocking to San Diego for JFN confab on philanthropy in a time of constant uncertainty appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/600-funders-flocking-to-san-diego-for-jfn-confab-on-philanthropy-in-a-time-of-constant-uncertainty/",
+      "source": "eJewish Philanthropy",
+      "author": "Jay Deitcher",
+      "published": "2026-03-13T11:48:45",
+      "scraped_at": "2026-03-13T12:22:47.271174",
+      "guid": "https://ejewishphilanthropy.com/?p=169957"
+    },
+    {
+      "title": "The shifting religious landscape and its implications for American liberal Judaism",
+      "description": "To fully appreciate what is unfolding in the Jewish religious market space, it is essential to capture what is happening more broadly in the world of American religion. Liberal religious seminaries and umbrella organizations for liberal movements are experiencing significant membership decline, financial challenges, theological evolution and a pivot toward social justice activism over traditional... Read More The post The shifting religious landscape and its implications for American liberal Judaism appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/the-shifting-religious-landscape-and-its-implications-for-american-liberal-judaism/",
+      "source": "eJewish Philanthropy",
+      "author": "Steven Windmueller",
+      "published": "2026-03-13T08:32:37",
+      "scraped_at": "2026-03-13T09:21:35.629758",
+      "guid": "https://ejewishphilanthropy.com/?p=169948"
+    }
+  ]
 }

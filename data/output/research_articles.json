@@ -1,8 +1,72 @@
 {
-  "update": "2026-10-09T12:44:39.708063",
-  "articles_count": 1,
+  "update": "2026-10-16T10:54:15.144670",
+  "articles_count": 4,
   "period_days": 7,
   "journals": {
+    "Holocaust and Genocide Studies": {
+      "count": 2,
+      "articles": [
+        {
+          "doi": "10.1093/hgs/dcag053",
+          "title": "A beech tree for the Righteous: on the interplay between local, national, and transnational memory politics",
+          "authors": "Wóycicka, Zofia",
+          "journal_name": "Holocaust and Genocide Studies",
+          "journal_abbrev": "Holo Geno Stud",
+          "issn": "8756-6583",
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "abstract": "Abstract This article examines the transformation and expanding scope of the concept of the Righteous through the interplay of local, national, and transnational memory politics. Beginning with the category of the “Righteous Among the Nations,” established by Yad Vashem in the early 1960s, it traces how this historically specific designation has, in recent decades, undergone a process of reinterpretation and universalization. Focusing on a memory network connecting Italy, Brussels, and Poland, the author analyzes how diverse local and transnational, governmental and nongovernmental actors—including Gardens of the Righteous Worldwide (Gariwo), the European Parliament, the History Meeting House in Warsaw, and the Memorial Museum to the Inhabitants of the Oświęcim Region—have contributed to redefining the term “Righteous,” so that the label now goes beyond the Holocaust context and increasingly applies to individuals, often civilians, recognized for moral courage, civic responsibility, and self-sacrifice in a variety of historical and contemporary settings.",
+          "url": "https://doi.org/10.1093/hgs/dcag053",
+          "published_online": "2026-10-14T00:00:00",
+          "published_print": null,
+          "published_date": "2026-10-14T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        },
+        {
+          "doi": "10.1093/hgs/dcag047",
+          "title": "Man, non-men, and beasts: masculinity in Primo Levi’s\n                    <i>If This Is a Man</i>",
+          "authors": "Weissman, Gary",
+          "journal_name": "Holocaust and Genocide Studies",
+          "journal_abbrev": "Holo Geno Stud",
+          "issn": "8756-6583",
+          "volume": null,
+          "issue": null,
+          "pages": null,
+          "abstract": "Abstract This article explores the place of masculinity in Primo Levi's If This Is a Man. It contends that Levi's lifelong experience of feeling inadequately masculine shaped his depictions of Auschwitz III (Monowitz-Buna) and its inhabitants. This is shown through Levi's penchant for pairing himself with a series of male characters who serve as his doubles or alter egos, depicting the virility and humanity of prisoners in ways that respond to and comment upon his own manhood. Through projecting, doubling, splitting, inverting, and pairing, he constructs characters as idealized, inverted, corrupted, or diminished versions of himself. In addition, If This Is a Man pairs the narrated Levi, the prisoner whose story is told, with the narrating Levi, the survivor-writer who does the telling. Through its exploration of these many pairings, this article shows how Levi's account allows him to achieve a symbiotic masculinity—a manliness that is not embodied but contingent and relational, acquired in connection to other male characters.",
+          "url": "https://doi.org/10.1093/hgs/dcag047",
+          "published_online": "2026-10-13T00:00:00",
+          "published_print": null,
+          "published_date": "2026-10-13T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        }
+      ]
+    },
+    "Journal of Modern Jewish Studies": {
+      "count": 1,
+      "articles": [
+        {
+          "doi": "10.1080/14725886.2026.2740488",
+          "title": "“Wherever you went, sin followed after”: sin as an aesthetic category and the birth of Hebrew literature",
+          "authors": "Bick, Tafat Hacohen",
+          "journal_name": "Journal of Modern Jewish Studies",
+          "journal_abbrev": "J Mod Jewish Stud",
+          "issn": "1472-5894",
+          "volume": null,
+          "issue": null,
+          "pages": "1-20",
+          "abstract": null,
+          "url": "https://doi.org/10.1080/14725886.2026.2740488",
+          "published_online": "2026-10-09T00:00:00",
+          "published_print": null,
+          "published_date": "2026-10-09T00:00:00",
+          "subjects": null,
+          "article_type": "journal-article"
+        }
+      ]
+    },
     "East European Jewish Affairs": {
       "count": 1,
       "articles": [
@@ -28,6 +92,60 @@
     }
   },
   "all_articles": [
+    {
+      "doi": "10.1093/hgs/dcag053",
+      "title": "A beech tree for the Righteous: on the interplay between local, national, and transnational memory politics",
+      "authors": "Wóycicka, Zofia",
+      "journal_name": "Holocaust and Genocide Studies",
+      "journal_abbrev": "Holo Geno Stud",
+      "issn": "8756-6583",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "abstract": "Abstract This article examines the transformation and expanding scope of the concept of the Righteous through the interplay of local, national, and transnational memory politics. Beginning with the category of the “Righteous Among the Nations,” established by Yad Vashem in the early 1960s, it traces how this historically specific designation has, in recent decades, undergone a process of reinterpretation and universalization. Focusing on a memory network connecting Italy, Brussels, and Poland, the author analyzes how diverse local and transnational, governmental and nongovernmental actors—including Gardens of the Righteous Worldwide (Gariwo), the European Parliament, the History Meeting House in Warsaw, and the Memorial Museum to the Inhabitants of the Oświęcim Region—have contributed to redefining the term “Righteous,” so that the label now goes beyond the Holocaust context and increasingly applies to individuals, often civilians, recognized for moral courage, civic responsibility, and self-sacrifice in a variety of historical and contemporary settings.",
+      "url": "https://doi.org/10.1093/hgs/dcag053",
+      "published_online": "2026-10-14T00:00:00",
+      "published_print": null,
+      "published_date": "2026-10-14T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
+    {
+      "doi": "10.1093/hgs/dcag047",
+      "title": "Man, non-men, and beasts: masculinity in Primo Levi’s\n                    <i>If This Is a Man</i>",
+      "authors": "Weissman, Gary",
+      "journal_name": "Holocaust and Genocide Studies",
+      "journal_abbrev": "Holo Geno Stud",
+      "issn": "8756-6583",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "abstract": "Abstract This article explores the place of masculinity in Primo Levi's If This Is a Man. It contends that Levi's lifelong experience of feeling inadequately masculine shaped his depictions of Auschwitz III (Monowitz-Buna) and its inhabitants. This is shown through Levi's penchant for pairing himself with a series of male characters who serve as his doubles or alter egos, depicting the virility and humanity of prisoners in ways that respond to and comment upon his own manhood. Through projecting, doubling, splitting, inverting, and pairing, he constructs characters as idealized, inverted, corrupted, or diminished versions of himself. In addition, If This Is a Man pairs the narrated Levi, the prisoner whose story is told, with the narrating Levi, the survivor-writer who does the telling. Through its exploration of these many pairings, this article shows how Levi's account allows him to achieve a symbiotic masculinity—a manliness that is not embodied but contingent and relational, acquired in connection to other male characters.",
+      "url": "https://doi.org/10.1093/hgs/dcag047",
+      "published_online": "2026-10-13T00:00:00",
+      "published_print": null,
+      "published_date": "2026-10-13T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
+    {
+      "doi": "10.1080/14725886.2026.2740488",
+      "title": "“Wherever you went, sin followed after”: sin as an aesthetic category and the birth of Hebrew literature",
+      "authors": "Bick, Tafat Hacohen",
+      "journal_name": "Journal of Modern Jewish Studies",
+      "journal_abbrev": "J Mod Jewish Stud",
+      "issn": "1472-5894",
+      "volume": null,
+      "issue": null,
+      "pages": "1-20",
+      "abstract": null,
+      "url": "https://doi.org/10.1080/14725886.2026.2740488",
+      "published_online": "2026-10-09T00:00:00",
+      "published_print": null,
+      "published_date": "2026-10-09T00:00:00",
+      "subjects": null,
+      "article_type": "journal-article"
+    },
     {
       "doi": "10.1080/13501674.2026.2741801",
       "title": "A Useful Jew on the Land? Jewish Strategies Towards Government Agricultural Settlement Projects in the Kingdom of Poland (1815–1864)",

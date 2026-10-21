@@ -19,7 +19,7 @@ class NewsFilter:
             raise ValueError("ANTHROPIC_API_KEY environment variable is required")
         
         self.client = Anthropic(api_key=api_key)
-        self.model = "claude-haiku-4-5"
+        self.model = "claude-haiku-5-5"
         
         # Retry configuration
         self.max_retries = 3

@@ -232,8 +232,9 @@ Do not include any other text in your response, just the JSON array.
                 
                 response = self.client.messages.create(
                     model=self.model,
-                    max_tokens=2000,  # Increased for larger batches
-                    temperature=0.1,
+                    max_tokens=4000,  # Increased for larger batches
+                    # temperature=0.1, deprecated for Haiku 5.5
+                    thinking={"type": "disabled"},
                     messages=[
                         {
                             "role": "user",

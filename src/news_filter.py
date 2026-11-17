@@ -211,7 +211,8 @@ EXCLUDE articles about:
 - Entertainment, sports, or lifestyle content
 - Breaking news or daily political developments
 
-In sum, INCLUDE articles based on research and scholarship, and EXCLUDE articles that are not relevant to Jewish Studies.
+Include an article only if it reports a substantive scholarly finding, publication, discovery, research resource, or significant research project directly relevant to Jewish Studies. 
+Exclude routine institutional news, general political commentary, events, and articles whose research significance is merely implied. When uncertain, exclude.
 
 Here are {len(articles)} articles to evaluate:
 

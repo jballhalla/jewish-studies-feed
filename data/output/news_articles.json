@@ -1,10 +1,1216 @@
 {
-  "update": "2026-11-13T15:09:47.291679",
-  "articles_count": 0,
-  "filtered_date": "2026-11-13",
-  "week_start": "2026-11-06",
-  "has_articles": false,
-  "sources": {},
-  "all_articles": [],
-  "message": "No research-relevant articles found for this week."
+  "update": "2026-11-20T15:56:31.721686",
+  "articles_count": 58,
+  "filtered_date": "2026-11-20",
+  "week_start": "2026-11-13",
+  "has_articles": true,
+  "sources": {
+    "Haaretz": {
+      "count": 17,
+      "articles": [
+        {
+          "title": "Are religious couples having better sex? Therapists explain",
+          "description": "Studies conducted by American researchers show that married religious people are the only ones eluding the phenomenon referred to as the 'global sex recession.' Is this also true in Israel?",
+          "link": "https://www.haaretz.com/science-and-health/2026-11-20/ty-article-magazine/are-religious-couples-having-better-sex-therapists-explain/000001a1-f71f-d381-ade5-ffffd1eb0000",
+          "source": "Haaretz",
+          "author": "Dani Bar On",
+          "published": "2026-11-20T04:43:41",
+          "scraped_at": "2026-11-20T08:20:31.043238",
+          "guid": "https://www.haaretz.com/science-and-health/2026-11-20/ty-article-magazine/are-religious-couples-having-better-sex-therapists-explain/000001a1-f71f-d381-ade5-ffffd1eb0000"
+        },
+        {
+          "title": "AI matches thousands of Holocaust photos with names at Yad Vashem",
+          "description": "A Jerusalem yeshiva teacher used AI to find photos for 4,000 victims in Yad Vashem's database, who were originally just names. Yad Vashem said the findings 'of great value,' and that they would verify them",
+          "link": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000",
+          "source": "Haaretz",
+          "author": "Ofer Aderet",
+          "published": "2026-11-19T13:36:02",
+          "scraped_at": "2026-11-19T18:53:45.487869",
+          "guid": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000"
+        },
+        {
+          "title": "Islam expected to surpass Christianity as the world's largest religion by 2035",
+          "description": "Pew Research Center forecasts a global population of 2.57 billion Muslims and 2.52 billion Christians by 2035. While Jews will grow in absolute terms of population, they are projected to decline as a percentage of the global population",
+          "link": "https://www.haaretz.com/jewish/tradition-and-judaism/religion-and-belifes/2026-11-19/ty-article/islam-expected-to-surpass-christianity-as-the-worlds-largest-religion-by-2035/000001a1-f3f3-d175-abf5-fff7a20e0000",
+          "source": "Haaretz",
+          "author": "The Associated Press",
+          "published": "2026-11-19T17:01:03",
+          "scraped_at": "2026-11-19T18:53:45.487694",
+          "guid": "https://www.haaretz.com/jewish/tradition-and-judaism/religion-and-belifes/2026-11-19/ty-article/islam-expected-to-surpass-christianity-as-the-worlds-largest-religion-by-2035/000001a1-f3f3-d175-abf5-fff7a20e0000"
+        },
+        {
+          "title": "Nearly two-thirds of the world's Jews will live in Israel by 2070, Pew projects",
+          "description": "Pew expects Israel's Jewish population to rise from 6.8 million to more than 11 million, while the number of Americans who identify as Jewish by religion falls by 1.2 million",
+          "link": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070-pew-projects/000001a1-f447-d9ff-a7b5-f5efe8bc0000",
+          "source": "Haaretz",
+          "author": "Philissa Cramer",
+          "published": "2026-11-19T17:16:12",
+          "scraped_at": "2026-11-19T18:53:45.487677",
+          "guid": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070-pew-projects/000001a1-f447-d9ff-a7b5-f5efe8bc0000"
+        },
+        {
+          "title": "The day Haim Nahman Bialik was arrested in Tel Aviv. His crime: speaking Russian",
+          "description": "Haim Nahman Bialik, Israel's national poet, was caught off guard in 1925. Now, the minutes of his tongue-in-cheek trial, which was put on by a zealous cadre of Zionists, have been rediscovered",
+          "link": "https://www.haaretz.com/life/2026-11-19/ty-article/.premium/the-day-haim-nahman-bialik-was-arrested-in-tel-aviv-his-crime-speaking-russian/000001a1-f2ff-df5d-afb1-f3ff90d20002",
+          "source": "Haaretz",
+          "author": "Ofer Aderet",
+          "published": "2026-11-19T10:33:50",
+          "scraped_at": "2026-11-19T18:53:45.488098",
+          "guid": "https://www.haaretz.com/life/2026-11-19/ty-article/.premium/the-day-haim-nahman-bialik-was-arrested-in-tel-aviv-his-crime-speaking-russian/000001a1-f2ff-df5d-afb1-f3ff90d20002"
+        },
+        {
+          "title": "The Supreme Court was supposed to save Israeli democracy. What went wrong?",
+          "description": "In his new book, Menachem Mautner argues that Israel's liberal elite helped bring democracy to the brink by relying on the Supreme Court instead of building political and social alliances",
+          "link": "https://www.haaretz.com/life/books/2026-11-19/ty-article-review/.premium/the-supreme-court-was-supposed-to-save-israeli-democracy-what-went-wrong/000001a1-edc2-d381-ade5-efe33bf70000",
+          "source": "Haaretz",
+          "author": "Or Bassok",
+          "published": "2026-11-19T11:42:48",
+          "scraped_at": "2026-11-19T18:53:45.488048",
+          "guid": "https://www.haaretz.com/life/books/2026-11-19/ty-article-review/.premium/the-supreme-court-was-supposed-to-save-israeli-democracy-what-went-wrong/000001a1-edc2-d381-ade5-efe33bf70000"
+        },
+        {
+          "title": "The last Righteous Among the Nations living in Israel saved Jews at age six",
+          "description": "The young Yaroslava Lewicka was sent by her grandfather to smuggle food to Jews in hiding in Złoczów, Poland (now Zolochiv, Ukraine)",
+          "link": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/the-last-righteous-among-the-nations-living-in-israel-saved-jews-at-age-six/000001a1-f446-d3ce-ade3-f67719a80000",
+          "source": "Haaretz",
+          "author": "Ofer Aderet",
+          "published": "2026-11-19T15:36:40",
+          "scraped_at": "2026-11-19T18:53:45.487802",
+          "guid": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/the-last-righteous-among-the-nations-living-in-israel-saved-jews-at-age-six/000001a1-f446-d3ce-ade3-f67719a80000"
+        },
+        {
+          "title": "Homo erectus persisted in China 200,000 years longer than thought",
+          "description": "Last occurrence of Homo erectus on Asian mainland may be as late as 184,000 years ago, comfortably overlapping with Denisovans",
+          "link": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000",
+          "source": "Haaretz",
+          "author": "Ruth Schuster",
+          "published": "2026-11-18T16:31:34",
+          "scraped_at": "2026-11-18T20:03:48.601511",
+          "guid": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000"
+        },
+        {
+          "title": "Chaim Soutine's life belongs to Jewish history. But do his paintings?",
+          "description": "The Jewish painter rose from a Belarusian shtetl to the School of Paris, then died hiding from the Nazis in 1943. His first English-language biographer explains why artists from New York to Tel Aviv still study his work",
+          "link": "https://www.haaretz.com/life/books/2026-11-18/ty-article-magazine/.premium/chaim-soutines-life-belongs-to-jewish-history-but-do-his-paintings/0000019e-7d4f-dc9e-adfe-fdcf2cea0000",
+          "source": "Haaretz",
+          "author": "Etan Nechin",
+          "published": "2026-11-18T15:46:15",
+          "scraped_at": "2026-11-18T20:03:48.601545",
+          "guid": "https://www.haaretz.com/life/books/2026-11-18/ty-article-magazine/.premium/chaim-soutines-life-belongs-to-jewish-history-but-do-his-paintings/0000019e-7d4f-dc9e-adfe-fdcf2cea0000"
+        },
+        {
+          "title": "Homo erectus persisted in China 200,000 years longer than thought",
+          "description": "Last occurrence of Homo erectus on Asian mainland may be as late as 184,000 years ago, comfortably overlapping with Denisovans",
+          "link": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000",
+          "source": "Haaretz",
+          "author": "Ruth Schuster",
+          "published": "2026-11-18T16:31:34",
+          "scraped_at": "2026-11-18T20:03:48.601511",
+          "guid": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000"
+        },
+        {
+          "title": "The conversation Palestinian parents dread: Explaining settler violence to a child",
+          "description": "A video of his son celebrating Palestinian heritage alongside footage of settlers attacking olive pickers forced one father to confront a question he had hoped to postpone: How do you teach a child to love a culture others are trying to uproot?",
+          "link": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/a-conversation-palestinian-parents-dread-explaining-settler-violence-to-a-child/000001a1-e5ee-d848-abeb-ffee2ab50000",
+          "source": "Haaretz",
+          "author": "Tamer Nafar",
+          "published": "2026-11-16T22:13:36",
+          "scraped_at": "2026-11-17T01:40:19.390890",
+          "guid": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/a-conversation-palestinian-parents-dread-explaining-settler-violence-to-a-child/000001a1-e5ee-d848-abeb-ffee2ab50000"
+        },
+        {
+          "title": "Suddenly, gorillas are exhibiting sophisticated cooperation",
+          "description": "Half sisters Lisha and Amelia collaborated efficiently to rip down a delectable branch too high for either to reach alone. How did they do it? Two Israeli researchers have ideas",
+          "link": "https://www.haaretz.com/science-and-health/2026-11-16/ty-article-magazine/suddenly-gorillas-are-exhibiting-sophisticated-cooperation/000001a1-bbd5-dda4-adb7-bbdd9afd0000",
+          "source": "Haaretz",
+          "author": "Ruth Schuster",
+          "published": "2026-11-16T04:00:36",
+          "scraped_at": "2026-11-16T18:00:28.806643",
+          "guid": "https://www.haaretz.com/science-and-health/2026-11-16/ty-article-magazine/suddenly-gorillas-are-exhibiting-sophisticated-cooperation/000001a1-bbd5-dda4-adb7-bbdd9afd0000"
+        },
+        {
+          "title": "Who gets to decide what Zionism truly means?",
+          "description": "As Israeli politicians brand their rivals anti-Zionist, a new book returns to a time when a Jewish state was far from inevitable, and competing visions of Jewish life offered alternatives that suddenly feel relevant again",
+          "link": "https://www.haaretz.com/life/books/2026-11-16/ty-article-magazine/.premium/who-gets-to-decide-what-zionism-truly-means/000001a1-e397-d365-a3fd-fbf730bf0000",
+          "source": "Haaretz",
+          "author": "Ofer Aderet",
+          "published": "2026-11-16T10:57:17",
+          "scraped_at": "2026-11-16T18:00:28.806407",
+          "guid": "https://www.haaretz.com/life/books/2026-11-16/ty-article-magazine/.premium/who-gets-to-decide-what-zionism-truly-means/000001a1-e397-d365-a3fd-fbf730bf0000"
+        },
+        {
+          "title": "Danny Rubinstein, veteran journalist and former Haaretz Arab affairs commentator, dies at 88",
+          "description": "A Sokolov Prize laureate, Rubinstein covered Palestinian society and Israeli settlements for decades, worked at Haaretz from 1990 to 2008 and wrote books on the Israeli-Palestinian conflict",
+          "link": "https://www.haaretz.com/israel-news/2026-11-16/ty-article/.premium/veteran-journalist-and-former-haaretz-commentator-danny-rubinstein-dies-at-88/000001a1-e471-d278-a9bf-e4ffc4230000",
+          "source": "Haaretz",
+          "author": "Ofer Aderet",
+          "published": "2026-11-16T15:00:48",
+          "scraped_at": "2026-11-16T18:00:28.806319",
+          "guid": "https://www.haaretz.com/israel-news/2026-11-16/ty-article/.premium/veteran-journalist-and-former-haaretz-commentator-danny-rubinstein-dies-at-88/000001a1-e471-d278-a9bf-e4ffc4230000"
+        },
+        {
+          "title": "Report: Israel abducted Iranian generals in secret quest for airman Ron Arad missing since 1986",
+          "description": "A New York Times probe found that the Mossad abducted two Iranian generals in an effort to uncover the fate of airman Ron Arad, who disappeared in 1986",
+          "link": "https://www.haaretz.com/middle-east-news/iran/2026-11-15/ty-article/report-israel-abducted-iranian-generals-in-secret-quest-for-missing-airman/000001a1-df0f-d1ce-a9a3-ff1fd6c90000",
+          "source": "Haaretz",
+          "author": "Haaretz",
+          "published": "2026-11-15T12:26:22",
+          "scraped_at": "2026-11-15T15:25:29.501749",
+          "guid": "https://www.haaretz.com/middle-east-news/iran/2026-11-15/ty-article/report-israel-abducted-iranian-generals-in-secret-quest-for-missing-airman/000001a1-df0f-d1ce-a9a3-ff1fd6c90000"
+        },
+        {
+          "title": "How Islam is reshaping Europe and fueling the far right, according to an Israeli scholar",
+          "description": "Dr. Dina Lisnyansky studies the rise of Islam in the West and observes Europe gradually changing. As opposition grows and the far right gains ground, she identifies an emerging synthesis of Muslim and European values",
+          "link": "https://www.haaretz.com/world-news/europe/2026-11-14/ty-article-magazine/.highlight/how-islam-is-reshaping-europe-and-fueling-the-far-right/000001a1-d935-ddc9-abb7-ddf70d2a0000",
+          "source": "Haaretz",
+          "author": "Ayelett Shani",
+          "published": "2026-11-14T09:56:20",
+          "scraped_at": "2026-11-14T15:37:01.672242",
+          "guid": "https://www.haaretz.com/world-news/europe/2026-11-14/ty-article-magazine/.highlight/how-islam-is-reshaping-europe-and-fueling-the-far-right/000001a1-d935-ddc9-abb7-ddf70d2a0000"
+        },
+        {
+          "title": "'The Singing Rabbi' played packed bars in the West Village. Women say he abused them as girls",
+          "description": "Rabbi Shlomo Carlebach wrote melodies still sung in synagogues around the world. A new documentary revisits his musical legacy and examines allegations he sexually abused girls",
+          "link": "https://www.haaretz.com/us-news/2026-11-13/ty-article-magazine/.premium/the-tainted-legacy-of-the-singing-rabbi/000001a1-d697-ddc9-abb7-dfd78c9b0000",
+          "source": "Haaretz",
+          "author": "Etan Nechin",
+          "published": "2026-11-13T20:53:10",
+          "scraped_at": "2026-11-14T01:19:05.569380",
+          "guid": "https://www.haaretz.com/us-news/2026-11-13/ty-article-magazine/.premium/the-tainted-legacy-of-the-singing-rabbi/000001a1-d697-ddc9-abb7-dfd78c9b0000"
+        }
+      ]
+    },
+    "Jewish Currents": {
+      "count": 1,
+      "articles": [
+        {
+          "title": "In Gaza, an Olive Harvest Shattered by Genocide - Israeli bombs, bulldozers, and occupation have pushed Gaza’s olive farmers to the brink.",
+          "description": null,
+          "link": "https://jewishcurrents.org/in-gaza-an-olive-harvest-shattered-by-genocide",
+          "source": "Jewish Currents",
+          "author": "Mohanad El-Hemrawi",
+          "published": "2026-11-19T20:35:00",
+          "scraped_at": "2026-11-20T01:03:57.369546",
+          "guid": "https://jewishcurrents.org/in-gaza-an-olive-harvest-shattered-by-genocide"
+        }
+      ]
+    },
+    "Jewish Journal": {
+      "count": 4,
+      "articles": [
+        {
+          "title": "Longtime Ramah Family Gives $5 million to Endow Scholarships at Camp Ramah in California",
+          "description": "The Donna and Spencer Gilbert Foundation’s gift, inspired by Sheryl Sandberg’s scholarship in memory of Dave Goldberg, will support campers every summer. The post Longtime Ramah Family Gives $5 million to Endow Scholarships at Camp Ramah in California appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/community/394375/longtime-ramah-family-gives-5-million-to-endow-scholarships-at-camp-ramah-in-california/",
+          "source": "Jewish Journal",
+          "author": "Benjamin Raziel",
+          "published": "2026-11-19T18:50:29",
+          "scraped_at": "2026-11-20T01:03:50.988982",
+          "guid": "https://jewishjournal.com/?p=394375"
+        },
+        {
+          "title": "From a Global People to a People of Israel",
+          "description": "Today, 46% of world Jewry lives in Israel. In 2070, according to the forecast, 62% will live there. The U.S. share of world Jewry will drop from 39% to 26%, which numerically means 1.2 million fewer people. The post From a Global People to a People of Israel appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/rosnersdomain/394323/from-a-global-people-to-a-people-of-israel/",
+          "source": "Jewish Journal",
+          "author": "Shmuel Rosner",
+          "published": "2026-11-19T09:40:43",
+          "scraped_at": "2026-11-19T09:57:12.936342",
+          "guid": "https://jewishjournal.com/?p=394323"
+        },
+        {
+          "title": "From a Global People to a People of Israel",
+          "description": "Today, 46% of world Jewry lives in Israel. In 2070, according to the forecast, 62% will live there. The U.S. share of world Jewry will drop from 39% to 26%, which numerically means 1.2 million fewer people. The post From a Global People to a People of Israel appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/rosnersdomain/394323/from-a-global-people-to-a-people-of-israel/",
+          "source": "Jewish Journal",
+          "author": "Shmuel Rosner",
+          "published": "2026-11-19T09:40:43",
+          "scraped_at": "2026-11-19T09:57:12.936342",
+          "guid": "https://jewishjournal.com/?p=394323"
+        },
+        {
+          "title": "AJU’s Ziegler School to Launch Dual-Degree Model for Future Rabbis",
+          "description": "The curriculum will also address contemporary challenges facing Jewish communities, including antisemitism and the responsible use of artificial intelligence and digital media. The post AJU’s Ziegler School to Launch Dual-Degree Model for Future Rabbis appeared first on Jewish Journal .",
+          "link": "https://jewishjournal.com/community/394260/ajus-ziegler-school-to-launch-dual-degree-model-for-future-rabbis/",
+          "source": "Jewish Journal",
+          "author": "Ryan Torok",
+          "published": "2026-11-16T19:49:03",
+          "scraped_at": "2026-11-17T01:40:09.556996",
+          "guid": "https://jewishjournal.com/?p=394260"
+        }
+      ]
+    },
+    "JTA": {
+      "count": 4,
+      "articles": [
+        {
+          "title": "A fascinating exhibit details how Caribbean Jews helped the American Revolution — and built a thriving Jewish world",
+          "description": "8 things to know about this nearly forgotten Jewish community, which was once the largest in the New World. -- The post A fascinating exhibit details how Caribbean Jews helped the American Revolution — and built a thriving Jewish world appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/11/19/united-states/a-fascinating-exhibit-details-how-caribbean-jews-helped-the-american-revolution-and-built-a-thriving-jewish-world",
+          "source": "JTA",
+          "author": "Peter Ephross",
+          "published": "2026-11-19T20:11:23",
+          "scraped_at": "2026-11-20T01:03:44.535510",
+          "guid": "https://www.jta.org/?p=1913762"
+        },
+        {
+          "title": "Everyone wants to be Sephardic. I discovered I already was.",
+          "description": "A teen's journey into family history opened a window onto the diversity of Jewish identities in America. -- The post Everyone wants to be Sephardic. I discovered I already was. appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/11/16/ideas/everyone-wants-to-be-sephardic-i-discovered-i-already-was",
+          "source": "JTA",
+          "author": "Rebecca Ucuzoglu Guberman",
+          "published": "2026-11-16T15:00:00",
+          "scraped_at": "2026-11-16T18:00:10.235418",
+          "guid": "https://www.jta.org/?p=1913297"
+        },
+        {
+          "title": "A wartime hack becomes an educational tool: meet Yuvi, the AI platform that encourages children to think",
+          "description": "Created by an army reservist, YuviLab has grown into a platform reaching tens of thousands of children and bringing personalized AI learning into Israeli classrooms. -- The post A wartime hack becomes an educational tool: meet Yuvi, the AI platform that encourages children to think appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/11/16/israel/a-wartime-hack-becomes-an-educational-tool-meet-yuvi-the-ai-platform-that-encourages-children-to-think",
+          "source": "JTA",
+          "author": "Deborah Danan",
+          "published": "2026-11-16T15:11:45",
+          "scraped_at": "2026-11-16T18:00:10.235383",
+          "guid": "https://www.jta.org/?p=1913452"
+        },
+        {
+          "title": "This law professor wants to build a Jewish consensus in an age of deep polarization",
+          "description": "Roberta Rosenthal Kwall makes the case for a robust Jewish center. -- The post This law professor wants to build a Jewish consensus in an age of deep polarization appeared first on Jewish Telegraphic Agency .",
+          "link": "https://www.jta.org/2026/11/15/ideas/this-law-professor-wants-to-build-a-jewish-consensus-in-an-age-of-deep-polarization",
+          "source": "JTA",
+          "author": "Andrew Silow-Carroll",
+          "published": "2026-11-15T11:45:00",
+          "scraped_at": "2026-11-15T15:25:13.466512",
+          "guid": "https://www.jta.org/?p=1913332"
+        }
+      ]
+    },
+    "eJewish Philanthropy": {
+      "count": 3,
+      "articles": [
+        {
+          "title": "Study finds high cost, lack of awareness about financial aid prevent kids from attending camp",
+          "description": "Nearly 8 in 10 Jewish families who do not have children currently attending Jewish overnight camp cite the high cost as the No. 1 barrier for enrollment. That, as well as the fact that most respondents were unaware of the financial aid opportunities available to them, are the key takeaways from a new Foundation for... Read More The post Study finds high cost, lack of awareness about financial aid prevent kids from attending camp appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/study-finds-high-cost-lack-of-awareness-about-financial-aid-prevent-kids-from-attending-camp/",
+          "source": "eJewish Philanthropy",
+          "author": "Jay Deitcher",
+          "published": "2026-11-20T00:11:35",
+          "scraped_at": "2026-11-20T01:03:42.384858",
+          "guid": "https://ejewishphilanthropy.com/?p=183032"
+        },
+        {
+          "title": "Jewish studies funders: Don’t abandon the university",
+          "description": "I read Mika Ahuvia’s recent essay in eJewishPhilanthropy (“Jewish studies funders: If not the university, then where?” Nov. 5) with both compassion and alarm . Her account of isolation, institutional failure and the personal cost of supporting Jewish students resonated deeply with me. As a Jewish studies scholar working in the Netherlands, I recognize the... Read More The post Jewish studies funders: Don’t abandon the university appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/jewish-studies-funders-dont-abandon-the-university/",
+          "source": "eJewish Philanthropy",
+          "author": "Contributing Author",
+          "published": "2026-11-18T10:15:00",
+          "scraped_at": "2026-11-18T20:03:30.063923",
+          "guid": "https://ejewishphilanthropy.com/?p=182909"
+        },
+        {
+          "title": "Many voices, one assembly: What rabbis can model for a divided Jewish world",
+          "description": "During the COVID-19 pandemic, after the Oct. 7 attacks and through years of rising antisemitism, rabbis have carried our communities through all of it. Most of the time, we’re the ones striving to hold everyone else. This week, hundreds of my Conservative/Masorti colleagues from around the world are gathering in Philadelphia to do something different:... Read More The post Many voices, one assembly: What rabbis can model for a divided Jewish world appeared first on eJewishPhilanthropy .",
+          "link": "https://ejewishphilanthropy.com/many-voices-one-assembly-what-rabbis-can-model-for-a-divided-jewish-world/",
+          "source": "eJewish Philanthropy",
+          "author": "Rabbi Andrew Markowitz",
+          "published": "2026-11-16T10:37:00",
+          "scraped_at": "2026-11-16T18:00:08.003225",
+          "guid": "https://ejewishphilanthropy.com/?p=182771"
+        }
+      ]
+    },
+    "J. Weekly": {
+      "count": 4,
+      "articles": [
+        {
+          "title": "AI matches thousands of Holocaust photos with names at Yad Vashem",
+          "description": "This story was originally published in Haaretz. Viktor Abel, born December 1892. Olga Bacherová, born March 1865. Jackerle Miroslav, born January 1920. All three were Jews who lived in Prague and were murdered in the Holocaust. They&#8217;re among the holocaust victims whose names, but not photos, are present in the database of Holocaust museum Yad [&#8230;]",
+          "link": "https://jweekly.com/2026/11/19/ai-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/",
+          "source": "J. Weekly",
+          "author": "Ofer Aderet",
+          "published": "2026-11-19T20:12:07",
+          "scraped_at": "2026-11-20T01:03:40.122219",
+          "guid": "https://jweekly.com/?p=314011"
+        },
+        {
+          "title": "Pew: Nearly two-thirds of the world’s Jews will live in Israel by 2070",
+          "description": "This story was originally published in Haaretz. Fewer than half of the world&#8217;s Jews live in Israel today. By 2070, that share will rise to nearly two-thirds, according to a report released Wednesday by the Pew Research Center. Israel&#8217;s Jewish population is projected to grow by 63 percent, from 6.8 million to more than 11 [&#8230;]",
+          "link": "https://jweekly.com/2026/11/19/pew-nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070/",
+          "source": "J. Weekly",
+          "author": "Philissa Cramer",
+          "published": "2026-11-19T18:22:11",
+          "scraped_at": "2026-11-19T18:53:24.704247",
+          "guid": "https://jweekly.com/?p=314002"
+        },
+        {
+          "title": "How Stanley Kubrick created a Jewish universe without Jews",
+          "description": "This story was originally published in the Forward. Click here to get the Forward&#8217;s free email newsletters delivered to your inbox. Recently, while watching the new 4K transfer of &#8220;Lolita&#8221; in Criterion’s enormous new Stanley Kubrick set, I found myself lingering over an exchange near the start of the film. Humbert Humbert (James Mason) has [&#8230;]",
+          "link": "https://jweekly.com/2026/11/18/how-stanley-kubrick-created-a-jewish-universe-without-jews/",
+          "source": "J. Weekly",
+          "author": "A.J. Goldmann",
+          "published": "2026-11-18T17:49:02",
+          "scraped_at": "2026-11-18T20:03:27.712908",
+          "guid": "https://jweekly.com/?p=313956"
+        },
+        {
+          "title": "New books: Zionism, cookbook design, Holocaust memory and more",
+          "description": "Books coverage is supported by a generous grant from The Milton and Sophie Meyer Fund. This is J.’s semi-regular column featuring new releases across genres by Jewish authors in Northern California. Writers have been busy creating new works about unique cookbooks, family history and neuroscience. You can find these books online or at your local [&#8230;]",
+          "link": "https://jweekly.com/2026/11/16/new-books-zionism-cookbook-design-holocaust-memory-and-more/",
+          "source": "J. Weekly",
+          "author": "Rahel Knight",
+          "published": "2026-11-17T00:50:26",
+          "scraped_at": "2026-11-17T01:39:57.541525",
+          "guid": "https://jweekly.com/?p=313858"
+        }
+      ]
+    },
+    "Algemeiner": {
+      "count": 3,
+      "articles": [
+        {
+          "title": "Anti-Zionism Then and Now: What Changed After the Creation of Israel?",
+          "description": "Anti-Zionism is all the rage. It&#8217;s a cover for those who insist that their opposition to Israel is not antisemitic...",
+          "link": "https://www.algemeiner.com/2026/11/19/anti-zionism-then-now-what-changed-after-creation-israel/",
+          "source": "Algemeiner",
+          "author": "Edward C. Halper",
+          "published": "2026-11-19T16:42:12",
+          "scraped_at": "2026-11-19T18:53:40.962387",
+          "guid": "https://www.algemeiner.com/?p=782990"
+        },
+        {
+          "title": "Israel to Drive All Global Jewish Population Growth Through 2070, Landmark Pew Study Finds",
+          "description": "Israel is on course to become the engine of virtually all Jewish population growth worldwide, with its Jewish population projected...",
+          "link": "https://www.algemeiner.com/2026/11/18/israel-to-drive-all-global-jewish-population-growth-through-2070-landmark-pew-study-finds/",
+          "source": "Algemeiner",
+          "author": "Gabriel Ostrovsky",
+          "published": "2026-11-18T19:27:26",
+          "scraped_at": "2026-11-18T20:03:44.135993",
+          "guid": "https://www.algemeiner.com/?p=782943"
+        },
+        {
+          "title": "The Media Is Increasingly Using ‘Occupied West Bank’ as the Default Descriptor",
+          "description": "The term &#8220;occupied West Bank&#8221; is increasingly being used in news articles about the disputed territory, according to research conducted...",
+          "link": "https://www.algemeiner.com/2026/11/17/media-increasingly-using-occupied-west-bank-default-descriptor/",
+          "source": "Algemeiner",
+          "author": "Sharon Levy",
+          "published": "2026-11-17T18:41:27",
+          "scraped_at": "2026-11-17T19:39:02.039568",
+          "guid": "https://www.algemeiner.com/?p=782865"
+        }
+      ]
+    },
+    "The Forward": {
+      "count": 9,
+      "articles": [
+        {
+          "title": "America’s Jewish population is shrinking as Israel’s is growing, new Pew research shows",
+          "description": "A new Pew Research Center report released Wednesday projects America’s Jewish population will shrink by about 1.2 million between 2020 and 2070. That means the U.S. share of the world’s Jews would fall from 39% to 26%. American Jews have long planned for the future around children who haven’t been born yet. A congregation raises... The post America’s Jewish population is shrinking as Israel’s is growing, new Pew research shows appeared first on The Forward .",
+          "link": "https://forward.com/news/863719/american-jews-dropping-israel-growing-pew/",
+          "source": "The Forward",
+          "author": "Benyamin Cohen",
+          "published": "2026-11-19T13:33:12",
+          "scraped_at": "2026-11-19T18:53:32.076645",
+          "guid": "https://forward.com/?p=863719"
+        },
+        {
+          "title": "The Jewish hotel on the Lower East Side that was too good to last",
+          "description": "The Ritz with a Shvitz: The Rise and Fall of the Lower East Side&#8217;s Libby&#8217;s Hotel in Tammany Era New York By Shulamith Z. Berger and Jai Zion State University of New York Press, 240 pages, $27.95 When the Lower East Side was the capital of the Jewish world, the 12-story Libby&#8217;s Hotel, a glorious... The post The Jewish hotel on the Lower East Side that was too good to last appeared first on The Forward .",
+          "link": "https://forward.com/yiddish-world/863506/the-jewish-hotel-on-the-lower-east-side-that-was-too-good-to-last/",
+          "source": "The Forward",
+          "author": "Allen Lewis Rickman",
+          "published": "2026-11-18T20:28:29",
+          "scraped_at": "2026-11-19T01:50:33.060760",
+          "guid": "https://forward.com/?p=863506"
+        },
+        {
+          "title": "Yiddish educator Asya Schulman to receive ‘Dreaming in Yiddish’ Award",
+          "description": "Asya Vaisman Schulman, a scholar of Yiddish pedagogy and language acquisition, has been selected as this year’s recipient of the prestigious Adrienne Cooper Dreaming in Yiddish Award. Schulman is also a Yiddish instructor, singer-songwriter, dance leader and translator of Yiddish poetry. The ceremony will take place at the Dreaming in Yiddish Award Concert during the... The post Yiddish educator Asya Schulman to receive &#8216;Dreaming in Yiddish&#8217; Award appeared first on The Forward .",
+          "link": "https://forward.com/yiddish-world/863356/yiddish-educator-asya-schulman-to-receive-dreaming-in-yiddish-award/",
+          "source": "The Forward",
+          "author": "Forverts Staff",
+          "published": "2026-11-17T17:23:26",
+          "scraped_at": "2026-11-17T19:38:53.309634",
+          "guid": "https://forward.com/?p=863356"
+        },
+        {
+          "title": "How Stanley Kubrick created a Jewish universe without Jews",
+          "description": "Recently, while watching the new 4K transfer of Lolita in Criterion’s enormous new Stanley Kubrick set, I found myself lingering over an exchange near the start of the film. Humbert Humbert (James Mason) has come to murder Clare Quilty (Peter Sellers), who greets the revolver pointed at the lapel of his pajama with an objection... The post How Stanley Kubrick created a Jewish universe without Jews appeared first on The Forward .",
+          "link": "https://forward.com/culture/film-tv/863080/stanley-kubrick-jewish-director-criterion-boxset-lolita-clockwork-strangelove/",
+          "source": "The Forward",
+          "author": "A.J. Goldmann",
+          "published": "2026-11-16T18:53:15",
+          "scraped_at": "2026-11-17T01:40:05.179646",
+          "guid": "https://forward.com/?p=863080"
+        },
+        {
+          "title": "Netanyahu’s son calls dad’s opponents ‘saboteurs’ in book to be distributed by Simon & Schuster",
+          "description": "(JTA) — Simon &#38; Schuster will distribute a new book by Israeli Prime Minister Benjamin Netanyahu’s son, which says that foreign and domestic Israeli enemies coordinated to unseat his father. Yair Netanyahu, a 35-year-old political activist, has authored “Two-Front War: Inside Israel’s Fight for Survival — Against Foreign Enemies and Domestic Saboteurs.” The book is... The post Netanyahu’s son calls dad’s opponents ‘saboteurs’ in book to be distributed by Simon & Schuster appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/862864/netanyahus-son-calls-dads-opponents-saboteurs-in-book-to-be-distributed-by-simon-schuster/",
+          "source": "The Forward",
+          "author": "Shira Li Bartov",
+          "published": "2026-11-15T12:59:51",
+          "scraped_at": "2026-11-15T15:25:16.105903",
+          "guid": "https://forward.com/?p=862864"
+        },
+        {
+          "title": "When a Jewish prisoner died in Ohio in 1918, four fellow inmates left the penitentiary in civilian clothes to ensure he got a proper burial",
+          "description": "Jack Nast wanted to be buried in a Jewish cemetery. He died in April 1918 while incarcerated at the Ohio Penitentiary in Columbus. Little is known about the circumstances that brought him there, but another prisoner, Morris Hess, preserved an account of his final days. As he lay ill, Nast cried out that he was... The post When a Jewish prisoner died in Ohio in 1918, four fellow inmates left the penitentiary in civilian clothes to ensure he got a proper burial appeared first on The Forward .",
+          "link": "https://forward.com/news/862927/ohio-penitentiary-jewish-prisoners/",
+          "source": "The Forward",
+          "author": "Austin Albanese",
+          "published": "2026-11-15T15:10:50",
+          "scraped_at": "2026-11-15T15:25:16.105811",
+          "guid": "https://forward.com/?p=862927"
+        },
+        {
+          "title": "Were Leopold and Loeb inspired by Nietzsche, or Jewish self-loathing?",
+          "description": "Any production of Patrick Hamilton’s popular thriller Rope, like any game of Clue, can be reduced to props, setting and culprits. The central prop is a large chest, containing a freshly-murdered body. The setting can vary: Mayfair in Hamilton’s 1929 original, Manhattan in Alfred Hitchcock’s 1948 screen adaptation starring Jimmy Stewart. The names of the... The post Were Leopold and Loeb inspired by Nietzsche, or Jewish self-loathing? appeared first on The Forward .",
+          "link": "https://forward.com/culture/theater/862481/rope-gordon-greenberg-leopold-and-loeb-jewish-play/",
+          "source": "The Forward",
+          "author": "PJ Grisar",
+          "published": "2026-11-13T15:00:06",
+          "scraped_at": "2026-11-13T20:47:37.563087",
+          "guid": "https://forward.com/?p=862481"
+        },
+        {
+          "title": "Rock legend Steven Van Zandt’s new gig: Holocaust education",
+          "description": "(JTA) — Steven Van Zandt is worried about the Jews. “There is that pre-Holocaust vibe,” the Rock and Roll Hall of Famer told the Jewish Telegraphic Agency recently about what he sees on social media, where he is a prolific user. “They spread lies around year after year after year, and if you say something... The post Rock legend Steven Van Zandt’s new gig: Holocaust education appeared first on The Forward .",
+          "link": "https://forward.com/fast-forward/862711/rock-legend-steven-van-zandts-new-gig-holocaust-education/",
+          "source": "The Forward",
+          "author": "Andrew Lapin",
+          "published": "2026-11-13T15:37:19",
+          "scraped_at": "2026-11-13T20:47:37.563051",
+          "guid": "https://forward.com/?p=862711"
+        },
+        {
+          "title": "Documentary reveals composer Dmitri Shostakovich’s empathy for the Jews",
+          "description": "אין רוסלאַנד איז לעצטנס אַרויס אַ דאָקומענטאַר רעזשיסירט פֿון גריגאָרי אילוגדין, מיטן נאָמען „DSCH: סימפֿאָניע נומער 13‟, וועגן דעם וועלט־באַרימטן קאָמפּאָזיטאָר דמיטרי שאָסטאַקאָוויטש און די ייִדן. כאָטש ער איז נישט געווען קיין ייִד, האָט ער געשאַפֿן מוזיק פֿאַר ייִדישע לידער און געווידמעט זײַן 13טער סימפֿאָניע דעם חורבן פֿון די ייִדן. מיט דער אַברעוויאַטור DSCH, וואָס... The post Documentary reveals composer Dmitri Shostakovich&#8217;s empathy for the Jews appeared first on The Forward .",
+          "link": "https://forward.com/yiddish/862681/documentary-reveals-composer-dmitri-shostakovichs-empathy-for-the-jews/",
+          "source": "The Forward",
+          "author": "יואל מאַטוועיעוו",
+          "published": "2026-11-13T14:47:28",
+          "scraped_at": "2026-11-13T20:47:37.563124",
+          "guid": "https://forward.com/?p=862681"
+        }
+      ]
+    },
+    "JNS": {
+      "count": 13,
+      "articles": [
+        {
+          "title": "By 2070, Pew projects Muslims will surpass Christians globally, 62% of Jews will live in Israel",
+          "description": "“There’s still a robust Jewish community in the United States,” Alan Cooperman, director of religion research at Pew Research Center, told JNS.",
+          "link": "https://www.jns.org/news/u-s-news/by-2070-pew-projects-muslims-will-surpass-christians-globally-62-of-jews-will-live-in-israel",
+          "source": "JNS",
+          "author": "Menachem Wecker",
+          "published": "2026-11-18T15:00:00",
+          "scraped_at": "2026-11-18T20:03:41.663293",
+          "guid": "https://www.jns.org/news/u-s-news/by-2070-pew-projects-muslims-will-surpass-christians-globally-62-of-jews-will-live-in-israel"
+        },
+        {
+          "title": "The architecture of a secular myth",
+          "description": "French philosopher Georges Sorel’s theories of violence and their insights into the modern-day anti-Israel movement.",
+          "link": "https://www.jns.org/opinion/erik-arnold/the-architecture-of-a-secular-myth",
+          "source": "JNS",
+          "author": "Erik Arnold",
+          "published": "2026-11-18T19:45:17",
+          "scraped_at": "2026-11-18T20:03:41.662435",
+          "guid": "https://www.jns.org/opinion/erik-arnold/the-architecture-of-a-secular-myth"
+        },
+        {
+          "title": "Twenty-nine percent of French Jews have removed mezuzahs, poll finds",
+          "description": "Nearly two-thirds have considered leaving France, up from 52% in 2024, as more Jews perceive the far left as a threat.",
+          "link": "https://www.jns.org/news/antisemitism/twenty-nine-percent-of-french-jews-have-removed-mezuzahs-poll-finds",
+          "source": "JNS",
+          "author": "Canaan Lidor",
+          "published": "2026-11-17T11:44:28",
+          "scraped_at": "2026-11-17T19:38:59.782616",
+          "guid": "https://www.jns.org/news/antisemitism/twenty-nine-percent-of-french-jews-have-removed-mezuzahs-poll-finds"
+        },
+        {
+          "title": "Israel ties for second in physical AI startups, AWS study finds",
+          "description": "Israel is tied with Japan for second place among 20 countries surveyed for the share of startups developing physical artificial intelligence, according to an Amazon Web Services (AWS) study published in October and reported by CTech on Monday. The study found that 21% of Israeli startups are active in the field, behind Germany at 24% but ahead of the United States at 20%. Physical AI enables machines such as robots, drones and autonomous vehicles to perceive and interact with their surroundings. The study surveyed 4,420 startups, including 663 developing physical AI technology. Despite the sector's growth, 70% of developers worldwide said slow customer adoption was limiting their expansion.",
+          "link": "https://www.jns.org/news/israel-news/israel-ties-for-second-in-physical-ai-startups-aws-study-finds",
+          "source": "JNS",
+          "author": "JNS Staff",
+          "published": "2026-11-17T12:03:41",
+          "scraped_at": "2026-11-17T19:38:59.782560",
+          "guid": "https://www.jns.org/news/israel-news/israel-ties-for-second-in-physical-ai-startups-aws-study-finds"
+        },
+        {
+          "title": "Those who sport Nazi tattoos often revel in what they see as deniability of ambiguous symbols, experts say",
+          "description": "“The heritage framing is, in fact, part of the symbol’s appeal to extremists,” Karen Sutton of Touro College told JNS.",
+          "link": "https://www.jns.org/news/u-s-news/those-who-sport-nazi-tattoos-often-revel-in-what-they-see-as-deniability-of-ambiguous-symbols-experts-say",
+          "source": "JNS",
+          "author": "Jessica Russak-Hoffman",
+          "published": "2026-11-17T18:49:06",
+          "scraped_at": "2026-11-17T19:38:59.781771",
+          "guid": "https://www.jns.org/news/u-s-news/those-who-sport-nazi-tattoos-often-revel-in-what-they-see-as-deniability-of-ambiguous-symbols-experts-say"
+        },
+        {
+          "title": "In 1934, Ben-Gurion warned of spreading antisemitism and pointed to the Negev as the answer",
+          "description": "\"If we find the water, we will find the land.\"",
+          "link": "https://www.jns.org/news/israel-news/in-1934-ben-gurion-warned-of-spreading-antisemitism-and-pointed-to-the-negev-as-the-answer",
+          "source": "JNS",
+          "author": "David Israel/TPS-IL",
+          "published": "2026-11-17T05:01:00",
+          "scraped_at": "2026-11-17T10:17:44.450934",
+          "guid": "https://www.jns.org/news/israel-news/in-1934-ben-gurion-warned-of-spreading-antisemitism-and-pointed-to-the-negev-as-the-answer"
+        },
+        {
+          "title": "University of Haifa gets $8.8 million grant to establish Israel’s first national suicide-care training center",
+          "description": "The University of Haifa has established Israel’s first national center dedicated to suicide care training, supported by an $8.8 million, five-year grant from Overlake Fund. The pioneering initiative aims to transform suicide prevention and care across Israel, equipping thousands of professionals with the skills and resources to support people in crisis, establishing national standards of care and helping build a stronger, more coordinated mental-health response at a time of unprecedented need. The National Training Center for Suicide Care comes amid growing concerns about the long-term psychological impact of the Hamas-led terrorist attacks in southern Israel on Oct. 7, 2023, and the ensuing war. Research conducted by University of Haifa professor Yossi Levi-Belz and colleagues at Columbia University found that probable post-traumatic stress disorder (PTSD) among Israeli adults nearly doubled in the month following the attacks, rising from 16.2% to 29.8%. Rates of probable depression increased from 31.3% to 44.8%, while probable anxiety rose from 24.9% to 42.7%. Although Israel’s suicide rate has not increased, subsequent research has identified rising suicidal thoughts among certain high-risk populations, particularly reserve-duty combatants, underscoring the urgent need to strengthen the country’s suicide prevention and treatment infrastructure. Over its first five years, the center aims to train approximately 4,500 mental-health professionals and frontline personnel, while reaching an additional 12,000 community members through programs designed to help identify individuals at risk and connect them with appropriate care. “Israel is facing a profound mental health challenge, and the years ahead will be critical,\" said professor Yossi Levi-Belz, Founding Academic Director of the National Training Center for Suicide Care and Head of the University of Haifa’s Lior Tsfaty Center for Suicide and Mental Pain Studies. \"We have an opportunity and a responsibility to fundamentally transform how suicide care is understood, taught, and delivered across the country. By equipping professionals with the right skills, establishing consistent standards, and strengthening coordination across our healthcare system, we can ensure that more people receive the support they need at their most vulnerable moments and ultimately help save lives.” At the heart of the center will be an advanced simulation facility incorporating artificial intelligence, virtual reality and realistic clinical scenarios. Using AI-powered simulators developed and tested by University of Haifa researchers, mental-health professionals will be able to practice conversations with simulated patients experiencing suicidal crises, receiving immediate feedback to strengthen their assessment and intervention skills. The technology will be complemented by virtual-reality scenarios and sessions involving professional actors portraying patients, while a cloud-based platform will extend training opportunities to professionals across Israel. The approach builds on University of Haifa research, including a 2025 study published in The Journal of Clinical Psychiatry that found significant improvements in mental-health professionals’ confidence in assessing suicide risk after training with an AI-powered simulator. Beyond its technological innovations, the center will work to address longstanding gaps in Israel’s mental-health system, including shortages of specially trained professionals, inconsistent clinical practices, and inadequate coordination between healthcare and community services. “We are deeply grateful to Overlake Fund for its partnership in establishing the National Training Center for Suicide Care,” said University of Haifa president Gur Alroey. “This gift reflects a shared commitment to one of the most urgent challenges facing Israeli society, and it marks the growing role of the University of Haifa in shaping Israel’s future. Together, we are building the professional expertise needed to strengthen suicide prevention and improve care for people at risk nationwide.” The center’s programs will target psychologists, psychiatrists, social workers, physicians, nurses, and other frontline professionals, with an initial focus on northern and southern Israel. The center will also collaborate with national institutions, including the Ministry of Health’s Suicide Prevention Unit, the Ministry of Defense Rehabilitation Division, the IDF Mental Health Department and Israel’s national health funds. Community-based training will further equip teachers, youth leaders and other individuals who frequently encounter people in distress with the skills to recognize warning signs and connect those at risk with appropriate support. Building on the University of Haifa’s established expertise in suicide prevention and mental health research, the center will develop approximately 80 training programs and partnerships with 15 major organizations over its first five years. Its activities will be introduced in phases, with the broader goal of establishing a coordinated national framework for suicide care that strengthens professional training, improves access to specialized support and helps save lives.",
+          "link": "https://www.jns.org/wire/university-of-haifa/university-of-haifa-gets-8-8-million-grant-to-establish-israels-first-national-suicide-care-training-center",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-11-16T22:35:21",
+          "scraped_at": "2026-11-17T01:40:11.924012",
+          "guid": "https://www.jns.org/wire/university-of-haifa/university-of-haifa-gets-8-8-million-grant-to-establish-israels-first-national-suicide-care-training-center"
+        },
+        {
+          "title": "Maryland Jewish day-school educator wins national Milken award",
+          "description": "“Outstanding educators like Cassandra Batson have the most important job in our country,” said Lowell Milken, co-founder and chairman of the Milken Family Foundation.",
+          "link": "https://www.jns.org/news/u-s-news/maryland-jewish-day-school-educator-wins-national-milken-award",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-11-16T16:12:07",
+          "scraped_at": "2026-11-16T18:00:19.645372",
+          "guid": "https://www.jns.org/news/u-s-news/maryland-jewish-day-school-educator-wins-national-milken-award"
+        },
+        {
+          "title": "Returned hostage Alon Ohel performs at New York gala for Israel's NATAL",
+          "description": "American Friends of NATAL's \"Communities of Hope\" gala raises support for trauma care in Israel, where post-traumatic stress rates have nearly doubled since Oct. 7, 2023.",
+          "link": "https://www.jns.org/wire/american-friends-of-natal/returned-hostage-alon-ohel-and-ilay-david-take-center-stage-at-new-york-gala-for-israels-natal",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-11-15T16:28:47",
+          "scraped_at": "2026-11-15T20:51:28.679474",
+          "guid": "https://www.jns.org/wire/american-friends-of-natal/returned-hostage-alon-ohel-and-ilay-david-take-center-stage-at-new-york-gala-for-israels-natal"
+        },
+        {
+          "title": "US and Israeli defense chiefs to keynote MirYam Institute briefings in New York and Florida",
+          "description": "Former Israeli Defense Minister Yoav Gallant, retired U.S. Gen. Erik Kurilla and former Israeli Ambassador Michael Oren will discuss the challenges facing Israel and the future of U.S.-Israel relations",
+          "link": "https://www.jns.org/promo/u-s-and-israeli-defense-chiefs-to-keynote-miryam-institute-briefings-in-new-york-and-florida",
+          "source": "JNS",
+          "author": null,
+          "published": "2026-11-15T16:39:27",
+          "scraped_at": "2026-11-15T20:51:28.679445",
+          "guid": "https://www.jns.org/promo/u-s-and-israeli-defense-chiefs-to-keynote-miryam-institute-briefings-in-new-york-and-florida"
+        },
+        {
+          "title": "Cancel Navi Pillay’s Nobel Peace Prize",
+          "description": "The former U.N. human rights chief’s accusations against Israel raise a disturbing question: What happens when a prize for peace becomes a weapon against the Jewish state?",
+          "link": "https://www.jns.org/opinion/column/fiamma-nirenstein/cancel-navi-pillays-nobel-peace-prize",
+          "source": "JNS",
+          "author": "Fiamma Nirenstein",
+          "published": "2026-11-15T19:12:16",
+          "scraped_at": "2026-11-15T20:51:28.679411",
+          "guid": "https://www.jns.org/opinion/column/fiamma-nirenstein/cancel-navi-pillays-nobel-peace-prize"
+        },
+        {
+          "title": "Tuvia Tenenbom on his new book, \"Excuse Me, Is This Yours?\"",
+          "description": null,
+          "link": "https://www.jns.org/jns-tv/tuvia-tenenbom-on-his-new-book-excuse-me-is-this-yours",
+          "source": "JNS",
+          "author": "Fleur Hassan-Nahoum",
+          "published": "2026-11-15T07:27:39",
+          "scraped_at": "2026-11-15T15:25:22.702611",
+          "guid": "https://www.jns.org/jns-tv/tuvia-tenenbom-on-his-new-book-excuse-me-is-this-yours"
+        },
+        {
+          "title": "Jewish heirs seek to halt Sotheby’s sale of $180 million Van Gogh",
+          "description": "Descendants of publisher Samuel Fischer say the painting’s 1936 sale resulted from Nazi persecution.",
+          "link": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh",
+          "source": "JNS",
+          "author": "JNS Staff",
+          "published": "2026-11-15T09:46:25",
+          "scraped_at": "2026-11-15T15:25:22.702203",
+          "guid": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh"
+        }
+      ]
+    }
+  },
+  "all_articles": [
+    {
+      "title": "Are religious couples having better sex? Therapists explain",
+      "description": "Studies conducted by American researchers show that married religious people are the only ones eluding the phenomenon referred to as the 'global sex recession.' Is this also true in Israel?",
+      "link": "https://www.haaretz.com/science-and-health/2026-11-20/ty-article-magazine/are-religious-couples-having-better-sex-therapists-explain/000001a1-f71f-d381-ade5-ffffd1eb0000",
+      "source": "Haaretz",
+      "author": "Dani Bar On",
+      "published": "2026-11-20T04:43:41",
+      "scraped_at": "2026-11-20T08:20:31.043238",
+      "guid": "https://www.haaretz.com/science-and-health/2026-11-20/ty-article-magazine/are-religious-couples-having-better-sex-therapists-explain/000001a1-f71f-d381-ade5-ffffd1eb0000"
+    },
+    {
+      "title": "In Gaza, an Olive Harvest Shattered by Genocide - Israeli bombs, bulldozers, and occupation have pushed Gaza’s olive farmers to the brink.",
+      "description": null,
+      "link": "https://jewishcurrents.org/in-gaza-an-olive-harvest-shattered-by-genocide",
+      "source": "Jewish Currents",
+      "author": "Mohanad El-Hemrawi",
+      "published": "2026-11-19T20:35:00",
+      "scraped_at": "2026-11-20T01:03:57.369546",
+      "guid": "https://jewishcurrents.org/in-gaza-an-olive-harvest-shattered-by-genocide"
+    },
+    {
+      "title": "Longtime Ramah Family Gives $5 million to Endow Scholarships at Camp Ramah in California",
+      "description": "The Donna and Spencer Gilbert Foundation’s gift, inspired by Sheryl Sandberg’s scholarship in memory of Dave Goldberg, will support campers every summer. The post Longtime Ramah Family Gives $5 million to Endow Scholarships at Camp Ramah in California appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/community/394375/longtime-ramah-family-gives-5-million-to-endow-scholarships-at-camp-ramah-in-california/",
+      "source": "Jewish Journal",
+      "author": "Benjamin Raziel",
+      "published": "2026-11-19T18:50:29",
+      "scraped_at": "2026-11-20T01:03:50.988982",
+      "guid": "https://jewishjournal.com/?p=394375"
+    },
+    {
+      "title": "A fascinating exhibit details how Caribbean Jews helped the American Revolution — and built a thriving Jewish world",
+      "description": "8 things to know about this nearly forgotten Jewish community, which was once the largest in the New World. -- The post A fascinating exhibit details how Caribbean Jews helped the American Revolution — and built a thriving Jewish world appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/11/19/united-states/a-fascinating-exhibit-details-how-caribbean-jews-helped-the-american-revolution-and-built-a-thriving-jewish-world",
+      "source": "JTA",
+      "author": "Peter Ephross",
+      "published": "2026-11-19T20:11:23",
+      "scraped_at": "2026-11-20T01:03:44.535510",
+      "guid": "https://www.jta.org/?p=1913762"
+    },
+    {
+      "title": "Study finds high cost, lack of awareness about financial aid prevent kids from attending camp",
+      "description": "Nearly 8 in 10 Jewish families who do not have children currently attending Jewish overnight camp cite the high cost as the No. 1 barrier for enrollment. That, as well as the fact that most respondents were unaware of the financial aid opportunities available to them, are the key takeaways from a new Foundation for... Read More The post Study finds high cost, lack of awareness about financial aid prevent kids from attending camp appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/study-finds-high-cost-lack-of-awareness-about-financial-aid-prevent-kids-from-attending-camp/",
+      "source": "eJewish Philanthropy",
+      "author": "Jay Deitcher",
+      "published": "2026-11-20T00:11:35",
+      "scraped_at": "2026-11-20T01:03:42.384858",
+      "guid": "https://ejewishphilanthropy.com/?p=183032"
+    },
+    {
+      "title": "AI matches thousands of Holocaust photos with names at Yad Vashem",
+      "description": "This story was originally published in Haaretz. Viktor Abel, born December 1892. Olga Bacherová, born March 1865. Jackerle Miroslav, born January 1920. All three were Jews who lived in Prague and were murdered in the Holocaust. They&#8217;re among the holocaust victims whose names, but not photos, are present in the database of Holocaust museum Yad [&#8230;]",
+      "link": "https://jweekly.com/2026/11/19/ai-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/",
+      "source": "J. Weekly",
+      "author": "Ofer Aderet",
+      "published": "2026-11-19T20:12:07",
+      "scraped_at": "2026-11-20T01:03:40.122219",
+      "guid": "https://jweekly.com/?p=314011"
+    },
+    {
+      "title": "AI matches thousands of Holocaust photos with names at Yad Vashem",
+      "description": "A Jerusalem yeshiva teacher used AI to find photos for 4,000 victims in Yad Vashem's database, who were originally just names. Yad Vashem said the findings 'of great value,' and that they would verify them",
+      "link": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000",
+      "source": "Haaretz",
+      "author": "Ofer Aderet",
+      "published": "2026-11-19T13:36:02",
+      "scraped_at": "2026-11-19T18:53:45.487869",
+      "guid": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000"
+    },
+    {
+      "title": "Islam expected to surpass Christianity as the world's largest religion by 2035",
+      "description": "Pew Research Center forecasts a global population of 2.57 billion Muslims and 2.52 billion Christians by 2035. While Jews will grow in absolute terms of population, they are projected to decline as a percentage of the global population",
+      "link": "https://www.haaretz.com/jewish/tradition-and-judaism/religion-and-belifes/2026-11-19/ty-article/islam-expected-to-surpass-christianity-as-the-worlds-largest-religion-by-2035/000001a1-f3f3-d175-abf5-fff7a20e0000",
+      "source": "Haaretz",
+      "author": "The Associated Press",
+      "published": "2026-11-19T17:01:03",
+      "scraped_at": "2026-11-19T18:53:45.487694",
+      "guid": "https://www.haaretz.com/jewish/tradition-and-judaism/religion-and-belifes/2026-11-19/ty-article/islam-expected-to-surpass-christianity-as-the-worlds-largest-religion-by-2035/000001a1-f3f3-d175-abf5-fff7a20e0000"
+    },
+    {
+      "title": "Nearly two-thirds of the world's Jews will live in Israel by 2070, Pew projects",
+      "description": "Pew expects Israel's Jewish population to rise from 6.8 million to more than 11 million, while the number of Americans who identify as Jewish by religion falls by 1.2 million",
+      "link": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070-pew-projects/000001a1-f447-d9ff-a7b5-f5efe8bc0000",
+      "source": "Haaretz",
+      "author": "Philissa Cramer",
+      "published": "2026-11-19T17:16:12",
+      "scraped_at": "2026-11-19T18:53:45.487677",
+      "guid": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070-pew-projects/000001a1-f447-d9ff-a7b5-f5efe8bc0000"
+    },
+    {
+      "title": "The day Haim Nahman Bialik was arrested in Tel Aviv. His crime: speaking Russian",
+      "description": "Haim Nahman Bialik, Israel's national poet, was caught off guard in 1925. Now, the minutes of his tongue-in-cheek trial, which was put on by a zealous cadre of Zionists, have been rediscovered",
+      "link": "https://www.haaretz.com/life/2026-11-19/ty-article/.premium/the-day-haim-nahman-bialik-was-arrested-in-tel-aviv-his-crime-speaking-russian/000001a1-f2ff-df5d-afb1-f3ff90d20002",
+      "source": "Haaretz",
+      "author": "Ofer Aderet",
+      "published": "2026-11-19T10:33:50",
+      "scraped_at": "2026-11-19T18:53:45.488098",
+      "guid": "https://www.haaretz.com/life/2026-11-19/ty-article/.premium/the-day-haim-nahman-bialik-was-arrested-in-tel-aviv-his-crime-speaking-russian/000001a1-f2ff-df5d-afb1-f3ff90d20002"
+    },
+    {
+      "title": "The Supreme Court was supposed to save Israeli democracy. What went wrong?",
+      "description": "In his new book, Menachem Mautner argues that Israel's liberal elite helped bring democracy to the brink by relying on the Supreme Court instead of building political and social alliances",
+      "link": "https://www.haaretz.com/life/books/2026-11-19/ty-article-review/.premium/the-supreme-court-was-supposed-to-save-israeli-democracy-what-went-wrong/000001a1-edc2-d381-ade5-efe33bf70000",
+      "source": "Haaretz",
+      "author": "Or Bassok",
+      "published": "2026-11-19T11:42:48",
+      "scraped_at": "2026-11-19T18:53:45.488048",
+      "guid": "https://www.haaretz.com/life/books/2026-11-19/ty-article-review/.premium/the-supreme-court-was-supposed-to-save-israeli-democracy-what-went-wrong/000001a1-edc2-d381-ade5-efe33bf70000"
+    },
+    {
+      "title": "The last Righteous Among the Nations living in Israel saved Jews at age six",
+      "description": "The young Yaroslava Lewicka was sent by her grandfather to smuggle food to Jews in hiding in Złoczów, Poland (now Zolochiv, Ukraine)",
+      "link": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/the-last-righteous-among-the-nations-living-in-israel-saved-jews-at-age-six/000001a1-f446-d3ce-ade3-f67719a80000",
+      "source": "Haaretz",
+      "author": "Ofer Aderet",
+      "published": "2026-11-19T15:36:40",
+      "scraped_at": "2026-11-19T18:53:45.487802",
+      "guid": "https://www.haaretz.com/jewish/2026-11-19/ty-article/.premium/the-last-righteous-among-the-nations-living-in-israel-saved-jews-at-age-six/000001a1-f446-d3ce-ade3-f67719a80000"
+    },
+    {
+      "title": "Anti-Zionism Then and Now: What Changed After the Creation of Israel?",
+      "description": "Anti-Zionism is all the rage. It&#8217;s a cover for those who insist that their opposition to Israel is not antisemitic...",
+      "link": "https://www.algemeiner.com/2026/11/19/anti-zionism-then-now-what-changed-after-creation-israel/",
+      "source": "Algemeiner",
+      "author": "Edward C. Halper",
+      "published": "2026-11-19T16:42:12",
+      "scraped_at": "2026-11-19T18:53:40.962387",
+      "guid": "https://www.algemeiner.com/?p=782990"
+    },
+    {
+      "title": "America’s Jewish population is shrinking as Israel’s is growing, new Pew research shows",
+      "description": "A new Pew Research Center report released Wednesday projects America’s Jewish population will shrink by about 1.2 million between 2020 and 2070. That means the U.S. share of the world’s Jews would fall from 39% to 26%. American Jews have long planned for the future around children who haven’t been born yet. A congregation raises... The post America’s Jewish population is shrinking as Israel’s is growing, new Pew research shows appeared first on The Forward .",
+      "link": "https://forward.com/news/863719/american-jews-dropping-israel-growing-pew/",
+      "source": "The Forward",
+      "author": "Benyamin Cohen",
+      "published": "2026-11-19T13:33:12",
+      "scraped_at": "2026-11-19T18:53:32.076645",
+      "guid": "https://forward.com/?p=863719"
+    },
+    {
+      "title": "Pew: Nearly two-thirds of the world’s Jews will live in Israel by 2070",
+      "description": "This story was originally published in Haaretz. Fewer than half of the world&#8217;s Jews live in Israel today. By 2070, that share will rise to nearly two-thirds, according to a report released Wednesday by the Pew Research Center. Israel&#8217;s Jewish population is projected to grow by 63 percent, from 6.8 million to more than 11 [&#8230;]",
+      "link": "https://jweekly.com/2026/11/19/pew-nearly-two-thirds-of-the-worlds-jews-will-live-in-israel-by-2070/",
+      "source": "J. Weekly",
+      "author": "Philissa Cramer",
+      "published": "2026-11-19T18:22:11",
+      "scraped_at": "2026-11-19T18:53:24.704247",
+      "guid": "https://jweekly.com/?p=314002"
+    },
+    {
+      "title": "From a Global People to a People of Israel",
+      "description": "Today, 46% of world Jewry lives in Israel. In 2070, according to the forecast, 62% will live there. The U.S. share of world Jewry will drop from 39% to 26%, which numerically means 1.2 million fewer people. The post From a Global People to a People of Israel appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/rosnersdomain/394323/from-a-global-people-to-a-people-of-israel/",
+      "source": "Jewish Journal",
+      "author": "Shmuel Rosner",
+      "published": "2026-11-19T09:40:43",
+      "scraped_at": "2026-11-19T09:57:12.936342",
+      "guid": "https://jewishjournal.com/?p=394323"
+    },
+    {
+      "title": "From a Global People to a People of Israel",
+      "description": "Today, 46% of world Jewry lives in Israel. In 2070, according to the forecast, 62% will live there. The U.S. share of world Jewry will drop from 39% to 26%, which numerically means 1.2 million fewer people. The post From a Global People to a People of Israel appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/rosnersdomain/394323/from-a-global-people-to-a-people-of-israel/",
+      "source": "Jewish Journal",
+      "author": "Shmuel Rosner",
+      "published": "2026-11-19T09:40:43",
+      "scraped_at": "2026-11-19T09:57:12.936342",
+      "guid": "https://jewishjournal.com/?p=394323"
+    },
+    {
+      "title": "The Jewish hotel on the Lower East Side that was too good to last",
+      "description": "The Ritz with a Shvitz: The Rise and Fall of the Lower East Side&#8217;s Libby&#8217;s Hotel in Tammany Era New York By Shulamith Z. Berger and Jai Zion State University of New York Press, 240 pages, $27.95 When the Lower East Side was the capital of the Jewish world, the 12-story Libby&#8217;s Hotel, a glorious... The post The Jewish hotel on the Lower East Side that was too good to last appeared first on The Forward .",
+      "link": "https://forward.com/yiddish-world/863506/the-jewish-hotel-on-the-lower-east-side-that-was-too-good-to-last/",
+      "source": "The Forward",
+      "author": "Allen Lewis Rickman",
+      "published": "2026-11-18T20:28:29",
+      "scraped_at": "2026-11-19T01:50:33.060760",
+      "guid": "https://forward.com/?p=863506"
+    },
+    {
+      "title": "Homo erectus persisted in China 200,000 years longer than thought",
+      "description": "Last occurrence of Homo erectus on Asian mainland may be as late as 184,000 years ago, comfortably overlapping with Denisovans",
+      "link": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000",
+      "source": "Haaretz",
+      "author": "Ruth Schuster",
+      "published": "2026-11-18T16:31:34",
+      "scraped_at": "2026-11-18T20:03:48.601511",
+      "guid": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000"
+    },
+    {
+      "title": "Israel to Drive All Global Jewish Population Growth Through 2070, Landmark Pew Study Finds",
+      "description": "Israel is on course to become the engine of virtually all Jewish population growth worldwide, with its Jewish population projected...",
+      "link": "https://www.algemeiner.com/2026/11/18/israel-to-drive-all-global-jewish-population-growth-through-2070-landmark-pew-study-finds/",
+      "source": "Algemeiner",
+      "author": "Gabriel Ostrovsky",
+      "published": "2026-11-18T19:27:26",
+      "scraped_at": "2026-11-18T20:03:44.135993",
+      "guid": "https://www.algemeiner.com/?p=782943"
+    },
+    {
+      "title": "By 2070, Pew projects Muslims will surpass Christians globally, 62% of Jews will live in Israel",
+      "description": "“There’s still a robust Jewish community in the United States,” Alan Cooperman, director of religion research at Pew Research Center, told JNS.",
+      "link": "https://www.jns.org/news/u-s-news/by-2070-pew-projects-muslims-will-surpass-christians-globally-62-of-jews-will-live-in-israel",
+      "source": "JNS",
+      "author": "Menachem Wecker",
+      "published": "2026-11-18T15:00:00",
+      "scraped_at": "2026-11-18T20:03:41.663293",
+      "guid": "https://www.jns.org/news/u-s-news/by-2070-pew-projects-muslims-will-surpass-christians-globally-62-of-jews-will-live-in-israel"
+    },
+    {
+      "title": "Jewish studies funders: Don’t abandon the university",
+      "description": "I read Mika Ahuvia’s recent essay in eJewishPhilanthropy (“Jewish studies funders: If not the university, then where?” Nov. 5) with both compassion and alarm . Her account of isolation, institutional failure and the personal cost of supporting Jewish students resonated deeply with me. As a Jewish studies scholar working in the Netherlands, I recognize the... Read More The post Jewish studies funders: Don’t abandon the university appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/jewish-studies-funders-dont-abandon-the-university/",
+      "source": "eJewish Philanthropy",
+      "author": "Contributing Author",
+      "published": "2026-11-18T10:15:00",
+      "scraped_at": "2026-11-18T20:03:30.063923",
+      "guid": "https://ejewishphilanthropy.com/?p=182909"
+    },
+    {
+      "title": "How Stanley Kubrick created a Jewish universe without Jews",
+      "description": "This story was originally published in the Forward. Click here to get the Forward&#8217;s free email newsletters delivered to your inbox. Recently, while watching the new 4K transfer of &#8220;Lolita&#8221; in Criterion’s enormous new Stanley Kubrick set, I found myself lingering over an exchange near the start of the film. Humbert Humbert (James Mason) has [&#8230;]",
+      "link": "https://jweekly.com/2026/11/18/how-stanley-kubrick-created-a-jewish-universe-without-jews/",
+      "source": "J. Weekly",
+      "author": "A.J. Goldmann",
+      "published": "2026-11-18T17:49:02",
+      "scraped_at": "2026-11-18T20:03:27.712908",
+      "guid": "https://jweekly.com/?p=313956"
+    },
+    {
+      "title": "The architecture of a secular myth",
+      "description": "French philosopher Georges Sorel’s theories of violence and their insights into the modern-day anti-Israel movement.",
+      "link": "https://www.jns.org/opinion/erik-arnold/the-architecture-of-a-secular-myth",
+      "source": "JNS",
+      "author": "Erik Arnold",
+      "published": "2026-11-18T19:45:17",
+      "scraped_at": "2026-11-18T20:03:41.662435",
+      "guid": "https://www.jns.org/opinion/erik-arnold/the-architecture-of-a-secular-myth"
+    },
+    {
+      "title": "Chaim Soutine's life belongs to Jewish history. But do his paintings?",
+      "description": "The Jewish painter rose from a Belarusian shtetl to the School of Paris, then died hiding from the Nazis in 1943. His first English-language biographer explains why artists from New York to Tel Aviv still study his work",
+      "link": "https://www.haaretz.com/life/books/2026-11-18/ty-article-magazine/.premium/chaim-soutines-life-belongs-to-jewish-history-but-do-his-paintings/0000019e-7d4f-dc9e-adfe-fdcf2cea0000",
+      "source": "Haaretz",
+      "author": "Etan Nechin",
+      "published": "2026-11-18T15:46:15",
+      "scraped_at": "2026-11-18T20:03:48.601545",
+      "guid": "https://www.haaretz.com/life/books/2026-11-18/ty-article-magazine/.premium/chaim-soutines-life-belongs-to-jewish-history-but-do-his-paintings/0000019e-7d4f-dc9e-adfe-fdcf2cea0000"
+    },
+    {
+      "title": "Homo erectus persisted in China 200,000 years longer than thought",
+      "description": "Last occurrence of Homo erectus on Asian mainland may be as late as 184,000 years ago, comfortably overlapping with Denisovans",
+      "link": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000",
+      "source": "Haaretz",
+      "author": "Ruth Schuster",
+      "published": "2026-11-18T16:31:34",
+      "scraped_at": "2026-11-18T20:03:48.601511",
+      "guid": "https://www.haaretz.com/archaeology/2026-11-18/ty-article/homo-erectus-persisted-in-china-200-000-years-longer-than-thought/000001a1-e46a-d365-a3fd-fffb78750000"
+    },
+    {
+      "title": "The Media Is Increasingly Using ‘Occupied West Bank’ as the Default Descriptor",
+      "description": "The term &#8220;occupied West Bank&#8221; is increasingly being used in news articles about the disputed territory, according to research conducted...",
+      "link": "https://www.algemeiner.com/2026/11/17/media-increasingly-using-occupied-west-bank-default-descriptor/",
+      "source": "Algemeiner",
+      "author": "Sharon Levy",
+      "published": "2026-11-17T18:41:27",
+      "scraped_at": "2026-11-17T19:39:02.039568",
+      "guid": "https://www.algemeiner.com/?p=782865"
+    },
+    {
+      "title": "Twenty-nine percent of French Jews have removed mezuzahs, poll finds",
+      "description": "Nearly two-thirds have considered leaving France, up from 52% in 2024, as more Jews perceive the far left as a threat.",
+      "link": "https://www.jns.org/news/antisemitism/twenty-nine-percent-of-french-jews-have-removed-mezuzahs-poll-finds",
+      "source": "JNS",
+      "author": "Canaan Lidor",
+      "published": "2026-11-17T11:44:28",
+      "scraped_at": "2026-11-17T19:38:59.782616",
+      "guid": "https://www.jns.org/news/antisemitism/twenty-nine-percent-of-french-jews-have-removed-mezuzahs-poll-finds"
+    },
+    {
+      "title": "Israel ties for second in physical AI startups, AWS study finds",
+      "description": "Israel is tied with Japan for second place among 20 countries surveyed for the share of startups developing physical artificial intelligence, according to an Amazon Web Services (AWS) study published in October and reported by CTech on Monday. The study found that 21% of Israeli startups are active in the field, behind Germany at 24% but ahead of the United States at 20%. Physical AI enables machines such as robots, drones and autonomous vehicles to perceive and interact with their surroundings. The study surveyed 4,420 startups, including 663 developing physical AI technology. Despite the sector's growth, 70% of developers worldwide said slow customer adoption was limiting their expansion.",
+      "link": "https://www.jns.org/news/israel-news/israel-ties-for-second-in-physical-ai-startups-aws-study-finds",
+      "source": "JNS",
+      "author": "JNS Staff",
+      "published": "2026-11-17T12:03:41",
+      "scraped_at": "2026-11-17T19:38:59.782560",
+      "guid": "https://www.jns.org/news/israel-news/israel-ties-for-second-in-physical-ai-startups-aws-study-finds"
+    },
+    {
+      "title": "Those who sport Nazi tattoos often revel in what they see as deniability of ambiguous symbols, experts say",
+      "description": "“The heritage framing is, in fact, part of the symbol’s appeal to extremists,” Karen Sutton of Touro College told JNS.",
+      "link": "https://www.jns.org/news/u-s-news/those-who-sport-nazi-tattoos-often-revel-in-what-they-see-as-deniability-of-ambiguous-symbols-experts-say",
+      "source": "JNS",
+      "author": "Jessica Russak-Hoffman",
+      "published": "2026-11-17T18:49:06",
+      "scraped_at": "2026-11-17T19:38:59.781771",
+      "guid": "https://www.jns.org/news/u-s-news/those-who-sport-nazi-tattoos-often-revel-in-what-they-see-as-deniability-of-ambiguous-symbols-experts-say"
+    },
+    {
+      "title": "Yiddish educator Asya Schulman to receive ‘Dreaming in Yiddish’ Award",
+      "description": "Asya Vaisman Schulman, a scholar of Yiddish pedagogy and language acquisition, has been selected as this year’s recipient of the prestigious Adrienne Cooper Dreaming in Yiddish Award. Schulman is also a Yiddish instructor, singer-songwriter, dance leader and translator of Yiddish poetry. The ceremony will take place at the Dreaming in Yiddish Award Concert during the... The post Yiddish educator Asya Schulman to receive &#8216;Dreaming in Yiddish&#8217; Award appeared first on The Forward .",
+      "link": "https://forward.com/yiddish-world/863356/yiddish-educator-asya-schulman-to-receive-dreaming-in-yiddish-award/",
+      "source": "The Forward",
+      "author": "Forverts Staff",
+      "published": "2026-11-17T17:23:26",
+      "scraped_at": "2026-11-17T19:38:53.309634",
+      "guid": "https://forward.com/?p=863356"
+    },
+    {
+      "title": "In 1934, Ben-Gurion warned of spreading antisemitism and pointed to the Negev as the answer",
+      "description": "\"If we find the water, we will find the land.\"",
+      "link": "https://www.jns.org/news/israel-news/in-1934-ben-gurion-warned-of-spreading-antisemitism-and-pointed-to-the-negev-as-the-answer",
+      "source": "JNS",
+      "author": "David Israel/TPS-IL",
+      "published": "2026-11-17T05:01:00",
+      "scraped_at": "2026-11-17T10:17:44.450934",
+      "guid": "https://www.jns.org/news/israel-news/in-1934-ben-gurion-warned-of-spreading-antisemitism-and-pointed-to-the-negev-as-the-answer"
+    },
+    {
+      "title": "The conversation Palestinian parents dread: Explaining settler violence to a child",
+      "description": "A video of his son celebrating Palestinian heritage alongside footage of settlers attacking olive pickers forced one father to confront a question he had hoped to postpone: How do you teach a child to love a culture others are trying to uproot?",
+      "link": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/a-conversation-palestinian-parents-dread-explaining-settler-violence-to-a-child/000001a1-e5ee-d848-abeb-ffee2ab50000",
+      "source": "Haaretz",
+      "author": "Tamer Nafar",
+      "published": "2026-11-16T22:13:36",
+      "scraped_at": "2026-11-17T01:40:19.390890",
+      "guid": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/a-conversation-palestinian-parents-dread-explaining-settler-violence-to-a-child/000001a1-e5ee-d848-abeb-ffee2ab50000"
+    },
+    {
+      "title": "AJU’s Ziegler School to Launch Dual-Degree Model for Future Rabbis",
+      "description": "The curriculum will also address contemporary challenges facing Jewish communities, including antisemitism and the responsible use of artificial intelligence and digital media. The post AJU’s Ziegler School to Launch Dual-Degree Model for Future Rabbis appeared first on Jewish Journal .",
+      "link": "https://jewishjournal.com/community/394260/ajus-ziegler-school-to-launch-dual-degree-model-for-future-rabbis/",
+      "source": "Jewish Journal",
+      "author": "Ryan Torok",
+      "published": "2026-11-16T19:49:03",
+      "scraped_at": "2026-11-17T01:40:09.556996",
+      "guid": "https://jewishjournal.com/?p=394260"
+    },
+    {
+      "title": "How Stanley Kubrick created a Jewish universe without Jews",
+      "description": "Recently, while watching the new 4K transfer of Lolita in Criterion’s enormous new Stanley Kubrick set, I found myself lingering over an exchange near the start of the film. Humbert Humbert (James Mason) has come to murder Clare Quilty (Peter Sellers), who greets the revolver pointed at the lapel of his pajama with an objection... The post How Stanley Kubrick created a Jewish universe without Jews appeared first on The Forward .",
+      "link": "https://forward.com/culture/film-tv/863080/stanley-kubrick-jewish-director-criterion-boxset-lolita-clockwork-strangelove/",
+      "source": "The Forward",
+      "author": "A.J. Goldmann",
+      "published": "2026-11-16T18:53:15",
+      "scraped_at": "2026-11-17T01:40:05.179646",
+      "guid": "https://forward.com/?p=863080"
+    },
+    {
+      "title": "University of Haifa gets $8.8 million grant to establish Israel’s first national suicide-care training center",
+      "description": "The University of Haifa has established Israel’s first national center dedicated to suicide care training, supported by an $8.8 million, five-year grant from Overlake Fund. The pioneering initiative aims to transform suicide prevention and care across Israel, equipping thousands of professionals with the skills and resources to support people in crisis, establishing national standards of care and helping build a stronger, more coordinated mental-health response at a time of unprecedented need. The National Training Center for Suicide Care comes amid growing concerns about the long-term psychological impact of the Hamas-led terrorist attacks in southern Israel on Oct. 7, 2023, and the ensuing war. Research conducted by University of Haifa professor Yossi Levi-Belz and colleagues at Columbia University found that probable post-traumatic stress disorder (PTSD) among Israeli adults nearly doubled in the month following the attacks, rising from 16.2% to 29.8%. Rates of probable depression increased from 31.3% to 44.8%, while probable anxiety rose from 24.9% to 42.7%. Although Israel’s suicide rate has not increased, subsequent research has identified rising suicidal thoughts among certain high-risk populations, particularly reserve-duty combatants, underscoring the urgent need to strengthen the country’s suicide prevention and treatment infrastructure. Over its first five years, the center aims to train approximately 4,500 mental-health professionals and frontline personnel, while reaching an additional 12,000 community members through programs designed to help identify individuals at risk and connect them with appropriate care. “Israel is facing a profound mental health challenge, and the years ahead will be critical,\" said professor Yossi Levi-Belz, Founding Academic Director of the National Training Center for Suicide Care and Head of the University of Haifa’s Lior Tsfaty Center for Suicide and Mental Pain Studies. \"We have an opportunity and a responsibility to fundamentally transform how suicide care is understood, taught, and delivered across the country. By equipping professionals with the right skills, establishing consistent standards, and strengthening coordination across our healthcare system, we can ensure that more people receive the support they need at their most vulnerable moments and ultimately help save lives.” At the heart of the center will be an advanced simulation facility incorporating artificial intelligence, virtual reality and realistic clinical scenarios. Using AI-powered simulators developed and tested by University of Haifa researchers, mental-health professionals will be able to practice conversations with simulated patients experiencing suicidal crises, receiving immediate feedback to strengthen their assessment and intervention skills. The technology will be complemented by virtual-reality scenarios and sessions involving professional actors portraying patients, while a cloud-based platform will extend training opportunities to professionals across Israel. The approach builds on University of Haifa research, including a 2025 study published in The Journal of Clinical Psychiatry that found significant improvements in mental-health professionals’ confidence in assessing suicide risk after training with an AI-powered simulator. Beyond its technological innovations, the center will work to address longstanding gaps in Israel’s mental-health system, including shortages of specially trained professionals, inconsistent clinical practices, and inadequate coordination between healthcare and community services. “We are deeply grateful to Overlake Fund for its partnership in establishing the National Training Center for Suicide Care,” said University of Haifa president Gur Alroey. “This gift reflects a shared commitment to one of the most urgent challenges facing Israeli society, and it marks the growing role of the University of Haifa in shaping Israel’s future. Together, we are building the professional expertise needed to strengthen suicide prevention and improve care for people at risk nationwide.” The center’s programs will target psychologists, psychiatrists, social workers, physicians, nurses, and other frontline professionals, with an initial focus on northern and southern Israel. The center will also collaborate with national institutions, including the Ministry of Health’s Suicide Prevention Unit, the Ministry of Defense Rehabilitation Division, the IDF Mental Health Department and Israel’s national health funds. Community-based training will further equip teachers, youth leaders and other individuals who frequently encounter people in distress with the skills to recognize warning signs and connect those at risk with appropriate support. Building on the University of Haifa’s established expertise in suicide prevention and mental health research, the center will develop approximately 80 training programs and partnerships with 15 major organizations over its first five years. Its activities will be introduced in phases, with the broader goal of establishing a coordinated national framework for suicide care that strengthens professional training, improves access to specialized support and helps save lives.",
+      "link": "https://www.jns.org/wire/university-of-haifa/university-of-haifa-gets-8-8-million-grant-to-establish-israels-first-national-suicide-care-training-center",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-11-16T22:35:21",
+      "scraped_at": "2026-11-17T01:40:11.924012",
+      "guid": "https://www.jns.org/wire/university-of-haifa/university-of-haifa-gets-8-8-million-grant-to-establish-israels-first-national-suicide-care-training-center"
+    },
+    {
+      "title": "New books: Zionism, cookbook design, Holocaust memory and more",
+      "description": "Books coverage is supported by a generous grant from The Milton and Sophie Meyer Fund. This is J.’s semi-regular column featuring new releases across genres by Jewish authors in Northern California. Writers have been busy creating new works about unique cookbooks, family history and neuroscience. You can find these books online or at your local [&#8230;]",
+      "link": "https://jweekly.com/2026/11/16/new-books-zionism-cookbook-design-holocaust-memory-and-more/",
+      "source": "J. Weekly",
+      "author": "Rahel Knight",
+      "published": "2026-11-17T00:50:26",
+      "scraped_at": "2026-11-17T01:39:57.541525",
+      "guid": "https://jweekly.com/?p=313858"
+    },
+    {
+      "title": "Suddenly, gorillas are exhibiting sophisticated cooperation",
+      "description": "Half sisters Lisha and Amelia collaborated efficiently to rip down a delectable branch too high for either to reach alone. How did they do it? Two Israeli researchers have ideas",
+      "link": "https://www.haaretz.com/science-and-health/2026-11-16/ty-article-magazine/suddenly-gorillas-are-exhibiting-sophisticated-cooperation/000001a1-bbd5-dda4-adb7-bbdd9afd0000",
+      "source": "Haaretz",
+      "author": "Ruth Schuster",
+      "published": "2026-11-16T04:00:36",
+      "scraped_at": "2026-11-16T18:00:28.806643",
+      "guid": "https://www.haaretz.com/science-and-health/2026-11-16/ty-article-magazine/suddenly-gorillas-are-exhibiting-sophisticated-cooperation/000001a1-bbd5-dda4-adb7-bbdd9afd0000"
+    },
+    {
+      "title": "Who gets to decide what Zionism truly means?",
+      "description": "As Israeli politicians brand their rivals anti-Zionist, a new book returns to a time when a Jewish state was far from inevitable, and competing visions of Jewish life offered alternatives that suddenly feel relevant again",
+      "link": "https://www.haaretz.com/life/books/2026-11-16/ty-article-magazine/.premium/who-gets-to-decide-what-zionism-truly-means/000001a1-e397-d365-a3fd-fbf730bf0000",
+      "source": "Haaretz",
+      "author": "Ofer Aderet",
+      "published": "2026-11-16T10:57:17",
+      "scraped_at": "2026-11-16T18:00:28.806407",
+      "guid": "https://www.haaretz.com/life/books/2026-11-16/ty-article-magazine/.premium/who-gets-to-decide-what-zionism-truly-means/000001a1-e397-d365-a3fd-fbf730bf0000"
+    },
+    {
+      "title": "Danny Rubinstein, veteran journalist and former Haaretz Arab affairs commentator, dies at 88",
+      "description": "A Sokolov Prize laureate, Rubinstein covered Palestinian society and Israeli settlements for decades, worked at Haaretz from 1990 to 2008 and wrote books on the Israeli-Palestinian conflict",
+      "link": "https://www.haaretz.com/israel-news/2026-11-16/ty-article/.premium/veteran-journalist-and-former-haaretz-commentator-danny-rubinstein-dies-at-88/000001a1-e471-d278-a9bf-e4ffc4230000",
+      "source": "Haaretz",
+      "author": "Ofer Aderet",
+      "published": "2026-11-16T15:00:48",
+      "scraped_at": "2026-11-16T18:00:28.806319",
+      "guid": "https://www.haaretz.com/israel-news/2026-11-16/ty-article/.premium/veteran-journalist-and-former-haaretz-commentator-danny-rubinstein-dies-at-88/000001a1-e471-d278-a9bf-e4ffc4230000"
+    },
+    {
+      "title": "Maryland Jewish day-school educator wins national Milken award",
+      "description": "“Outstanding educators like Cassandra Batson have the most important job in our country,” said Lowell Milken, co-founder and chairman of the Milken Family Foundation.",
+      "link": "https://www.jns.org/news/u-s-news/maryland-jewish-day-school-educator-wins-national-milken-award",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-11-16T16:12:07",
+      "scraped_at": "2026-11-16T18:00:19.645372",
+      "guid": "https://www.jns.org/news/u-s-news/maryland-jewish-day-school-educator-wins-national-milken-award"
+    },
+    {
+      "title": "Everyone wants to be Sephardic. I discovered I already was.",
+      "description": "A teen's journey into family history opened a window onto the diversity of Jewish identities in America. -- The post Everyone wants to be Sephardic. I discovered I already was. appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/11/16/ideas/everyone-wants-to-be-sephardic-i-discovered-i-already-was",
+      "source": "JTA",
+      "author": "Rebecca Ucuzoglu Guberman",
+      "published": "2026-11-16T15:00:00",
+      "scraped_at": "2026-11-16T18:00:10.235418",
+      "guid": "https://www.jta.org/?p=1913297"
+    },
+    {
+      "title": "A wartime hack becomes an educational tool: meet Yuvi, the AI platform that encourages children to think",
+      "description": "Created by an army reservist, YuviLab has grown into a platform reaching tens of thousands of children and bringing personalized AI learning into Israeli classrooms. -- The post A wartime hack becomes an educational tool: meet Yuvi, the AI platform that encourages children to think appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/11/16/israel/a-wartime-hack-becomes-an-educational-tool-meet-yuvi-the-ai-platform-that-encourages-children-to-think",
+      "source": "JTA",
+      "author": "Deborah Danan",
+      "published": "2026-11-16T15:11:45",
+      "scraped_at": "2026-11-16T18:00:10.235383",
+      "guid": "https://www.jta.org/?p=1913452"
+    },
+    {
+      "title": "Many voices, one assembly: What rabbis can model for a divided Jewish world",
+      "description": "During the COVID-19 pandemic, after the Oct. 7 attacks and through years of rising antisemitism, rabbis have carried our communities through all of it. Most of the time, we’re the ones striving to hold everyone else. This week, hundreds of my Conservative/Masorti colleagues from around the world are gathering in Philadelphia to do something different:... Read More The post Many voices, one assembly: What rabbis can model for a divided Jewish world appeared first on eJewishPhilanthropy .",
+      "link": "https://ejewishphilanthropy.com/many-voices-one-assembly-what-rabbis-can-model-for-a-divided-jewish-world/",
+      "source": "eJewish Philanthropy",
+      "author": "Rabbi Andrew Markowitz",
+      "published": "2026-11-16T10:37:00",
+      "scraped_at": "2026-11-16T18:00:08.003225",
+      "guid": "https://ejewishphilanthropy.com/?p=182771"
+    },
+    {
+      "title": "Returned hostage Alon Ohel performs at New York gala for Israel's NATAL",
+      "description": "American Friends of NATAL's \"Communities of Hope\" gala raises support for trauma care in Israel, where post-traumatic stress rates have nearly doubled since Oct. 7, 2023.",
+      "link": "https://www.jns.org/wire/american-friends-of-natal/returned-hostage-alon-ohel-and-ilay-david-take-center-stage-at-new-york-gala-for-israels-natal",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-11-15T16:28:47",
+      "scraped_at": "2026-11-15T20:51:28.679474",
+      "guid": "https://www.jns.org/wire/american-friends-of-natal/returned-hostage-alon-ohel-and-ilay-david-take-center-stage-at-new-york-gala-for-israels-natal"
+    },
+    {
+      "title": "US and Israeli defense chiefs to keynote MirYam Institute briefings in New York and Florida",
+      "description": "Former Israeli Defense Minister Yoav Gallant, retired U.S. Gen. Erik Kurilla and former Israeli Ambassador Michael Oren will discuss the challenges facing Israel and the future of U.S.-Israel relations",
+      "link": "https://www.jns.org/promo/u-s-and-israeli-defense-chiefs-to-keynote-miryam-institute-briefings-in-new-york-and-florida",
+      "source": "JNS",
+      "author": null,
+      "published": "2026-11-15T16:39:27",
+      "scraped_at": "2026-11-15T20:51:28.679445",
+      "guid": "https://www.jns.org/promo/u-s-and-israeli-defense-chiefs-to-keynote-miryam-institute-briefings-in-new-york-and-florida"
+    },
+    {
+      "title": "Cancel Navi Pillay’s Nobel Peace Prize",
+      "description": "The former U.N. human rights chief’s accusations against Israel raise a disturbing question: What happens when a prize for peace becomes a weapon against the Jewish state?",
+      "link": "https://www.jns.org/opinion/column/fiamma-nirenstein/cancel-navi-pillays-nobel-peace-prize",
+      "source": "JNS",
+      "author": "Fiamma Nirenstein",
+      "published": "2026-11-15T19:12:16",
+      "scraped_at": "2026-11-15T20:51:28.679411",
+      "guid": "https://www.jns.org/opinion/column/fiamma-nirenstein/cancel-navi-pillays-nobel-peace-prize"
+    },
+    {
+      "title": "Report: Israel abducted Iranian generals in secret quest for airman Ron Arad missing since 1986",
+      "description": "A New York Times probe found that the Mossad abducted two Iranian generals in an effort to uncover the fate of airman Ron Arad, who disappeared in 1986",
+      "link": "https://www.haaretz.com/middle-east-news/iran/2026-11-15/ty-article/report-israel-abducted-iranian-generals-in-secret-quest-for-missing-airman/000001a1-df0f-d1ce-a9a3-ff1fd6c90000",
+      "source": "Haaretz",
+      "author": "Haaretz",
+      "published": "2026-11-15T12:26:22",
+      "scraped_at": "2026-11-15T15:25:29.501749",
+      "guid": "https://www.haaretz.com/middle-east-news/iran/2026-11-15/ty-article/report-israel-abducted-iranian-generals-in-secret-quest-for-missing-airman/000001a1-df0f-d1ce-a9a3-ff1fd6c90000"
+    },
+    {
+      "title": "Tuvia Tenenbom on his new book, \"Excuse Me, Is This Yours?\"",
+      "description": null,
+      "link": "https://www.jns.org/jns-tv/tuvia-tenenbom-on-his-new-book-excuse-me-is-this-yours",
+      "source": "JNS",
+      "author": "Fleur Hassan-Nahoum",
+      "published": "2026-11-15T07:27:39",
+      "scraped_at": "2026-11-15T15:25:22.702611",
+      "guid": "https://www.jns.org/jns-tv/tuvia-tenenbom-on-his-new-book-excuse-me-is-this-yours"
+    },
+    {
+      "title": "Jewish heirs seek to halt Sotheby’s sale of $180 million Van Gogh",
+      "description": "Descendants of publisher Samuel Fischer say the painting’s 1936 sale resulted from Nazi persecution.",
+      "link": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh",
+      "source": "JNS",
+      "author": "JNS Staff",
+      "published": "2026-11-15T09:46:25",
+      "scraped_at": "2026-11-15T15:25:22.702203",
+      "guid": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh"
+    },
+    {
+      "title": "Netanyahu’s son calls dad’s opponents ‘saboteurs’ in book to be distributed by Simon & Schuster",
+      "description": "(JTA) — Simon &#38; Schuster will distribute a new book by Israeli Prime Minister Benjamin Netanyahu’s son, which says that foreign and domestic Israeli enemies coordinated to unseat his father. Yair Netanyahu, a 35-year-old political activist, has authored “Two-Front War: Inside Israel’s Fight for Survival — Against Foreign Enemies and Domestic Saboteurs.” The book is... The post Netanyahu’s son calls dad’s opponents ‘saboteurs’ in book to be distributed by Simon & Schuster appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/862864/netanyahus-son-calls-dads-opponents-saboteurs-in-book-to-be-distributed-by-simon-schuster/",
+      "source": "The Forward",
+      "author": "Shira Li Bartov",
+      "published": "2026-11-15T12:59:51",
+      "scraped_at": "2026-11-15T15:25:16.105903",
+      "guid": "https://forward.com/?p=862864"
+    },
+    {
+      "title": "When a Jewish prisoner died in Ohio in 1918, four fellow inmates left the penitentiary in civilian clothes to ensure he got a proper burial",
+      "description": "Jack Nast wanted to be buried in a Jewish cemetery. He died in April 1918 while incarcerated at the Ohio Penitentiary in Columbus. Little is known about the circumstances that brought him there, but another prisoner, Morris Hess, preserved an account of his final days. As he lay ill, Nast cried out that he was... The post When a Jewish prisoner died in Ohio in 1918, four fellow inmates left the penitentiary in civilian clothes to ensure he got a proper burial appeared first on The Forward .",
+      "link": "https://forward.com/news/862927/ohio-penitentiary-jewish-prisoners/",
+      "source": "The Forward",
+      "author": "Austin Albanese",
+      "published": "2026-11-15T15:10:50",
+      "scraped_at": "2026-11-15T15:25:16.105811",
+      "guid": "https://forward.com/?p=862927"
+    },
+    {
+      "title": "This law professor wants to build a Jewish consensus in an age of deep polarization",
+      "description": "Roberta Rosenthal Kwall makes the case for a robust Jewish center. -- The post This law professor wants to build a Jewish consensus in an age of deep polarization appeared first on Jewish Telegraphic Agency .",
+      "link": "https://www.jta.org/2026/11/15/ideas/this-law-professor-wants-to-build-a-jewish-consensus-in-an-age-of-deep-polarization",
+      "source": "JTA",
+      "author": "Andrew Silow-Carroll",
+      "published": "2026-11-15T11:45:00",
+      "scraped_at": "2026-11-15T15:25:13.466512",
+      "guid": "https://www.jta.org/?p=1913332"
+    },
+    {
+      "title": "How Islam is reshaping Europe and fueling the far right, according to an Israeli scholar",
+      "description": "Dr. Dina Lisnyansky studies the rise of Islam in the West and observes Europe gradually changing. As opposition grows and the far right gains ground, she identifies an emerging synthesis of Muslim and European values",
+      "link": "https://www.haaretz.com/world-news/europe/2026-11-14/ty-article-magazine/.highlight/how-islam-is-reshaping-europe-and-fueling-the-far-right/000001a1-d935-ddc9-abb7-ddf70d2a0000",
+      "source": "Haaretz",
+      "author": "Ayelett Shani",
+      "published": "2026-11-14T09:56:20",
+      "scraped_at": "2026-11-14T15:37:01.672242",
+      "guid": "https://www.haaretz.com/world-news/europe/2026-11-14/ty-article-magazine/.highlight/how-islam-is-reshaping-europe-and-fueling-the-far-right/000001a1-d935-ddc9-abb7-ddf70d2a0000"
+    },
+    {
+      "title": "'The Singing Rabbi' played packed bars in the West Village. Women say he abused them as girls",
+      "description": "Rabbi Shlomo Carlebach wrote melodies still sung in synagogues around the world. A new documentary revisits his musical legacy and examines allegations he sexually abused girls",
+      "link": "https://www.haaretz.com/us-news/2026-11-13/ty-article-magazine/.premium/the-tainted-legacy-of-the-singing-rabbi/000001a1-d697-ddc9-abb7-dfd78c9b0000",
+      "source": "Haaretz",
+      "author": "Etan Nechin",
+      "published": "2026-11-13T20:53:10",
+      "scraped_at": "2026-11-14T01:19:05.569380",
+      "guid": "https://www.haaretz.com/us-news/2026-11-13/ty-article-magazine/.premium/the-tainted-legacy-of-the-singing-rabbi/000001a1-d697-ddc9-abb7-dfd78c9b0000"
+    },
+    {
+      "title": "Were Leopold and Loeb inspired by Nietzsche, or Jewish self-loathing?",
+      "description": "Any production of Patrick Hamilton’s popular thriller Rope, like any game of Clue, can be reduced to props, setting and culprits. The central prop is a large chest, containing a freshly-murdered body. The setting can vary: Mayfair in Hamilton’s 1929 original, Manhattan in Alfred Hitchcock’s 1948 screen adaptation starring Jimmy Stewart. The names of the... The post Were Leopold and Loeb inspired by Nietzsche, or Jewish self-loathing? appeared first on The Forward .",
+      "link": "https://forward.com/culture/theater/862481/rope-gordon-greenberg-leopold-and-loeb-jewish-play/",
+      "source": "The Forward",
+      "author": "PJ Grisar",
+      "published": "2026-11-13T15:00:06",
+      "scraped_at": "2026-11-13T20:47:37.563087",
+      "guid": "https://forward.com/?p=862481"
+    },
+    {
+      "title": "Rock legend Steven Van Zandt’s new gig: Holocaust education",
+      "description": "(JTA) — Steven Van Zandt is worried about the Jews. “There is that pre-Holocaust vibe,” the Rock and Roll Hall of Famer told the Jewish Telegraphic Agency recently about what he sees on social media, where he is a prolific user. “They spread lies around year after year after year, and if you say something... The post Rock legend Steven Van Zandt’s new gig: Holocaust education appeared first on The Forward .",
+      "link": "https://forward.com/fast-forward/862711/rock-legend-steven-van-zandts-new-gig-holocaust-education/",
+      "source": "The Forward",
+      "author": "Andrew Lapin",
+      "published": "2026-11-13T15:37:19",
+      "scraped_at": "2026-11-13T20:47:37.563051",
+      "guid": "https://forward.com/?p=862711"
+    },
+    {
+      "title": "Documentary reveals composer Dmitri Shostakovich’s empathy for the Jews",
+      "description": "אין רוסלאַנד איז לעצטנס אַרויס אַ דאָקומענטאַר רעזשיסירט פֿון גריגאָרי אילוגדין, מיטן נאָמען „DSCH: סימפֿאָניע נומער 13‟, וועגן דעם וועלט־באַרימטן קאָמפּאָזיטאָר דמיטרי שאָסטאַקאָוויטש און די ייִדן. כאָטש ער איז נישט געווען קיין ייִד, האָט ער געשאַפֿן מוזיק פֿאַר ייִדישע לידער און געווידמעט זײַן 13טער סימפֿאָניע דעם חורבן פֿון די ייִדן. מיט דער אַברעוויאַטור DSCH, וואָס... The post Documentary reveals composer Dmitri Shostakovich&#8217;s empathy for the Jews appeared first on The Forward .",
+      "link": "https://forward.com/yiddish/862681/documentary-reveals-composer-dmitri-shostakovichs-empathy-for-the-jews/",
+      "source": "The Forward",
+      "author": "יואל מאַטוועיעוו",
+      "published": "2026-11-13T14:47:28",
+      "scraped_at": "2026-11-13T20:47:37.563124",
+      "guid": "https://forward.com/?p=862681"
+    }
+  ]
 }
